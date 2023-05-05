@@ -1,5 +1,6 @@
 academy-api.tiktok.com
 account.tiktok.com
+accounts.scm-us.tiktok.com
 activity-va.tiktok.com
 activity.tiktok.com
 activity.us.tiktok.com
@@ -29,6 +30,7 @@ api-pns.us.tiktok.com
 api-useast2a.tiktok.com
 api.tiktok.com
 api.us.tiktok.com
+api3-core-n-useast1a.url4367.notifications.tiktok.com
 artist.tiktok.com
 artists.tiktok.com
 autodiscover.tiktok.com
@@ -39,6 +41,7 @@ business-api.tiktok.com
 business-sso.tiktok.com
 business-sso.us.tiktok.com
 business-tips.tiktok.com
+business-useast2a.tiktok.com
 business-va.tiktok.com
 business.tiktok.com
 careers.tiktok.com
@@ -93,6 +96,8 @@ lf0-ad-ba-private-va.tiktok.com
 lf0-feedback-private-va.tiktok.com
 library.tiktok.com
 link.e.tiktok.com
+link.i.account.tiktok.com
+link.i.service.tiktok.com
 lite.tiktok.com
 live-backstage.tiktok.com
 live.tiktok.com
@@ -118,10 +123,13 @@ mssdk-i18n.tiktok.com
 mssdk-sg.tiktok.com
 mssdk-va.tiktok.com
 mssdk.us.tiktok.com
+mtr-test-v3-eu-west-1.tiktok.com
 music.tiktok.com
 musician.tiktok.com
+mx1.tiktok.com
 mx2.tiktok.com
 mx3.tiktok.com
+new-temp-gcp.tiktok.com
 newsroom.tiktok.com
 newsroom.us.tiktok.com
 notifications.tiktok.com
@@ -129,12 +137,14 @@ now.tiktok.com
 o1.ptr3703.tiktok.com
 o13.ptr2902.service.tiktok.com
 o14.ptr1445.account.tiktok.com
+o15.ptr425.account.tiktok.com
 o16.ptr9230.service.tiktok.com
 o17.ptr1147.service.tiktok.com
 o18.ptr8067.service.tiktok.com
 o19.ptr4023.service.tiktok.com
 o2.ptr4323.i.account.tiktok.com
 o20.ptr6684.service.tiktok.com
+o23.ptr4260.service.tiktok.com
 o24.ptr8276.service.tiktok.com
 o25.ptr4821.service.tiktok.com
 o26.ptr7957.service.tiktok.com
@@ -150,7 +160,7 @@ open-api.us.tiktok.com
 open-platform.tiktok.com
 open.tiktok.com
 p0-selfserve-private-sg.tiktok.com
-p02-Fmipalservice-ic3.tiktok.com
+p02-fmipalservice-ic3.tiktok.com
 partner-us.tiktok.com
 partners.tiktok.com
 pigeon-id.tiktok.com
@@ -180,6 +190,7 @@ suggestions.us.tiktok.com
 support-useast2a.tiktok.com
 support.tiktok.com
 support.us.tiktok.com
+survey.tiktok.com
 t.tiktok.com
 test-1.tiktok.com
 test.tiktok.com
@@ -196,6 +207,7 @@ tv-va.tiktok.com
 tv.tiktok.com
 tv.us.tiktok.com
 url1024.service.tiktok.com
+url116.crm.tiktok.com
 url4077.ads-service.tiktok.com
 url4367.notifications.tiktok.com
 url7465.shop.tiktok.com
@@ -253,6 +265,7 @@ api-h2-eagle.tiktokv.com
 api-h2.tiktokv.com
 api-normal.tiktokv.com
 api-phx.tiktokv.com
+api-ru.tiktokv.com
 api-s1-h2.tiktokv.com
 api-s1-quic.tiktokv.com
 api-t.tiktokv.com
@@ -306,6 +319,7 @@ api16-core-ycru.tiktokv.com
 api16-core-z-alisg.tiktokv.com
 api16-core.tiktokv.com
 api16-normal-alisg.tiktokv.com
+api16-normal-apix-alisg.tiktokv.com
 api16-normal-apix-quic-alisg.tiktokv.com
 api16-normal-apix-quic-useast1a.tiktokv.com
 api16-normal-apix-quic-useast2a.tiktokv.com
@@ -340,6 +354,7 @@ api16-normal-v4.tiktokv.com
 api16-normal-v6.tiktokv.com
 api16-normal-ycru.tiktokv.com
 api16-normal.tiktokv.com
+api16-va.tiktokv.com
 api16.tiktokv.com
 api17-core-useast1a.tiktokv.com
 api17-core-useast2a.tiktokv.com
@@ -356,12 +371,14 @@ api19-core-useast1a.tiktokv.com
 api19-core-useast2a.tiktokv.com
 api19-core-useast5.us.tiktokv.com
 api19-core-va.tiktokv.com
+api19-core.tiktokv.com
 api19-normal-alisg.tiktokv.com
 api19-normal-c-alisg.tiktokv.com
 api19-normal-c-useast1a.tiktokv.com
 api19-normal-c-useast2a.tiktokv.com
 api19-normal-c4-alisg.tiktokv.com
 api19-normal-probe-alisg.tiktokv.com
+api19-normal-probe-useast1a.tiktokv.com
 api19-normal-probe-useast2a.tiktokv.com
 api19-normal-useast1a.tiktokv.com
 api19-normal-useast2a.tiktokv.com
@@ -387,6 +404,7 @@ api21-normal-c4-alisg.tiktokv.com
 api21-normal-c6-alisg.tiktokv.com
 api21-normal-i-alisg.tiktokv.com
 api21-normal-n-alisg.tiktokv.com
+api21-normal-probe-alisg.tiktokv.com
 api21-normal-probe-useast1a.tiktokv.com
 api21-quic.tiktokv.com
 api21-va.tiktokv.com
@@ -420,7 +438,9 @@ api22-normal.tiktokv.com
 api22-quic-eagle.tiktokv.com
 api22-quic.tiktokv.com
 api3-core-n-alisg.tiktokv.com
+api3-core-useast1a.tiktokv.com
 api3-core.tiktokv.com
+api3-normal-alisg.tiktokv.com
 api3-normal-useast1a.tiktokv.com
 api3-normal-useast2a.tiktokv.com
 api3-normal.tiktokv.com
@@ -521,7 +541,7 @@ dm16-va.tiktokv.com
 dm16.tiktokv.com
 dm22-alisg.tiktokv.com
 echo.tiktokv.com
-enGINeeringcacheredirectbeta-backup-0.tiktokv.com
+engineeringcacheredirectbeta-backup-0.tiktokv.com
 feedback-va.tiktokv.com
 feedback.tiktokv.com
 feedback.us.tiktokv.com
@@ -530,6 +550,7 @@ fp-va.tiktokv.com
 fp16-normal-alisg.tiktokv.com
 fp16-normal-useast1a.tiktokv.com
 fp19-normal-useast1a.tiktokv.com
+fp22-normal-alisg.tiktokv.com
 fp22-normal-useast1a.tiktokv.com
 fp22-normal.tiktokv.com
 frontier-i18n.tiktokv.com
@@ -546,6 +567,7 @@ gecko15-normal-useast1a.tiktokv.com
 gecko16-normal-alisg.tiktokv.com
 gecko16-normal-c-useast1a.tiktokv.com
 gecko16-normal-c-useast2a.tiktokv.com
+gecko16-normal-useast1a.tiktokv.com
 gecko16-normal-useast2a.tiktokv.com
 gecko16-platform-ycru.tiktokv.com
 gecko16-tmp-normal-useast1a.tiktokv.com
@@ -595,6 +617,7 @@ imapi-16.tiktokv.com
 inapp-va.tiktokv.com
 inapp.tiktokv.com
 inapp.us.tiktokv.com
+incidents-staging.rtlog19-applog-useast5.us.tiktokv.com
 insgame-api-i18n.tiktokv.com
 insgame-api-sg.tiktokv.com
 insgame-api-va.tiktokv.com
@@ -662,6 +685,7 @@ log58-normal-alisg.tiktokv.com
 log58-normal-c-alisg.tiktokv.com
 log58-normal-c-useast1a.tiktokv.com
 log58-normal-ycru.tiktokv.com
+log61-normal-c-useast1a.tiktokv.com
 log77-normal-c-alisg.tiktokv.com
 log77-normal-c-useast1a.tiktokv.com
 log9-normal-c-useast1a.tiktokv.com
@@ -670,6 +694,7 @@ mcs-sg.tiktokv.com
 mcs-va-useast2a.tiktokv.com
 mcs-va.tiktokv.com
 mcs.us.tiktokv.com
+mdg.rtlog19-platform-useast5.us.tiktokv.com
 mon-i18n.tiktokv.com
 mon-ru.tiktokv.com
 mon-sg.tiktokv.com
@@ -737,6 +762,7 @@ oec9-normal-useast2a.tiktokv.com
 open.us.tiktokv.com
 open16-va-useast2a.tiktokv.com
 open16-va.tiktokv.com
+openapi-ru.tiktokv.com
 pci-testing.tiktokv.com
 pitaya-sg.tiktokv.com
 pitaya-task-sg.tiktokv.com
@@ -773,6 +799,7 @@ rtlog16-normal-alisg.tiktokv.com
 rtlog16-normal-useast1a.tiktokv.com
 rtlog16-normal-useast2a.tiktokv.com
 rtlog16-normal.tiktokv.com
+rtlog16-tmp-normal-useast1a.tiktokv.com
 rtlog17-normal-useast1a.tiktokv.com
 rtlog17-normal-useast2a.tiktokv.com
 rtlog19-applog-useast5.us.tiktokv.com
@@ -872,6 +899,7 @@ verify-ru.tiktokv.com
 verify-sg.tiktokv.com
 video-sg.tiktokv.com
 video-tcs-sg.tiktokv.com
+video-tcs-sgttp.tiktokv.com
 video-tcs-va.tiktokv.com
 video-tcs-vattp.tiktokv.com
 video-useast5.tiktokv.com
@@ -881,7 +909,7 @@ vod-maliva.tiktokv.com
 vod-sg.tiktokv.com
 vod-useast2a.tiktokv.com
 vod.us.tiktokv.com
-weBAPp2.tiktokv.com
+webapp2.tiktokv.com
 webcast-mp-sg.tiktokv.com
 webcast-normal.tiktokv.com
 webcast-open.tiktokv.com
@@ -948,6 +976,7 @@ webcast19-normal-probe-useast2a.tiktokv.com
 webcast19-normal-useast5.us.tiktokv.com
 webcast19-normal.tiktokv.com
 webcast19-va.tiktokv.com
+webcast19.tiktokv.com
 webcast2.tiktokv.com
 webcast21-core-c-alisg.tiktokv.com
 webcast21-core-c-useast1a.tiktokv.com
@@ -999,3 +1028,4 @@ xlog.tiktokv.com
 xlog16-normal-c-useast1a.tiktokv.com
 xlog16-normal-c-useast2a.tiktokv.com
 xlog16-platform-ycru.tiktokv.com
+ystg1.tiktokv.com
