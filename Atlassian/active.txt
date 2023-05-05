@@ -9,6 +9,7 @@ aid-dr-test-crowd.atlassian.com
 amkt-frontend.atlassian.com
 answers.atlassian.com
 api-private.atlassian.com
+api.atlassian.com
 applink.atlassian.com
 as.atlassian.com
 atl-global.atlassian.com
@@ -21,14 +22,20 @@ aui.atlassian.com
 auth.atlassian.com
 automate.atlassian.com
 automation.atlassian.com
+avatar-cdn.atlassian.com
 beacon.atlassian.com
 beamerylink.atlassian.com
 beta-developer.atlassian.com
+bifrost-baked-cookies.atlassian.com
+bitbucketci-rest-service.atlassian.com
 blog.atlassian.com
 blogs.atlassian.com
 boardingpass.atlassian.com
 br.atlassian.com
+cac-watch-service.atlassian.com
 canvas-compatability-check.atlassian.com
+canvas-workers.atlassian.com
+capability-map.atlassian.com
 cdn.atlassian.com
 cdog.atlassian.com
 checkup.atlassian.com
@@ -38,8 +45,11 @@ cn.atlassian.com
 common-admin-cdn.atlassian.com
 community.atlassian.com
 compliance.atlassian.com
+confluence.atlassian.com
 connect-install-keys.atlassian.com
+connect.atlassian.com
 covidcare.atlassian.com
+cpfs-cdn.atlassian.com
 cs.atlassian.com
 customer-context-gateway.atlassian.com
 cvs-backup.atlassian.com
@@ -64,6 +74,7 @@ enable.atlassian.com
 es.atlassian.com
 events.atlassian.com
 expert-jira.atlassian.com
+expert.atlassian.com
 experts-jira.atlassian.com
 experts.atlassian.com
 ezmake.atlassian.com
@@ -82,6 +93,7 @@ gmail.atlassian.com
 go-dvcs.atlassian.com
 go.atlassian.com
 gotest.atlassian.com
+gsnlink.atlassian.com
 guestwifi.atlassian.com
 guestwifi1.atlassian.com
 hamlet.atlassian.com
@@ -109,6 +121,7 @@ jira-sentry.atlassian.com
 jira-training.atlassian.com
 jira.atlassian.com
 jsd-widget-staging.atlassian.com
+jsd-widget.atlassian.com
 ko.atlassian.com
 labs.atlassian.com
 ladder.atlassian.com
@@ -162,6 +175,8 @@ sdkrepo.atlassian.com
 search.atlassian.com
 searchlassian.atlassian.com
 security.atlassian.com
+sentry.atlassian.com
+server-notifications.atlassian.com
 sfadsl.atlassian.com
 sfdsl.atlassian.com
 sflink.atlassian.com
@@ -187,6 +202,7 @@ switcheroo.atlassian.com
 syd-vcse01.atlassian.com
 sydadsl.atlassian.com
 sydaux.atlassian.com
+sydaux2.atlassian.com
 sydfibre.atlassian.com
 sydfibre2.atlassian.com
 sydhdsl.atlassian.com
@@ -204,6 +220,7 @@ training.atlassian.com
 transfer.atlassian.com
 translations-staging.atlassian.com
 translations.atlassian.com
+trust.atlassian.com
 university.atlassian.com
 update-nucleus.atlassian.com
 update.atlassian.com
@@ -221,8 +238,11 @@ wac-cdn.atlassian.com
 watermelon.atlassian.com
 webinars.atlassian.com
 welcome.atlassian.com
+whisper.atlassian.com
+wifiportal.atlassian.com
 words.atlassian.com
 www.atlassian.com
+xid.atlassian.com
 xxid.atlassian.com
 2306986.atlassian.com
 18068038.atlassian.com
