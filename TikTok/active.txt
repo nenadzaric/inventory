@@ -34,6 +34,7 @@ api3-core-n-useast1a.url4367.notifications.tiktok.com
 artist.tiktok.com
 artists.tiktok.com
 autodiscover.tiktok.com
+b42pcmjy.tiktok.com
 beta-test.tiktok.com
 biz-api.tiktok.com
 boe.tiktok.com
@@ -55,6 +56,7 @@ creatormarketplace-va.tiktok.com
 creatormarketplace-vattp.tiktok.com
 creatormarketplace.tiktok.com
 creatormarketplace.us.tiktok.com
+cxml-xmlpay.tiktok.com
 datahub-private-useast2a.tiktok.com
 datahub-private.tiktok.com
 datahubops.tiktok.com
@@ -232,6 +234,7 @@ vm-useast2a.tiktok.com
 vm.tiktok.com
 vmweb.us.tiktok.com
 vt.tiktok.com
+web-i18n.tiktok.com
 web-phx.tiktok.com
 web-sg.tiktok.com
 web-va.tiktok.com
@@ -437,6 +440,7 @@ api22-normal-v4.tiktokv.com
 api22-normal.tiktokv.com
 api22-quic-eagle.tiktokv.com
 api22-quic.tiktokv.com
+api22-va.tiktokv.com
 api3-core-n-alisg.tiktokv.com
 api3-core-useast1a.tiktokv.com
 api3-core.tiktokv.com
@@ -446,6 +450,7 @@ api3-normal-useast2a.tiktokv.com
 api3-normal.tiktokv.com
 api30-core-c-alisg.tiktokv.com
 api30-h2-eagle.tiktokv.com
+api30-h2.tiktokv.com
 api30-normal-c-useast1a.tiktokv.com
 api30-normal-c-useast2a.tiktokv.com
 api30-normal-n-useast1a.tiktokv.com
@@ -500,6 +505,7 @@ api58-core-c-alisg.tiktokv.com
 api58-core-c-useast1a.tiktokv.com
 api58-core-useast1a.tiktokv.com
 api58-core-ycru.tiktokv.com
+api58-normal-alisg.tiktokv.com
 api58-normal-c-alisg.tiktokv.com
 api58-normal-c-useast1a.tiktokv.com
 api58-normal-useast2a.tiktokv.com
@@ -516,6 +522,8 @@ api9-normal-alisg.tiktokv.com
 api9-normal-useast2a.tiktokv.com
 apiproxy-va.tiktokv.com
 app-va.tiktokv.com
+avmapeditor-staging.rtlog19-applog-useast5.us.tiktokv.com
+biz.rtlog19-platform-useast5.us.tiktokv.com
 bsync-i18n.tiktokv.com
 bsync-sg.tiktokv.com
 bsync-va.tiktokv.com
@@ -540,6 +548,7 @@ dm16-useast2a.tiktokv.com
 dm16-va.tiktokv.com
 dm16.tiktokv.com
 dm22-alisg.tiktokv.com
+documents.rtlog19-platform-useast5.us.tiktokv.com
 echo.tiktokv.com
 engineeringcacheredirectbeta-backup-0.tiktokv.com
 feedback-va.tiktokv.com
@@ -845,6 +854,7 @@ search22-normal-useast2a.tiktokv.com
 search31-normal-alisg.tiktokv.com
 search31-normal-useast1a.tiktokv.com
 search31-normal-useast2a.tiktokv.com
+shiny-eapd2-coe-ubr-voz.rtlog.us.tiktokv.com
 smr-sg.tiktokv.com
 smr-va.tiktokv.com
 smr16-tmp-normal-useast1a.tiktokv.com
@@ -902,6 +912,7 @@ video-tcs-sg.tiktokv.com
 video-tcs-sgttp.tiktokv.com
 video-tcs-va.tiktokv.com
 video-tcs-vattp.tiktokv.com
+video-useast2a.tiktokv.com
 video-useast5.tiktokv.com
 video-useast5.us.tiktokv.com
 video-va.tiktokv.com

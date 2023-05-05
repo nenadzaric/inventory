@@ -45,6 +45,7 @@ get.k8s.io
 git.k8s.io
 go.k8s.io
 gubernator.k8s.io
+issue.k8s.io
 issues.k8s.io
 pr.k8s.io
 redirect.k8s.io
@@ -54,3 +55,4 @@ releases.k8s.io
 slack.k8s.io
 www.k8s.io
 yt.k8s.io
+h-135-207-182-170.gcr.io
