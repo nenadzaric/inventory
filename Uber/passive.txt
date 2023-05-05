@@ -1536,11 +1536,9 @@ cme.dev.uber.com
 cmoney.dev.uber.com
 cms.uber.com
 cms01.syd1.uber.com
-cn-dc1-staging.uber.com
 cn-dc1.uber.com
 cn-dc2.uber.com
 cn-dc3.uber.com
-cn-dca-staging.uber.com
 cn-dca.uber.com
 cn-dca1.cfe.uber.com
 cn-dca1.uber.com
@@ -1553,7 +1551,6 @@ cn-lb1.uber.com
 cn-peak1.uber.com
 cn-peak3.uber.com
 cn-pek1.uber.com
-cn-phx-staging.uber.com
 cn-phx.uber.com
 cn-phx2.cfe.uber.com
 cn-phx2.uber.com
@@ -7600,7 +7597,6 @@ sexpettite.mx.dev.uber.com
 sf.dev.uber.com
 sfo3-cp01.corp.uber.com
 sfrank.dev.uber.com
-sftp-dca.uber.com
 sftp-phx3.uber.com
 sftp-sjc1.uber.com
 sftp.uber.com
