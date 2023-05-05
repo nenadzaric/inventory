@@ -1,3 +1,2 @@
-Acorns Grow, Inc.|acorns.com
-AMEX - Global Business Travel Vulnerability Disclosure Program|miclientool.com,mykds.com,banks-sadler.com,meetingssource.com,uathrgisuite.com,gbtnta.com,lawyerstravel.com,amexglobalbusinesstravel.com,gbt-invoicing.com,winnerscircleregistration.com,meetingsexpress.com,gbtspain.com,miwebtool.com,hrgnorthamerica.com,gbtad.com,supplierstool.com,pre-gbtspain.com,ebrdevents.co.uk,ovationtravel.com,meetingsexpreess.com,hrgworldwide.com,sourcingcenteramexgbt.com,amexgbt.com,uathrg-isuite.com,wovationtravel.com,bienquiries.co.uk,mieventool.com,gbtexternal.com,kds.com,itq.in,mytravelsolution.com
-Arrow Electronics VDP|powerandsignal.com,aspencore.com,aepetsche.com,transim.com,eetimes.com,richardsonrfpd.com,verical.com,arrow.com,xsp.arrow.com,einfochips.com,siliconexpert.com,immixgroup.com,arrow.cn,elektroda.pl,chip1stop.com,Datasheet
+Uber|uber.com,uberinternal.com
+Kubernetes|kubernetes.io,k8s.io,gcr.io
