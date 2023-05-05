@@ -5,7 +5,7 @@
       "domains": [
         "acorns.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/acorns"
     },
     {
@@ -43,7 +43,7 @@
         "winnerscircleregistration.com",
         "wovationtravel.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/amexgbt-vdp"
     },
     {
@@ -66,7 +66,7 @@
         "verical.com",
         "xsp.arrow.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/arrow-electronics-vdp"
     },
     {
@@ -74,7 +74,7 @@
       "domains": [
         "arubanetworks.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/aruba-public"
     },
     {
@@ -85,7 +85,7 @@
         "asana.com",
         "asana.plus"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/asana"
     },
     {
@@ -95,7 +95,7 @@
         "atlassian.net",
         "atlastunnel.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/atlassian"
     },
     {
@@ -104,7 +104,7 @@
         "bigcommerce.com",
         "bigcommerce.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/bigcommerce"
     },
     {
@@ -118,7 +118,7 @@
         "binance.us",
         "bnbchain.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/binance"
     },
     {
@@ -127,7 +127,7 @@
         "bitdefender.com",
         "bitdefender.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/bitdefender"
     },
     {
@@ -135,7 +135,7 @@
       "domains": [
         "bitdiscovery.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/bitdiscovery"
     },
     {
@@ -143,7 +143,7 @@
       "domains": [
         "bitget.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/bitget-og"
     },
     {
@@ -152,7 +152,7 @@
         "caffeine.tv",
         "rtcdn.caffeine.tv"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/caffeine"
     },
     {
@@ -164,7 +164,7 @@
         "canva.com",
         "canva.tech"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/canva"
     },
     {
@@ -176,7 +176,7 @@
         "verse.events",
         "verse.me"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/cashapp"
     },
     {
@@ -187,7 +187,7 @@
         "meraki.com",
         "network-auth.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/ciscomeraki"
     },
     {
@@ -234,7 +234,7 @@
         "vebatcoke.com",
         "vitaminwater.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/coca-cola"
     },
     {
@@ -242,7 +242,7 @@
       "domains": [
         "comcast.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/comcast-mbb"
     },
     {
@@ -252,7 +252,7 @@
         "sys.comcast.net",
         "xfinity.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/comcastvdp"
     },
     {
@@ -261,7 +261,7 @@
         "cyberghost.com",
         "cyberghostvpn.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/cyberghost"
     },
     {
@@ -276,7 +276,7 @@
         "publiclands.com",
         "vrst.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/dickssportinggoods"
     },
     {
@@ -285,7 +285,7 @@
         "directly.com",
         "sandbox.directly.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/directly"
     },
     {
@@ -297,7 +297,7 @@
         "hellosign.com",
         "helloworks.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/dropbox"
     },
     {
@@ -305,7 +305,7 @@
       "domains": [
         "ecommpay.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/ecommpay-vdp-ess"
     },
     {
@@ -317,7 +317,7 @@
         "SUSTAINABILITY.GOV",
         "URBANWATERS.GOV"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/epa-vdp"
     },
     {
@@ -328,7 +328,7 @@
         "xvservice.net",
         "xvtest.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/expressvpn"
     },
     {
@@ -337,7 +337,7 @@
         "flourish.studio",
         "xyzbmojn.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/flourish"
     },
     {
@@ -345,7 +345,7 @@
       "domains": [
         "gapinc.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/gapinc"
     },
     {
@@ -361,7 +361,7 @@
         "neutralvehicle.com",
         "webtechwireless.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/geotab-vdp"
     },
     {
@@ -369,7 +369,7 @@
       "domains": [
         "healthifyme.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/healthifyme"
     },
     {
@@ -382,7 +382,7 @@
         "hubspot.net",
         "hubspotemail.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/hubspot"
     },
     {
@@ -390,7 +390,7 @@
       "domains": [
         "hummingbird.co"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/hummingbird-vdp-ess"
     },
     {
@@ -399,7 +399,7 @@
         "movilepay.com",
         "movilepay.com.br"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/ifood-og"
     },
     {
@@ -408,7 +408,7 @@
         "jora.com",
         "jora.xyz"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/jora"
     },
     {
@@ -418,7 +418,7 @@
         "just-eat.io",
         "justeat-int.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/justeat-ogmbb"
     },
     {
@@ -429,7 +429,7 @@
         "remove.bg",
         "unscreen.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/kaleido"
     },
     {
@@ -453,7 +453,7 @@
         "latitudepay.com.au",
         "umiloans.com.au"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/latitudefinancial-vdp"
     },
     {
@@ -465,7 +465,7 @@
         "motorola.com.br",
         "motorola.com.cn"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/lenovoresponsibledisclosure"
     },
     {
@@ -475,7 +475,7 @@
         "lime.bike",
         "limeinternal.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/lime"
     },
     {
@@ -495,7 +495,7 @@
         "songlink.io",
         "tr.ee"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/linktree-mbb-og"
     },
     {
@@ -504,7 +504,7 @@
         "lululemon.co.uk",
         "lululemon.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/lululemon"
     },
     {
@@ -512,7 +512,7 @@
       "domains": [
         "bbp-mettle.co.uk"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/mettle"
     },
     {
@@ -521,7 +521,7 @@
         "erc.monash.edu",
         "monash.edu"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/monash-esf"
     },
     {
@@ -529,7 +529,7 @@
       "domains": [
         "namejet.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/namejet-vdp"
     },
     {
@@ -543,7 +543,7 @@
         "naspersventures.com",
         "prosus.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/naspers"
     },
     {
@@ -563,7 +563,7 @@
         "nabtrade.com.au",
         "ubank.com.au"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/nationalaustraliabankog"
     },
     {
@@ -579,7 +579,7 @@
         "ulsterbank.com",
         "ulsterbank.ie"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/natwest-vdp"
     },
     {
@@ -594,7 +594,7 @@
         "prod.dradis.netflix.com",
         "prod.ftl.netflix.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/netflix"
     },
     {
@@ -603,7 +603,7 @@
         "bluehost.com",
         "bluehost.in"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/newfold-bluehostindia-vdp"
     },
     {
@@ -611,7 +611,7 @@
       "domains": [
         "websitebuilder.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/newfold-builder-vdp"
     },
     {
@@ -619,7 +619,7 @@
       "domains": [
         "hostgator.in"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/newfold-hostgator-india-vdp"
     },
     {
@@ -627,7 +627,7 @@
       "domains": [
         "resellerclub.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/newfold-resellerclub-vdp"
     },
     {
@@ -635,7 +635,7 @@
       "domains": [
         "octopus.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/octopus-og"
     },
     {
@@ -648,7 +648,7 @@
         "otomoto.pl",
         "standvirtual.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/olx-eu"
     },
     {
@@ -666,7 +666,7 @@
         "olxautos.in",
         "otoplus.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/olxgroup"
     },
     {
@@ -675,7 +675,7 @@
         "openai.com",
         "openai.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/openai"
     },
     {
@@ -696,7 +696,7 @@
         "sec-tunnel.com",
         "yoyogames.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/opera"
     },
     {
@@ -704,7 +704,7 @@
       "domains": [
         "opsgenie.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/opsgenie"
     },
     {
@@ -717,7 +717,7 @@
         "originenergy.com.au",
         "support.originenergy.com.au"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/originenergy-og1"
     },
     {
@@ -727,7 +727,7 @@
         "overstock.com",
         "supplieroasis.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/overstockvdp"
     },
     {
@@ -735,7 +735,7 @@
       "domains": [
         "pexels.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/pexels"
     },
     {
@@ -743,7 +743,7 @@
       "domains": [
         "pixabay.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/pixabay"
     },
     {
@@ -751,7 +751,7 @@
       "domains": [
         "privateinternetaccess.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/privateinternetaccess"
     },
     {
@@ -759,7 +759,7 @@
       "domains": [
         "rakuten.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/rakuten-vdp"
     },
     {
@@ -776,7 +776,7 @@
         "rapyd.net",
         "rapyd.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/rapyd-og"
     },
     {
@@ -796,7 +796,7 @@
         "rgbk.com",
         "sabal.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/regions-vdp"
     },
     {
@@ -805,7 +805,7 @@
         "rmit.edu.au",
         "rmit.edu.vn"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/rmit-university-vdp-pro"
     },
     {
@@ -813,7 +813,7 @@
       "domains": [
         "roobet.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/roobet-vdp"
     },
     {
@@ -821,7 +821,7 @@
       "domains": [
         "seagate.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/seagate-vdp"
     },
     {
@@ -840,7 +840,7 @@
         "skinfra.xyz",
         "sol-data.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/seek"
     },
     {
@@ -848,7 +848,7 @@
       "domains": [
         "mcssl.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/shoppingcart"
     },
     {
@@ -856,7 +856,7 @@
       "domains": [
         "skyscanner.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/skyscanner"
     },
     {
@@ -864,7 +864,7 @@
       "domains": [
         "smartmockups.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/smartmockups"
     },
     {
@@ -872,7 +872,7 @@
       "domains": [
         "snapnames.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/snapnames-vdp"
     },
     {
@@ -895,7 +895,7 @@
         "sophos.com",
         "surfright.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/sophos"
     },
     {
@@ -908,7 +908,7 @@
         "soundcloud.org",
         "soundcloudmail.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/soundcloud"
     },
     {
@@ -917,7 +917,7 @@
         "square.com",
         "squareup.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/square"
     },
     {
@@ -925,7 +925,7 @@
       "domains": [
         "statuspage.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/statuspage"
     },
     {
@@ -948,7 +948,7 @@
         "thuisbezorgd.nl",
         "yourdelivery.de"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/takeaway"
     },
     {
@@ -986,7 +986,7 @@
         "turkei-sim.de",
         "whatsappsim.de"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/telefonicavdp"
     },
     {
@@ -999,7 +999,7 @@
         "teslainsuranceservices.com",
         "teslamotors.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/tesla"
     },
     {
@@ -1009,7 +1009,7 @@
         "trello.com",
         "trello.services"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/trello"
     },
     {
@@ -1023,7 +1023,7 @@
         "niumba.com",
         "vacationhomerentals.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/tripadvisor-bb-og"
     },
     {
@@ -1040,7 +1040,7 @@
         "underarmour.co.uk",
         "underarmour.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/underarmour"
     },
     {
@@ -1111,7 +1111,7 @@
         "zest.com.mx",
         "zmrzlina-misa.sk"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/unilever-vdp"
     },
     {
@@ -1120,7 +1120,7 @@
         "ual.com",
         "united.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/united-vdp"
     },
     {
@@ -1134,7 +1134,7 @@
         "rfa.org",
         "rferl.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/usagm-vdp"
     },
     {
@@ -1145,7 +1145,7 @@
         "namestudioforsocial.com",
         "youcouldbe.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/verisign"
     },
     {
@@ -1154,7 +1154,7 @@
         "viator.com",
         "viatorinc.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/viator"
     },
     {
@@ -1164,7 +1164,7 @@
         "register.com",
         "web.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/webdotcom-vdp"
     },
     {
@@ -1173,7 +1173,7 @@
         "transferwise.com",
         "wise.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/wise"
     },
     {
@@ -1182,7 +1182,7 @@
         "xfinityhome.com",
         "xfiplatform.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/xfinity-home"
     },
     {
@@ -1191,7 +1191,7 @@
         "kkr.cloud",
         "kkr.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/kkr_vdp"
     },
     {
@@ -1203,7 +1203,7 @@
         "quickbooks.com",
         "turbotax.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/intuit_rdp"
     },
     {
@@ -1239,7 +1239,7 @@
         "usmgny.org",
         "wtcexams.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/mount-sinai-health"
     },
     {
@@ -1247,7 +1247,7 @@
       "domains": [
         "fidelity.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/fidelity"
     },
     {
@@ -1255,7 +1255,7 @@
       "domains": [
         "payoneer.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/payoneer"
     },
     {
@@ -1265,7 +1265,7 @@
         "veeam.com",
         "veeamgov.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/veeam"
     },
     {
@@ -1276,7 +1276,7 @@
         "trustnota.com",
         "wilmingtontrust.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/mtb"
     },
     {
@@ -1285,7 +1285,7 @@
         "blackrock.com",
         "ishares.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/blackrock"
     },
     {
@@ -1301,7 +1301,7 @@
         "stripe.com",
         "touchtechpayments.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/stripe"
     },
     {
@@ -1309,7 +1309,7 @@
       "domains": [
         "paystackintegrations.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/paystack-vdp"
     },
     {
@@ -1318,7 +1318,7 @@
         "browser.cloud.com",
         "citrixworkspacesapi.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/citrix"
     },
     {
@@ -1327,7 +1327,7 @@
         "tiktok.com",
         "tiktokv.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/tiktok"
     },
     {
@@ -1338,7 +1338,7 @@
         "playstation.net",
         "sonyentertainmentnetwork.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/playstation"
     },
     {
@@ -1351,7 +1351,7 @@
         "wf.com",
         "wystar.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/wellsfargo"
     },
     {
@@ -1364,7 +1364,7 @@
         "keybank.com",
         "laurelroad.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/keybank"
     },
     {
@@ -1402,7 +1402,7 @@
         "talx.com",
         "wageverify.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/equifax"
     },
     {
@@ -1430,7 +1430,7 @@
         "usejewel.com",
         "wikibuy.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/capital-one"
     },
     {
@@ -1439,7 +1439,7 @@
         "merck.com",
         "msd.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/msd"
     },
     {
@@ -1451,7 +1451,7 @@
         "omnicraftautoparts.com",
         "quicklane.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/ford"
     },
     {
@@ -1477,7 +1477,7 @@
         "xoom.app",
         "xoom.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/paypal"
     },
     {
@@ -1517,7 +1517,7 @@
         "unitedcp.com",
         "vennhypotheken.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/goldmansachs"
     },
     {
@@ -1558,7 +1558,7 @@
         "unrealengine.com",
         "unrealtournament.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/epicgames"
     },
     {
@@ -1569,7 +1569,7 @@
         "deliveroo-data.net",
         "deliveroo-streams.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/deliveroo"
     },
     {
@@ -1579,7 +1579,7 @@
         "rockstargames.com",
         "rockstarnorth.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/rockstargames"
     },
     {
@@ -1595,7 +1595,7 @@
         "semmle.com",
         "semmle.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/github"
     },
     {
@@ -1605,7 +1605,7 @@
         "robinhood.com",
         "robinhood.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/robinhood"
     },
     {
@@ -1628,7 +1628,7 @@
         "urbandoor.com",
         "withairbnb.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/airbnb"
     },
     {
@@ -1654,7 +1654,7 @@
         "typekit.com",
         "workfront.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/adobe"
     },
     {
@@ -1668,7 +1668,7 @@
         "snapchat.com",
         "spectacles.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/snapchat"
     },
     {
@@ -1677,7 +1677,7 @@
         "uber.com",
         "uberinternal.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/uber"
     },
     {
@@ -1689,7 +1689,7 @@
         "cloudflareworkers.com",
         "teams.cloudflare.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/cloudflare"
     },
     {
@@ -1701,7 +1701,7 @@
         "coinbase.pro",
         "paradex.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/coinbase"
     },
     {
@@ -1711,7 +1711,7 @@
         "slack.com",
         "slackb.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/slack"
     },
     {
@@ -1724,7 +1724,7 @@
         "hackerone.net",
         "vpn.hackerone.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/security"
     },
     {
@@ -1735,7 +1735,7 @@
         "magiceden.io",
         "magiceden.workers.dev"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/magic-eden"
     },
     {
@@ -1743,7 +1743,7 @@
       "domains": [
         "ad.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/dpgm/algemeendagblad/detail"
     },
     {
@@ -1751,7 +1751,7 @@
       "domains": [
         "azena.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/azena/azenaresponsibledisclosure/detail"
     },
     {
@@ -1759,7 +1759,7 @@
       "domains": [
         "bcc.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/bcc/bcc/detail"
     },
     {
@@ -1767,7 +1767,7 @@
       "domains": [
         "bmc.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/randstad/bmc/detail"
     },
     {
@@ -1776,7 +1776,7 @@
         "ticketing.cm.com",
         "cm.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/cmcom/cmcom/detail"
     },
     {
@@ -1786,7 +1786,7 @@
         "postescanada-canadapost.ca",
         "purolator.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/innovapost/innovapost/detail"
     },
     {
@@ -1795,7 +1795,7 @@
         "dpgmedia.be",
         "dpgmedia.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/dpgm/dpgmedia/detail"
     },
     {
@@ -1803,7 +1803,7 @@
       "domains": [
         "datacamp.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/datacamp/datacamp/detail"
     },
     {
@@ -1811,7 +1811,7 @@
       "domains": [
         "demorgen.be"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/dpgm/demorgen/detail"
     },
     {
@@ -1819,7 +1819,7 @@
       "domains": [
         "volkskrant.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/dpgm/devolkskrant/detail"
     },
     {
@@ -1827,7 +1827,7 @@
       "domains": [
         "vlaanderen.be"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/vod/digitaalvlaanderen/detail"
     },
     {
@@ -1841,7 +1841,7 @@
         "whois.eu",
         "yadifa.eu"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/eurid/eurid/detail"
     },
     {
@@ -1850,7 +1850,7 @@
         "gulp.ch",
         "gulp.de"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/randstad/gulp/detail"
     },
     {
@@ -1858,7 +1858,7 @@
       "domains": [
         "hwigroup.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/dpgm/hardwareinfo/detail"
     },
     {
@@ -1873,7 +1873,7 @@
         "here.com",
         "hereapi.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail"
     },
     {
@@ -1881,7 +1881,7 @@
       "domains": [
         "hln.be"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/dpgm/hetlaatstenieuws/detail"
     },
     {
@@ -1889,7 +1889,7 @@
       "domains": [
         "parool.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/dpgm/hetparool/detail"
     },
     {
@@ -1897,7 +1897,7 @@
       "domains": [
         "humo.be"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/dpgm/humo/detail"
     },
     {
@@ -1907,7 +1907,7 @@
         "drive.infomaniak.com",
         "infomaniak.site"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/infomaniak/infomaniak/detail"
     },
     {
@@ -1917,7 +1917,7 @@
         "innogames.de",
         "innogames.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/innogames/innogames/detail"
     },
     {
@@ -1925,7 +1925,7 @@
       "domains": [
         "intel.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/intel/intel/detail"
     },
     {
@@ -1939,7 +1939,7 @@
         "werkenbijkarwei.nl",
         "karweioutletstore.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/intergamma/intergamma/detail"
     },
     {
@@ -1948,7 +1948,7 @@
         "jooki.rocks",
         "muuselabs.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/muuselabs/jooki/detail"
     },
     {
@@ -1964,7 +1964,7 @@
         "landmarkcinemas.com",
         "mjrtheatres.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/kinepolis/website/detail"
     },
     {
@@ -1972,7 +1972,7 @@
       "domains": [
         "lansweeper.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail"
     },
     {
@@ -1980,7 +1980,7 @@
       "domains": [
         "libelle.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/dpgm/libelle/detail"
     },
     {
@@ -1995,7 +1995,7 @@
         "dev-pub.mobilevikings.be",
         "dev.mobilevikings.be"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/mv/mobilevikings/detail"
     },
     {
@@ -2023,7 +2023,7 @@
         "monsterboard.nl",
         "monsterpolska.pl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/randstad/monsterworldwide/detail"
     },
     {
@@ -2036,7 +2036,7 @@
         "moralisweb3.com",
         "usemoralis.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/moralis/moralisio/detail"
     },
     {
@@ -2044,7 +2044,7 @@
       "domains": [
         "napoleongames.be"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/hucklu/napoleongames/detail"
     },
     {
@@ -2052,7 +2052,7 @@
       "domains": [
         "nestle.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/nestl%C3%A9/nestl%C3%A9vdp/detail"
     },
     {
@@ -2062,7 +2062,7 @@
         "ninjakiwi.com",
         "souparea.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail"
     },
     {
@@ -2072,7 +2072,7 @@
         "portofantwerp.com",
         "portofantwerpbruges.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail"
     },
     {
@@ -2081,7 +2081,7 @@
         "sbb.ch",
         "swisspass.ch"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail"
     },
     {
@@ -2089,7 +2089,7 @@
       "domains": [
         "sentiance.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/sentiance/sentiance/detail"
     },
     {
@@ -2098,7 +2098,7 @@
         "sixt.com",
         "sixt.de"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/sixt/sixt/detail"
     },
     {
@@ -2107,7 +2107,7 @@
         "speakap.com",
         "speakap.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/speakap/speakapresponsibledisclosure/detail"
     },
     {
@@ -2116,7 +2116,7 @@
         "sqills.team",
         "sqills.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail"
     },
     {
@@ -2125,7 +2125,7 @@
         "aroundtheworld.tomorrowland.com",
         "tomorrowland.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail"
     },
     {
@@ -2133,7 +2133,7 @@
       "domains": [
         "trouw.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/dpgm/trouw/detail"
     },
     {
@@ -2143,7 +2143,7 @@
         "truelayer.com",
         "truelayer.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/truelayer/truelayer/detail"
     },
     {
@@ -2151,7 +2151,7 @@
       "domains": [
         "itprojects.talent-community.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/randstad/twago/detail"
     },
     {
@@ -2161,7 +2161,7 @@
         "tweakers.net",
         "tweakimg.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/dpgm/tweakers/detail"
     },
     {
@@ -2171,7 +2171,7 @@
         "playuzleuven.be",
         "mir.uzleuven.be"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail"
     },
     {
@@ -2179,7 +2179,7 @@
       "domains": [
         "uphold.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail"
     },
     {
@@ -2197,7 +2197,7 @@
         "stubru.be",
         "vrt.be"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/vrtnv/vrt/detail"
     },
     {
@@ -2206,7 +2206,7 @@
         "vtm.be",
         "vtmgo.be"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/dpgm/vtmgo/detail"
     },
     {
@@ -2214,7 +2214,7 @@
       "domains": [
         "vlerick.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/vlerickbusinessschool/vlerickbusinessschool/detail"
     },
     {
@@ -2225,7 +2225,7 @@
         "wpengine.io",
         "wpesvc.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/wpengine/wpengine/detail"
     },
     {
@@ -2233,7 +2233,7 @@
       "domains": [
         "yacht.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/randstad/yacht/detail"
     },
     {
@@ -2243,7 +2243,7 @@
         "ibood.io",
         "ibood.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/iboodcom/iboodcom/detail"
     },
     {
@@ -2252,7 +2252,7 @@
         "intigriti.com",
         "intigriti.me"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.intigriti.com/programs/intigriti/intigriti/detail"
     },
     {
@@ -2260,7 +2260,7 @@
       "domains": [
         "atg.se"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/atg-public-bug-bounty-program"
     },
     {
@@ -2269,7 +2269,7 @@
         "alasco.de",
         "alasco.rocks"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program"
     },
     {
@@ -2277,7 +2277,7 @@
       "domains": [
         "contentsquare.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/contentsquare-bug-bounty-program"
     },
     {
@@ -2290,7 +2290,7 @@
         "dmcdn.net",
         "dmxleo.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/dailymotion-public-bug-bounty"
     },
     {
@@ -2326,7 +2326,7 @@
         "redmart.com",
         "supertms.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/lazada"
     },
     {
@@ -2334,7 +2334,7 @@
       "domains": [
         "muslimpro.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/muslim-pro"
     },
     {
@@ -2343,7 +2343,7 @@
         "ovo.id",
         "taralite.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/ovo-bug-bounty-program"
     },
     {
@@ -2354,7 +2354,7 @@
         "ownit.se",
         "telenor.se"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program"
     },
     {
@@ -2363,7 +2363,7 @@
         "4chan.org",
         "4cdn.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.4chan.org/security"
     },
     {
@@ -2374,7 +2374,7 @@
         "elephantsql.com",
         "cloudmqtt.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.84codes.com/security"
     },
     {
@@ -2395,7 +2395,7 @@
         "8x8.spot",
         "sameroom.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/8x8"
     },
     {
@@ -2403,7 +2403,7 @@
       "domains": [
         "aax.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/aax/aax"
     },
     {
@@ -2412,7 +2412,7 @@
         "abercrombie.com",
         "hollisterco.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/abercrombie_fitch"
     },
     {
@@ -2436,7 +2436,7 @@
         "actify.nl",
         "onlia.ca"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.achmea.nl/en/responsibledisclosure"
     },
     {
@@ -2447,7 +2447,7 @@
         "devicelock.com",
         "acronis.work"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/acronis"
     },
     {
@@ -2456,7 +2456,7 @@
         "adafruit.com",
         "adafruitdaily.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.adafruit.com/reportingsecurityissues"
     },
     {
@@ -2464,7 +2464,7 @@
       "domains": [
         "agicap.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://agicap.com/en/bug-bounty/"
     },
     {
@@ -2472,7 +2472,7 @@
       "domains": [
         "aims360.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.aims360.com/vulnerability-responses/"
     },
     {
@@ -2480,7 +2480,7 @@
       "domains": [
         "airmap.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.airmap.com/legal#responsible-disclosure-notice"
     },
     {
@@ -2493,7 +2493,7 @@
         "accengage.net",
         "urbanairship.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.airship.com/legal/full-disclosure-security-policy/"
     },
     {
@@ -2502,7 +2502,7 @@
         "airtable.com",
         "staging-airtableblocks.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/airtable"
     },
     {
@@ -2510,7 +2510,7 @@
       "domains": [
         "aiven.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/aiven_ltd"
     },
     {
@@ -2519,7 +2519,7 @@
         "alasco.de",
         "alasco.rocks"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.alasco.de/security/bug-bounty/"
     },
     {
@@ -2527,7 +2527,7 @@
       "domains": [
         "alaskaair.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.alaskaair.com/content/about-us/site-info/report-site-security-issues"
     },
     {
@@ -2537,7 +2537,7 @@
         "algolia.com",
         "algolia.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/algolia"
     },
     {
@@ -2567,7 +2567,7 @@
         "youku.com",
         "aliyuncs.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/alibaba"
     },
     {
@@ -2575,7 +2575,7 @@
       "domains": [
         "allbridge.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/allbridge/allbridge"
     },
     {
@@ -2610,7 +2610,7 @@
         "yonomi.com",
         "nombau.de"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/allegion"
     },
     {
@@ -2618,7 +2618,7 @@
       "domains": [
         "allegrosandbox.pl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/allegro"
     },
     {
@@ -2628,7 +2628,7 @@
         "sign.plus",
         "alohi.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/alohi"
     },
     {
@@ -2653,7 +2653,7 @@
         "amazon.se",
         "amazon.com.au"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/amazonvrp"
     },
     {
@@ -2686,7 +2686,7 @@
         "asvpc.com",
         "alex-as.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/american_systems_bbp"
     },
     {
@@ -2694,7 +2694,7 @@
       "domains": [
         "amitree.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/amitree_inc"
     },
     {
@@ -2703,7 +2703,7 @@
         "amocrm.com",
         "amocrm.ru"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.amocrm.com/vulnerability-disclosure-program/"
     },
     {
@@ -2711,7 +2711,7 @@
       "domains": [
         "amon.tech"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://amon.tech/bug-bounty-program"
     },
     {
@@ -2720,7 +2720,7 @@
         "schiphol.nl",
         "schiphol.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.schiphol.nl/en/page/responsible-disclosure-notification/"
     },
     {
@@ -2729,7 +2729,7 @@
         "apple.com",
         "icloud.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://security.apple.com"
     },
     {
@@ -2737,7 +2737,7 @@
       "domains": [
         "apsis.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.apsis.com/bug-bounty"
     },
     {
@@ -2745,7 +2745,7 @@
       "domains": [
         "arlo.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/arlo"
     },
     {
@@ -2754,7 +2754,7 @@
         "arrival.com",
         "arrival.co"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://arrival.com/legal/security#purpose"
     },
     {
@@ -2762,7 +2762,7 @@
       "domains": [
         "att.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/att"
     },
     {
@@ -2770,7 +2770,7 @@
       "domains": [
         "auspost.com.au"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://auspost.com.au/about-us/about-our-site/responsible-disclosure"
     },
     {
@@ -2783,7 +2783,7 @@
         "anydao.app",
         "xata.fi"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.ata.network/bugbounty"
     },
     {
@@ -2796,7 +2796,7 @@
         "akismet.com",
         "mailpoet.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/automattic"
     },
     {
@@ -2804,7 +2804,7 @@
       "domains": [
         "auvik.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.auvik.com/vulnerability-disclosure-program/"
     },
     {
@@ -2812,7 +2812,7 @@
       "domains": [
         "availcarsharing.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://availcarsharing.com/bug-bounty"
     },
     {
@@ -2823,7 +2823,7 @@
         "avax-test.network",
         "avax-dev.network"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/avalanche"
     },
     {
@@ -2842,7 +2842,7 @@
         "ttrus.com",
         "impendulo.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/avalara"
     },
     {
@@ -2850,7 +2850,7 @@
       "domains": [
         "avrotros.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.avrotros.nl/privacy/responsible-disclosure/"
     },
     {
@@ -2859,7 +2859,7 @@
         "backblazeb2.com",
         "backblaze.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/backblaze"
     },
     {
@@ -2869,7 +2869,7 @@
         "badoocdn.com",
         "hotornot.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/badoo"
     },
     {
@@ -2878,7 +2878,7 @@
         "baidu.com",
         "hao123.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bsrc.baidu.com/v2/#/en"
     },
     {
@@ -2886,7 +2886,7 @@
       "domains": [
         "bbc.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.bbc.com/backstage/security-disclosure-policy/"
     },
     {
@@ -2894,7 +2894,7 @@
       "domains": [
         "bentley.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.bentley.com/wp-content/uploads/responsible-disclosure.pdf"
     },
     {
@@ -2910,7 +2910,7 @@
         "bigbank.nl",
         "bigbank.se"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://ca.bigbank.eu/security"
     },
     {
@@ -2919,7 +2919,7 @@
         "big.one",
         "bigone.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/bigone-global-exchange/bigone-global-exchange"
     },
     {
@@ -2928,7 +2928,7 @@
         "bime.io",
         "bimeanalytics.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/bime"
     },
     {
@@ -2936,7 +2936,7 @@
       "domains": [
         "binary.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/binary"
     },
     {
@@ -2945,7 +2945,7 @@
         "bingx.com",
         "bingx.pro"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/bingx/bingx-exchange"
     },
     {
@@ -2953,7 +2953,7 @@
       "domains": [
         "bit.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/bit-dot-com/bit-dot-com"
     },
     {
@@ -2962,7 +2962,7 @@
         "bitaccessbtm.com",
         "faa.st"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/bitaccess"
     },
     {
@@ -2970,7 +2970,7 @@
       "domains": [
         "bitfinex.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.bitfinex.com/bug-bounty/"
     },
     {
@@ -2978,7 +2978,7 @@
       "domains": [
         "bitforex.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/bitforex/bitforex"
     },
     {
@@ -2986,7 +2986,7 @@
       "domains": [
         "bitgo.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/bitgo"
     },
     {
@@ -2994,7 +2994,7 @@
       "domains": [
         "bitkub.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/bitkub/bitkub"
     },
     {
@@ -3002,7 +3002,7 @@
       "domains": [
         "bitmart.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/bitmart-exchange/bitmart-exchange"
     },
     {
@@ -3010,7 +3010,7 @@
       "domains": [
         "bitmex.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/bitmex"
     },
     {
@@ -3018,7 +3018,7 @@
       "domains": [
         "bitrue.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/bitrue/bitrue"
     },
     {
@@ -3026,7 +3026,7 @@
       "domains": [
         "bitwarden.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/bitwarden"
     },
     {
@@ -3035,7 +3035,7 @@
         "bkk.fun",
         "bkex.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/bkex/bkex"
     },
     {
@@ -3063,7 +3063,7 @@
         "blablalines.com",
         "blablacardaily.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/bug-bounty-program-blablacar"
     },
     {
@@ -3072,7 +3072,7 @@
         "blendlabs.com",
         "blend.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/blend-labs"
     },
     {
@@ -3081,7 +3081,7 @@
         "blockchain.com",
         "blockchain.info"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/blockchain"
     },
     {
@@ -3089,7 +3089,7 @@
       "domains": [
         "bluejeans.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/bluejeans"
     },
     {
@@ -3097,7 +3097,7 @@
       "domains": [
         "bluesnap.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://home.bluesnap.com/security-bounty/"
     },
     {
@@ -3107,7 +3107,7 @@
         "mini.de",
         "bmw-motorrad.de"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/bmwgroup"
     },
     {
@@ -3116,7 +3116,7 @@
         "boozt.com",
         "booztlet.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/boozt"
     },
     {
@@ -3125,7 +3125,7 @@
         "basicattentiontoken.org",
         "brave.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/brave"
     },
     {
@@ -3133,7 +3133,7 @@
       "domains": [
         "btcturk.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.btcturk.com/odul-avciligi"
     },
     {
@@ -3141,7 +3141,7 @@
       "domains": [
         "btse.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/btse/btse-bug-bounty-program"
     },
     {
@@ -3149,7 +3149,7 @@
       "domains": [
         "buffer.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://buffer.com/legal#security"
     },
     {
@@ -3157,7 +3157,7 @@
       "domains": [
         "bugcrowd.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/bugcrowd"
     },
     {
@@ -3166,7 +3166,7 @@
         "bugpoc.com",
         "bugpoc.ninja"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/bugpoc"
     },
     {
@@ -3174,7 +3174,7 @@
       "domains": [
         "bugv.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.bugv.io/researcher/program/0000001/detail"
     },
     {
@@ -3182,7 +3182,7 @@
       "domains": [
         "bullish.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/bullish"
     },
     {
@@ -3190,7 +3190,7 @@
       "domains": [
         "bunq.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/bunq"
     },
     {
@@ -3198,7 +3198,7 @@
       "domains": [
         "canon.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://canon.a.bigcontent.io/v1/static/canon_vdp_program-policy"
     },
     {
@@ -3207,7 +3207,7 @@
         "casper.com",
         "casper.tools"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/casper"
     },
     {
@@ -3216,7 +3216,7 @@
         "cbre.com",
         "trammellcrow.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/cbre"
     },
     {
@@ -3224,7 +3224,7 @@
       "domains": [
         "cbs.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.cbs.nl/nl-nl/over-ons/website/responsible-disclosure"
     },
     {
@@ -3238,7 +3238,7 @@
         "cedars-sinai.edu",
         "kerlanjobe.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/cedars-sinai"
     },
     {
@@ -3246,7 +3246,7 @@
       "domains": [
         "maven.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/central-security-project"
     },
     {
@@ -3254,7 +3254,7 @@
       "domains": [
         "centrify.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/centrify"
     },
     {
@@ -3262,7 +3262,7 @@
       "domains": [
         "cfptime.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/cfptime"
     },
     {
@@ -3271,7 +3271,7 @@
         "chain.link",
         "smartcontract.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/chainlink"
     },
     {
@@ -3279,7 +3279,7 @@
       "domains": [
         "payportal.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://chargezoom.com/bugbounty/"
     },
     {
@@ -3288,7 +3288,7 @@
         "chase.com",
         "jpmorganchase.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://responsibledisclosure.jpmorganchase.com"
     },
     {
@@ -3298,7 +3298,7 @@
         "securegatewayaccess.com",
         "highwebmedia.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/chaturbate"
     },
     {
@@ -3306,7 +3306,7 @@
       "domains": [
         "checkpoint.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.checkpoint.com/white-hat/"
     },
     {
@@ -3314,7 +3314,7 @@
       "domains": [
         "circle.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/circle"
     },
     {
@@ -3324,7 +3324,7 @@
         "cirruspath.com",
         "zynbitdev.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/cirrusinsight"
     },
     {
@@ -3333,7 +3333,7 @@
         "lacity.org",
         "lacity.gov"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/city_of_los_angeles_vdp"
     },
     {
@@ -3341,7 +3341,7 @@
       "domains": [
         "celo.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.intigriti.com/programs/clabs/clabs/detail"
     },
     {
@@ -3350,7 +3350,7 @@
         "clario.co",
         "mackeeper.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/clario"
     },
     {
@@ -3358,7 +3358,7 @@
       "domains": [
         "clausestaging.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://clause.io/security"
     },
     {
@@ -3366,7 +3366,7 @@
       "domains": [
         "clickup.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://clickup.com/bug-bounty"
     },
     {
@@ -3374,7 +3374,7 @@
       "domains": [
         "clio.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://support.clio.com/hc/en-us/articles/360001114273-How-do-I-Claim-a-Bug-Bounty-or-Report-a-Vulnerability-"
     },
     {
@@ -3382,7 +3382,7 @@
       "domains": [
         "cloudinary.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/cloudinary"
     },
     {
@@ -3390,7 +3390,7 @@
       "domains": [
         "cloudways.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/cloudways"
     },
     {
@@ -3398,7 +3398,7 @@
       "domains": [
         "thecoalition.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/coalition"
     },
     {
@@ -3407,7 +3407,7 @@
         "cobinhood.exchange",
         "cobinhood.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/cobinhood"
     },
     {
@@ -3415,7 +3415,7 @@
       "domains": [
         "coda.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/coda_bbp"
     },
     {
@@ -3423,7 +3423,7 @@
       "domains": [
         "codechef.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.codechef.com/bug-bounty-program"
     },
     {
@@ -3431,7 +3431,7 @@
       "domains": [
         "codefi.network"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/codefi_bbp"
     },
     {
@@ -3439,7 +3439,7 @@
       "domains": [
         "codeigniter.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/codeigniter"
     },
     {
@@ -3447,7 +3447,7 @@
       "domains": [
         "coin98.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/coin98/coin98"
     },
     {
@@ -3457,7 +3457,7 @@
         "dcxstage.com",
         "dcxlearn.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/coindcx-og"
     },
     {
@@ -3466,7 +3466,7 @@
         "coingecko.com",
         "geckoterminal.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/coingecko/coingecko"
     },
     {
@@ -3474,7 +3474,7 @@
       "domains": [
         "coinmetro.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/coinmetro/coinmetro-exchange"
     },
     {
@@ -3482,7 +3482,7 @@
       "domains": [
         "coinsbit.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/coinsbit/coinsbit"
     },
     {
@@ -3490,7 +3490,7 @@
       "domains": [
         "coinspot.com.au"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/coinspot?type=team"
     },
     {
@@ -3498,7 +3498,7 @@
       "domains": [
         "coinstore.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/coinstore/coinstore"
     },
     {
@@ -3506,7 +3506,7 @@
       "domains": [
         "companyhub.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/companyhub"
     },
     {
@@ -3514,7 +3514,7 @@
       "domains": [
         "conclusion.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.conclusion.nl/kleine-lettertjes/coordinated-vulnerability-disclosure"
     },
     {
@@ -3522,7 +3522,7 @@
       "domains": [
         "connectis.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://connectis.com/en/about-us/security/responsible-disclosure-policy/"
     },
     {
@@ -3531,7 +3531,7 @@
         "consensys.net",
         "nfura.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/consensys"
     },
     {
@@ -3540,7 +3540,7 @@
         "constantcontact.com",
         "singleplatform.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/constantcontact"
     },
     {
@@ -3548,7 +3548,7 @@
       "domains": [
         "consumerfinance.gov"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.consumerfinance.gov/vulnerability-disclosure-policy/"
     },
     {
@@ -3559,7 +3559,7 @@
         "applianceserviceplan.com",
         "cms-enterprises.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.consumersenergy.com/security"
     },
     {
@@ -3567,7 +3567,7 @@
       "domains": [
         "core.app"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/avalanche/core"
     },
     {
@@ -3578,7 +3578,7 @@
         "cornershop.io",
         "superpal.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/cornershop"
     },
     {
@@ -3589,7 +3589,7 @@
         "costcobusinessdelivery.com",
         "costcobusinesscentre.ca"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/costco"
     },
     {
@@ -3599,7 +3599,7 @@
         "trycourier.com",
         "ct0.app"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/trycourier"
     },
     {
@@ -3607,7 +3607,7 @@
       "domains": [
         "coursera.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/coursera"
     },
     {
@@ -3616,7 +3616,7 @@
         "creditkarma.com",
         "creditkarma.ca"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/creditkarma"
     },
     {
@@ -3624,7 +3624,7 @@
       "domains": [
         "crowdin.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://support.crowdin.com/vulnerability-policy/"
     },
     {
@@ -3636,7 +3636,7 @@
         "hybrid-analysis.com",
         "reverse.it"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/crowdstrike"
     },
     {
@@ -3646,7 +3646,7 @@
         "monaco.mobile",
         "crypto.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/crypto"
     },
     {
@@ -3654,7 +3654,7 @@
       "domains": [
         "cryptology.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/cryptology/cryptology"
     },
     {
@@ -3664,7 +3664,7 @@
         "curve.app",
         "curve.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/curve"
     },
     {
@@ -3674,7 +3674,7 @@
         "cuvva.com",
         "cuv-prod.app"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/cuvva"
     },
     {
@@ -3683,7 +3683,7 @@
         "cvs.com",
         "cvshealth.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.cvshealth.com/vulnerability-disclosure-program"
     },
     {
@@ -3693,7 +3693,7 @@
         "cynicaltechnology.com.np",
         "cynical.com.np"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.bugv.io/researcher/program/0000006/detail"
     },
     {
@@ -3701,7 +3701,7 @@
       "domains": [
         "d66.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://d66.nl/responsible-disclosure/"
     },
     {
@@ -3712,7 +3712,7 @@
         "june.dk",
         "sunday.dk"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://danskebank.com/responsible-disclosure"
     },
     {
@@ -3720,7 +3720,7 @@
       "domains": [
         "dashlane.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/dashlane"
     },
     {
@@ -3730,7 +3730,7 @@
         "libav.org",
         "videolan.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/ibb-data"
     },
     {
@@ -3742,7 +3742,7 @@
         "spark-portal.org",
         "spark-summit.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/databricks"
     },
     {
@@ -3750,7 +3750,7 @@
       "domains": [
         "datadome.co"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/datadome-bug-bounty"
     },
     {
@@ -3758,7 +3758,7 @@
       "domains": [
         "datastax.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/datastax"
     },
     {
@@ -3776,7 +3776,7 @@
         "infocyte.com",
         "soonr.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.datto.com/legal/vulnerability-disclosure-program"
     },
     {
@@ -3784,7 +3784,7 @@
       "domains": [
         "rechtspraak.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.rechtspraak.nl/English/Contact/Pages/Contact-point-vulnerabilities-responsible-disclosure.aspx"
     },
     {
@@ -3795,7 +3795,7 @@
         "blgwonen.nl",
         "regiobank.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/devolksbank"
     },
     {
@@ -3803,7 +3803,7 @@
       "domains": [
         "deezer.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/deezer-bug-bounty-program-2019"
     },
     {
@@ -3813,7 +3813,7 @@
         "delight.im",
         "moviecontentfilter.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/delight_im"
     },
     {
@@ -3827,7 +3827,7 @@
         "rsaconference.com",
         "secureworks.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/dell-com"
     },
     {
@@ -3835,7 +3835,7 @@
       "domains": [
         "deribit.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/deribit"
     },
     {
@@ -3843,7 +3843,7 @@
       "domains": [
         "db.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/deutschebank-vdp"
     },
     {
@@ -3854,7 +3854,7 @@
         "telekom.com",
         "t-systems.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/closing-security-gaps-360054"
     },
     {
@@ -3862,13 +3862,13 @@
       "domains": [
         "dex-trade.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/dex-trade/dex-trade"
     },
     {
       "name": "Dexalot",
       "domains": [],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/dexalot/dexalot-smart-contracts"
     },
     {
@@ -3880,7 +3880,7 @@
         "udache.com",
         "didiyun.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://sec.didichuxing.com"
     },
     {
@@ -3888,7 +3888,7 @@
       "domains": [
         "difx.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/difx/difx"
     },
     {
@@ -3897,7 +3897,7 @@
         "digitaloceanspaces.com",
         "digitalocean.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/digitalocean"
     },
     {
@@ -3905,7 +3905,7 @@
       "domains": [
         "discord.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://canary.discord.com/security"
     },
     {
@@ -3919,7 +3919,7 @@
         "robomaster.com",
         "djiservice.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://security.dji.com/policy?lang=en_US"
     },
     {
@@ -3931,7 +3931,7 @@
         "doctolib.com",
         "doctolib.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/doctolib-public-bug-bounty-program"
     },
     {
@@ -3940,7 +3940,7 @@
         "todoist.com",
         "twist.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://todoist.com/help/articles/doist-bug-bounty-policy"
     },
     {
@@ -3948,7 +3948,7 @@
       "domains": [
         "dokobit.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.dokobit.com/compliance/vulnerability-disclosure-policy"
     },
     {
@@ -3957,7 +3957,7 @@
         "dpgmedia.be",
         "dpgmedia.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.intigriti.com/programs/dpgm/dpgmedia/detail"
     },
     {
@@ -3968,7 +3968,7 @@
         "helloworks.com",
         "dropboxforum.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/dropbox"
     },
     {
@@ -3976,7 +3976,7 @@
       "domains": [
         "duckduckgo.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/duckduckgo"
     },
     {
@@ -3984,7 +3984,7 @@
       "domains": [
         "belastingdienst.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/fraude_misdaad_en_misstanden_melden/datalek-beveiligingslek-misbruik-computersystemen/datalek-beveiligingslek-misbruik-computersystemen"
     },
     {
@@ -3992,7 +3992,7 @@
       "domains": [
         "easyname.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.easyname.de/de/support/easyname/253-bug-bounty-programm"
     },
     {
@@ -4000,7 +4000,7 @@
       "domains": [
         "easyprojects.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.easyprojects.net/company/vulnerability-reward-program/"
     },
     {
@@ -4008,7 +4008,7 @@
       "domains": [
         "eccouncil.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.eccouncil.org/bug-bounty/"
     },
     {
@@ -4016,7 +4016,7 @@
       "domains": [
         "ecobee.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/ecobee"
     },
     {
@@ -4028,7 +4028,7 @@
         "securitytxt.org",
         "wewriteyour.report"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/ed"
     },
     {
@@ -4036,7 +4036,7 @@
       "domains": [
         "eerstekamer.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.eerstekamer.nl/begrip/responsible_disclosure"
     },
     {
@@ -4044,7 +4044,7 @@
       "domains": [
         "eff.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.eff.org/security/"
     },
     {
@@ -4058,7 +4058,7 @@
         "eops.nl",
         "elastic-cloud.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/elastic"
     },
     {
@@ -4066,7 +4066,7 @@
       "domains": [
         "elementor.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/elementor"
     },
     {
@@ -4074,7 +4074,7 @@
       "domains": [
         "elo.com.br"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugbounty.hackaflag.com.br/hempresa.php?id=13"
     },
     {
@@ -4082,7 +4082,7 @@
       "domains": [
         "empuls.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.empuls.io/bug-bounty"
     },
     {
@@ -4092,7 +4092,7 @@
         "theendlessweb.com",
         "djelectro.me"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/endless_hosting"
     },
     {
@@ -4100,7 +4100,7 @@
       "domains": [
         "engelvoelkers.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/engel_volkers"
     },
     {
@@ -4108,7 +4108,7 @@
       "domains": [
         "eobot.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/eobotcom"
     },
     {
@@ -4116,7 +4116,7 @@
       "domains": [
         "epam.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/epam-bbp"
     },
     {
@@ -4124,7 +4124,7 @@
       "domains": [
         "eslint.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/eslint"
     },
     {
@@ -4134,7 +4134,7 @@
         "etoropartners.com",
         "delta.app"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/etoro_bbp"
     },
     {
@@ -4143,7 +4143,7 @@
         "etsy.com",
         "etsypayments.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/etsy"
     },
     {
@@ -4151,7 +4151,7 @@
       "domains": [
         "europa.eu"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.ecb.europa.eu/services/responsible-disclosure/html/index.nl.html"
     },
     {
@@ -4160,7 +4160,7 @@
         "eventbrite.com",
         "eventbrite.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.eventbrite.com/security/"
     },
     {
@@ -4168,7 +4168,7 @@
       "domains": [
         "evernote.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/evernote"
     },
     {
@@ -4176,7 +4176,7 @@
       "domains": [
         "every.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/stagingdoteverydotorg"
     },
     {
@@ -4185,7 +4185,7 @@
         "exmo.com",
         "exmo.me"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/exmo/exmo"
     },
     {
@@ -4194,7 +4194,7 @@
         "exodus.io",
         "exodus.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/exodus"
     },
     {
@@ -4231,7 +4231,7 @@
         "travelocity.ca",
         "expediaagents.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/expediagroup"
     },
     {
@@ -4252,7 +4252,7 @@
         "mapillary.com",
         "whatsapp.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.facebook.com/whitehat"
     },
     {
@@ -4262,7 +4262,7 @@
         "fanduel.com",
         "fanduel.design"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/fanduel"
     },
     {
@@ -4271,7 +4271,7 @@
         "signalsciences.com",
         "fanout.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/fastly-vdp"
     },
     {
@@ -4279,7 +4279,7 @@
       "domains": [
         "fetlife.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/fetlife"
     },
     {
@@ -4287,7 +4287,7 @@
       "domains": [
         "fidentity.ch"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://gobugfree.com/programs/fidentity"
     },
     {
@@ -4295,7 +4295,7 @@
       "domains": [
         "fig.co"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/fig"
     },
     {
@@ -4303,7 +4303,7 @@
       "domains": [
         "files.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/files"
     },
     {
@@ -4311,7 +4311,7 @@
       "domains": [
         "filezilla-project.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/filezilla"
     },
     {
@@ -4319,7 +4319,7 @@
       "domains": [
         "finra.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/finra"
     },
     {
@@ -4327,7 +4327,7 @@
       "domains": [
         "fireeye.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://kcm.trellix.com/corporate/index?page=content&id=KB95563"
     },
     {
@@ -4335,7 +4335,7 @@
       "domains": [
         "first.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.first.org/about/bugs"
     },
     {
@@ -4344,7 +4344,7 @@
         "fitbit.com",
         "fitstar.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/fitbit"
     },
     {
@@ -4353,7 +4353,7 @@
         "flexport.com",
         "transmissionapp.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/flexport_vdp"
     },
     {
@@ -4361,7 +4361,7 @@
       "domains": [
         "flickr.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/flickr"
     },
     {
@@ -4369,7 +4369,7 @@
       "domains": [
         "flipkart.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.flipkart.com/pages/security"
     },
     {
@@ -4377,7 +4377,7 @@
       "domains": [
         "floqast.app"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/floqast"
     },
     {
@@ -4390,7 +4390,7 @@
         "cloudipsp.com",
         "cipsp.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://docs.fondy.eu/en/docs/page/bug-bounty-program"
     },
     {
@@ -4399,7 +4399,7 @@
         "forescoutcloud.net",
         "forescout.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/forescout_technologies"
     },
     {
@@ -4407,7 +4407,7 @@
       "domains": [
         "foxycart.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/foxycart"
     },
     {
@@ -4423,7 +4423,7 @@
         "freshconnect.io",
         "freshping.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.freshworks.com/security/responsible-disclosure/"
     },
     {
@@ -4431,7 +4431,7 @@
       "domains": [
         "gate.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/gate-dot-io/gate-dot-io-exchange"
     },
     {
@@ -4439,7 +4439,7 @@
       "domains": [
         "genasys.tech"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/genasys"
     },
     {
@@ -4447,7 +4447,7 @@
       "domains": [
         "gener8ads.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/gener8"
     },
     {
@@ -4455,7 +4455,7 @@
       "domains": [
         "geotab.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://community.geotab.com/s/article/How-to-report-security-vulnerabilities?language=en_US"
     },
     {
@@ -4464,7 +4464,7 @@
         "gitter.im",
         "gitlab.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/gitlab"
     },
     {
@@ -4473,7 +4473,7 @@
         "glassdoor.app",
         "glassdoor.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/glassdoor"
     },
     {
@@ -4481,7 +4481,7 @@
       "domains": [
         "gmelius.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/gmelius"
     },
     {
@@ -4489,7 +4489,7 @@
       "domains": [
         "gobugfree.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://gobugfree.com/programs/bbh"
     },
     {
@@ -4502,7 +4502,7 @@
         "mab.co.id",
         "gojek.co.id"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/gojek"
     },
     {
@@ -4510,7 +4510,7 @@
       "domains": [
         "goodrx.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/goodrx"
     },
     {
@@ -4524,7 +4524,7 @@
         "blogger.com",
         "signalpath.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.google.com/about/appsecurity/reward-program/"
     },
     {
@@ -5958,7 +5958,7 @@
         "zwdelta.nl",
         "zwemwater.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.government.nl/topics/cybercrime/fighting-cybercrime-in-the-netherlands/responsible-disclosure"
     },
     {
@@ -5972,7 +5972,7 @@
         "grabpay.com",
         "grabtaxi.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/grab"
     },
     {
@@ -5983,7 +5983,7 @@
         "grammarly.io",
         "grammarly.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/grammarly"
     },
     {
@@ -5992,7 +5992,7 @@
         "greenhouse.events",
         "greenhouse.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/greenhouse"
     },
     {
@@ -6002,7 +6002,7 @@
         "grindr.com",
         "grindr.mobi"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/grindr"
     },
     {
@@ -6010,7 +6010,7 @@
       "domains": [
         "grofers.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://grofers.com/bug-bounty"
     },
     {
@@ -6018,7 +6018,7 @@
       "domains": [
         "groww.in"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://groww.in/p/security/"
     },
     {
@@ -6027,7 +6027,7 @@
         "gymshark.com",
         "gymshark.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/gymshark"
     },
     {
@@ -6041,7 +6041,7 @@
         "afound.com",
         "stories.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www2.hm.com/security.txt"
     },
     {
@@ -6049,7 +6049,7 @@
       "domains": [
         "h1ctf.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/h1-ctf"
     },
     {
@@ -6057,7 +6057,7 @@
       "domains": [
         "hackchecks.in"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackchecks.in/responsible-disclosure/"
     },
     {
@@ -6065,7 +6065,7 @@
       "domains": [
         "hackenproof.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/hacken/hackenproof"
     },
     {
@@ -6073,7 +6073,7 @@
       "domains": [
         "hackerrank.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.hackerrank.com/trust/security/"
     },
     {
@@ -6082,7 +6082,7 @@
         "hakka.finance",
         "igain.finance"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://immunefi.com/bounty/hakkafinance/"
     },
     {
@@ -6092,7 +6092,7 @@
         "fuzzing-project.org",
         "hboeck.de"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/hannob"
     },
     {
@@ -6100,7 +6100,7 @@
       "domains": [
         "harvard.edu"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://huit.harvard.edu/responsible-vulnerability-reporting-standards#inscope"
     },
     {
@@ -6110,7 +6110,7 @@
         "getharvest.com",
         "harvestapp.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/harvest"
     },
     {
@@ -6119,7 +6119,7 @@
         "helium.systems",
         "helium.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/helium"
     },
     {
@@ -6132,7 +6132,7 @@
         "hiltonjapan.co.jp",
         "hiltonmanage.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/hilton"
     },
     {
@@ -6141,7 +6141,7 @@
         "hootsuite.com",
         "ow.ly"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.hootsuite.com/security"
     },
     {
@@ -6154,7 +6154,7 @@
         "hostgator.io",
         "hostgator.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/hostgator"
     },
     {
@@ -6164,7 +6164,7 @@
         "zyro.com",
         "hosting24.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.hostinger.in/responsible-disclosure-policy"
     },
     {
@@ -6172,7 +6172,7 @@
       "domains": [
         "hotbit.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/hotbit/hotbit"
     },
     {
@@ -6180,7 +6180,7 @@
       "domains": [
         "htc.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.htc.com/in/terms/product-security/"
     },
     {
@@ -6191,7 +6191,7 @@
         "huawei.com",
         "huaweicloud.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugbounty.huawei.com/hbp/#/program"
     },
     {
@@ -6199,7 +6199,7 @@
       "domains": [
         "humblebundle.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/humblebundle"
     },
     {
@@ -6207,7 +6207,7 @@
       "domains": [
         "huobi.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/huobi-global/huobi"
     },
     {
@@ -6215,7 +6215,7 @@
       "domains": [
         "hy-vee.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/hy-vee"
     },
     {
@@ -6223,7 +6223,7 @@
       "domains": [
         "hyatt.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/hyatt"
     },
     {
@@ -6231,7 +6231,7 @@
       "domains": [
         "hyperledger.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/hyperledger"
     },
     {
@@ -6239,7 +6239,7 @@
       "domains": [
         "ibm.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/ibm"
     },
     {
@@ -6248,7 +6248,7 @@
         "ibotta.com",
         "ibops.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/ibotta"
     },
     {
@@ -6256,7 +6256,7 @@
       "domains": [
         "ikea.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugs.ikea.com/"
     },
     {
@@ -6264,7 +6264,7 @@
       "domains": [
         "imgur.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/imgur"
     },
     {
@@ -6272,7 +6272,7 @@
       "domains": [
         "impactguru.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.impactguru.com/bug-bounty"
     },
     {
@@ -6281,7 +6281,7 @@
         "indeed.com",
         "indeed.tech"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/indeed"
     },
     {
@@ -6290,7 +6290,7 @@
         "indmoney.com",
         "indiawealth.in"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.indmoney.com/page/bug-bounty"
     },
     {
@@ -6298,7 +6298,7 @@
       "domains": [
         "indriver.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/indrive"
     },
     {
@@ -6306,7 +6306,7 @@
       "domains": [
         "infogram.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/infogram"
     },
     {
@@ -6314,7 +6314,7 @@
       "domains": [
         "informatica.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/informatica"
     },
     {
@@ -6323,7 +6323,7 @@
         "ing.com",
         "ing.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/ing"
     },
     {
@@ -6331,7 +6331,7 @@
       "domains": [
         "insolar.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/insolar"
     },
     {
@@ -6340,7 +6340,7 @@
         "instacart.com",
         "instacart.tools"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/instacart"
     },
     {
@@ -6348,7 +6348,7 @@
       "domains": [
         "instamojo.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://support.instamojo.com/hc/en-us/articles/207758769-Instamojo-Bug-Bounty-Policy"
     },
     {
@@ -6357,7 +6357,7 @@
         "myomnipod.com",
         "poddercentral.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/insulet_corporation"
     },
     {
@@ -6365,7 +6365,7 @@
       "domains": [
         "intercom.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/intercom"
     },
     {
@@ -6373,7 +6373,7 @@
       "domains": [
         "internet.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://internet.nl/disclosure/"
     },
     {
@@ -6381,7 +6381,7 @@
       "domains": [
         "intigriti.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.intigriti.com/programs/intigriti/intigriti/detail"
     },
     {
@@ -6393,7 +6393,7 @@
         "quickbooks.com",
         "mailchimp.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/intuitinc"
     },
     {
@@ -6402,7 +6402,7 @@
         "investnextdemo.co",
         "investnext.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/investnext"
     },
     {
@@ -6411,7 +6411,7 @@
         "muz.li",
         "invisionapp.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/invision"
     },
     {
@@ -6423,7 +6423,7 @@
         "machinefi.com",
         "iopay.me"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/iotex/iotex"
     },
     {
@@ -6431,7 +6431,7 @@
       "domains": [
         "rsk.co"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/iovlabs"
     },
     {
@@ -6440,7 +6440,7 @@
         "irccloud.com",
         "irccloud-cdn.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/irccloud"
     },
     {
@@ -6448,7 +6448,7 @@
       "domains": [
         "issuu.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://issuu.com/responsible-disclosure"
     },
     {
@@ -6456,7 +6456,7 @@
       "domains": [
         "itslearning.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://itslearning.com/global/your-data-matters/responsible-disclosure/"
     },
     {
@@ -6464,7 +6464,7 @@
       "domains": [
         "ivanti.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/ivanti"
     },
     {
@@ -6474,7 +6474,7 @@
         "jamieweb.net",
         "jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/jamieweb"
     },
     {
@@ -6483,7 +6483,7 @@
         "jd.com",
         "360buy.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/jd_com"
     },
     {
@@ -6491,7 +6491,7 @@
       "domains": [
         "jetblue.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/jetblue"
     },
     {
@@ -6500,7 +6500,7 @@
         "jfrog.com",
         "jfrog.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/jfrog"
     },
     {
@@ -6511,7 +6511,7 @@
         "jimdosite.com",
         "jimdo-platform.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/jimdo"
     },
     {
@@ -6519,13 +6519,13 @@
       "domains": [
         "jivosite.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://jivochat.com/bugbounty/"
     },
     {
       "name": "JNJ Mobile",
       "domains": [],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/jnj_mobile"
     },
     {
@@ -6535,7 +6535,7 @@
         "deere.com",
         "jdisonline.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/john-deere"
     },
     {
@@ -6543,7 +6543,7 @@
       "domains": [
         "jojo.exchange"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/jojo/jojo-web"
     },
     {
@@ -6552,7 +6552,7 @@
         "jooki.rocks",
         "muuselabs.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.intigriti.com/programs/muuselabs/jooki/detail"
     },
     {
@@ -6560,7 +6560,7 @@
       "domains": [
         "kartpay.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/kartpay"
     },
     {
@@ -6569,7 +6569,7 @@
         "keepersecurity.com",
         "keepersecurity.eu"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/keepersecurity"
     },
     {
@@ -6577,7 +6577,7 @@
       "domains": [
         "kennasecurity.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/kennasecurity"
     },
     {
@@ -6585,7 +6585,7 @@
       "domains": [
         "khanacademy.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/khanacademy"
     },
     {
@@ -6608,7 +6608,7 @@
         "vladcazino.ro",
         "igame.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/kindred_group"
     },
     {
@@ -6616,7 +6616,7 @@
       "domains": [
         "kiwi.ki"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/kiwi-ki"
     },
     {
@@ -6625,7 +6625,7 @@
         "koho.ca",
         "koho.app"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/koho"
     },
     {
@@ -6633,7 +6633,7 @@
       "domains": [
         "slots.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/kopikas_entertainment"
     },
     {
@@ -6642,7 +6642,7 @@
         "dragonapp.io",
         "getdragon.ch"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/kraden"
     },
     {
@@ -6653,7 +6653,7 @@
         "cryptofacilities.com",
         "cfbenchmarks.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.kraken.com/en-us/features/security/bug-bounty"
     },
     {
@@ -6663,7 +6663,7 @@
         "k8s.io",
         "gcr.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/kubernetes"
     },
     {
@@ -6671,7 +6671,7 @@
       "domains": [
         "kucoin.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/kucoin"
     },
     {
@@ -6679,7 +6679,7 @@
       "domains": [
         "kuna.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/kuna/kuna-crypto-exchange"
     },
     {
@@ -6688,7 +6688,7 @@
         "lachain.io",
         "ladex.exchange"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/latoken/lachain-dot-io"
     },
     {
@@ -6697,7 +6697,7 @@
         "larksuite.com",
         "byteoversea.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/lark_technologies"
     },
     {
@@ -6705,7 +6705,7 @@
       "domains": [
         "lastpass.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/lastpass"
     },
     {
@@ -6713,7 +6713,7 @@
       "domains": [
         "latoken.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/latoken/latoken-exchange"
     },
     {
@@ -6721,7 +6721,7 @@
       "domains": [
         "lcx.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/lcx/lcx"
     },
     {
@@ -6730,7 +6730,7 @@
         "legalrobot-test.com",
         "legalrobot.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/legalrobot"
     },
     {
@@ -6738,7 +6738,7 @@
       "domains": [
         "lemlist.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/lemlist"
     },
     {
@@ -6746,7 +6746,7 @@
       "domains": [
         "letsbuild.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.letsbuild.com/responsible-disclosure"
     },
     {
@@ -6755,7 +6755,7 @@
         "liberapay.com",
         "liberapay.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/liberapay"
     },
     {
@@ -6763,7 +6763,7 @@
       "domains": [
         "lido.fi"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://immunefi.com/bounty/lido/"
     },
     {
@@ -6773,7 +6773,7 @@
         "lifeomic.com",
         "jupiterone.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/lifeomic"
     },
     {
@@ -6783,7 +6783,7 @@
         "line-apps.com",
         "naver.jp"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/line"
     },
     {
@@ -6802,7 +6802,7 @@
         "odesli.com",
         "songlink.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/linktree"
     },
     {
@@ -6810,7 +6810,7 @@
       "domains": [
         "liquidweb.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.liquidweb.com/about-us/policies/bug-bounty-program/"
     },
     {
@@ -6818,7 +6818,7 @@
       "domains": [
         "livestream.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/livestream"
     },
     {
@@ -6827,7 +6827,7 @@
         "lob.com",
         "lob-assets.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/lob"
     },
     {
@@ -6836,7 +6836,7 @@
         "localizestaging.com",
         "localize.live"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/localizejs"
     },
     {
@@ -6847,7 +6847,7 @@
         "lahitapiolarahoitus.fi",
         "tapiola.fi"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/localtapiola"
     },
     {
@@ -6879,7 +6879,7 @@
         "cognitiveperformer.com",
         "logitech.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/logitech"
     },
     {
@@ -6887,7 +6887,7 @@
       "domains": [
         "logmeonce.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.logmeonce.com/vulnerability-disclosure-policy/"
     },
     {
@@ -6897,7 +6897,7 @@
         "lyst.com",
         "lyst.co"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/lyst"
     },
     {
@@ -6908,7 +6908,7 @@
         "magentocommerce.com",
         "magentolive.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/magento"
     },
     {
@@ -6916,13 +6916,13 @@
       "domains": [
         "magisto.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/magisto"
     },
     {
       "name": "Mailtime Technology",
       "domains": [],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/mailtime_technology_inc"
     },
     {
@@ -6930,7 +6930,7 @@
       "domains": [
         "mailtrack.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://mailtrack.io/en/responsible-vulnerability"
     },
     {
@@ -6938,7 +6938,7 @@
       "domains": [
         "make.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.make.com/en/bounty"
     },
     {
@@ -6946,7 +6946,7 @@
       "domains": [
         "makemytrip.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.makemytrip.com/pwa-hlp/mmtbb/report"
     },
     {
@@ -6954,7 +6954,7 @@
       "domains": [
         "makerdao.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://immunefi.com/bounty/makerdao/"
     },
     {
@@ -6962,7 +6962,7 @@
       "domains": [
         "mapbox.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/mapbox"
     },
     {
@@ -6970,7 +6970,7 @@
       "domains": [
         "mariadb.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/mariadb"
     },
     {
@@ -6983,7 +6983,7 @@
         "eleganthotels.com",
         "marrtool.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/marriott"
     },
     {
@@ -7005,7 +7005,7 @@
         "banfield.com",
         "vcahospitals.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/mars"
     },
     {
@@ -7017,7 +7017,7 @@
         "mastercard.us",
         "simplify.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/mastercard"
     },
     {
@@ -7040,7 +7040,7 @@
         "tasteofpremium.jp",
         "mastercardbiz.ca"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/mastercard-vdp"
     },
     {
@@ -7049,7 +7049,7 @@
         "matomo.org",
         "innocraft.cloud"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/matomo"
     },
     {
@@ -7062,7 +7062,7 @@
         "werkenbijderet.nl",
         "werkenbijbakertilly.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/maximum"
     },
     {
@@ -7070,7 +7070,7 @@
       "domains": [
         "mcdelivery.co.in"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.mcdelivery.co.in/More/bugBounty"
     },
     {
@@ -7093,7 +7093,7 @@
         "saturn.de",
         "saturn.lu"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://vdp.mediamarktsaturn.com/p/Submission-Form"
     },
     {
@@ -7104,7 +7104,7 @@
         "dianping.com",
         "neixin.cn"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://security.meituan.com/"
     },
     {
@@ -7112,7 +7112,7 @@
       "domains": [
         "mendix.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/mendix"
     },
     {
@@ -7120,7 +7120,7 @@
       "domains": [
         "mercadolibre.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/mercadolibre"
     },
     {
@@ -7138,7 +7138,7 @@
         "live.net",
         "skype.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.microsoft.com/en-us/msrc/bounty-online-services"
     },
     {
@@ -7146,7 +7146,7 @@
       "domains": [
         "mobikwik.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.mobikwik.com/bug-bounty/guidelines"
     },
     {
@@ -7154,7 +7154,7 @@
       "domains": [
         "mobile.de"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.zerocopter.com/de/rd/aef29c56-5295-4789-b848-3f121eeca350"
     },
     {
@@ -7162,7 +7162,7 @@
       "domains": [
         "mobisystems.office"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/mobisystems_ltd"
     },
     {
@@ -7170,7 +7170,7 @@
       "domains": [
         "mollie.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.mollie.com/responsible-disclosure"
     },
     {
@@ -7178,7 +7178,7 @@
       "domains": [
         "monespacesante.fr"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/mon-espace-sante-mes"
     },
     {
@@ -7186,7 +7186,7 @@
       "domains": [
         "monarchmoney.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/monarch_money"
     },
     {
@@ -7194,7 +7194,7 @@
       "domains": [
         "monash.edu"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/monash-mbb"
     },
     {
@@ -7203,7 +7203,7 @@
         "moneybird.com",
         "moneybirdstorage.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/moneybird"
     },
     {
@@ -7212,7 +7212,7 @@
         "getmoneytree.com",
         "moneytree.jp"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/moneytreekkog"
     },
     {
@@ -7220,7 +7220,7 @@
       "domains": [
         "mongodb.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/mongodb"
     },
     {
@@ -7228,7 +7228,7 @@
       "domains": [
         "tkn.zone"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/monolith"
     },
     {
@@ -7238,7 +7238,7 @@
         "hypermint.com",
         "moonpay.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/moonpay"
     },
     {
@@ -7246,7 +7246,7 @@
       "domains": [
         "moviexchange.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://moviexchange.com/responsible-disclosure-policy/"
     },
     {
@@ -7282,7 +7282,7 @@
         "mtnselfcare.co.zm",
         "mtn.zm"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/mtn_group"
     },
     {
@@ -7290,7 +7290,7 @@
       "domains": [
         "mujs.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://mujs.com/security.html"
     },
     {
@@ -7299,7 +7299,7 @@
         "myndr.net",
         "myndr.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/myndr"
     },
     {
@@ -7307,7 +7307,7 @@
       "domains": [
         "myntra.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.myntra.com/security/whitehat"
     },
     {
@@ -7316,7 +7316,7 @@
         "tech26.de",
         "n26.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://n26.com/en-eu/bug-bounty-program"
     },
     {
@@ -7324,7 +7324,7 @@
       "domains": [
         "narkasa.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://support.narkasa.com/hc/en-us/articles/360011019458-Bug-Bounty"
     },
     {
@@ -7332,7 +7332,7 @@
       "domains": [
         "natur.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/natur_com_gmbh"
     },
     {
@@ -7340,7 +7340,7 @@
       "domains": [
         "ncsc.gov.uk"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/ncsc_uk"
     },
     {
@@ -7348,7 +7348,7 @@
       "domains": [
         "netgear.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/netgear"
     },
     {
@@ -7356,7 +7356,7 @@
       "domains": [
         "newrelic.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/newrelic"
     },
     {
@@ -7365,7 +7365,7 @@
         "nextcloud.talk",
         "nextcloud.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/nextcloud"
     },
     {
@@ -7374,7 +7374,7 @@
         "nextiva.com",
         "nextos.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.nextiva.com/security-policy.html"
     },
     {
@@ -7387,7 +7387,7 @@
         "ngrok.app",
         "ngrok.dev"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://ngrok.com/security/disclosure-and-reward-program"
     },
     {
@@ -7397,7 +7397,7 @@
         "converse.com",
         "nike.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.nike.com/help/a/responsible-disclosure"
     },
     {
@@ -7408,7 +7408,7 @@
         "nkstatic.com",
         "ninja.kiwi"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/ninja-kiwi"
     },
     {
@@ -7416,7 +7416,7 @@
       "domains": [
         "nokia.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.nokia.com/responsible-disclosure/"
     },
     {
@@ -7426,7 +7426,7 @@
         "nominet.org.uk",
         "nic.uk"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/nominet"
     },
     {
@@ -7434,7 +7434,7 @@
       "domains": [
         "nordvpn.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/nordsecurity"
     },
     {
@@ -7442,7 +7442,7 @@
       "domains": [
         "nos.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://over.nos.nl/organisatie/regelgeving/"
     },
     {
@@ -7450,7 +7450,7 @@
       "domains": [
         "nozbe.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://nozbe.com/bug-bounty/"
     },
     {
@@ -7458,7 +7458,7 @@
       "domains": [
         "nubank.com.br"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/nubank"
     },
     {
@@ -7466,7 +7466,7 @@
       "domains": [
         "nutanix.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/nutanix"
     },
     {
@@ -7478,7 +7478,7 @@
         "tmsbrokers.com",
         "investmentuniversity.pl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/oanda"
     },
     {
@@ -7486,7 +7486,7 @@
       "domains": [
         "oasiscloud.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/oasis_protocol_foundation"
     },
     {
@@ -7494,7 +7494,7 @@
       "domains": [
         "observu.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://observu.com/security.php"
     },
     {
@@ -7502,7 +7502,7 @@
       "domains": [
         "octopus.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://octopus.com/security/disclosure"
     },
     {
@@ -7510,7 +7510,7 @@
       "domains": [
         "odoo.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.odoo.com/security-report"
     },
     {
@@ -7521,7 +7521,7 @@
         "kali.org",
         "backtrack-linux.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.offensive-security.com/bug-bounty-program/"
     },
     {
@@ -7529,7 +7529,7 @@
       "domains": [
         "okcoin.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/okcoin/okcoin"
     },
     {
@@ -7537,7 +7537,7 @@
       "domains": [
         "oktapreview.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/okta"
     },
     {
@@ -7545,7 +7545,7 @@
       "domains": [
         "okx.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/okx-1/okx"
     },
     {
@@ -7559,7 +7559,7 @@
         "mission-electric.in",
         "ola.institute"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://whitehat.olacabs.com"
     },
     {
@@ -7570,7 +7570,7 @@
         "olx.co.id",
         "olx.com.pk"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/olx"
     },
     {
@@ -7578,7 +7578,7 @@
       "domains": [
         "omgnepal.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.bugv.io/researcher/program/0000005/detail"
     },
     {
@@ -7586,7 +7586,7 @@
       "domains": [
         "omise.co"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/omise"
     },
     {
@@ -7594,7 +7594,7 @@
       "domains": [
         "on2it.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://on2it.net/en/responsible-disclosure/"
     },
     {
@@ -7611,7 +7611,7 @@
         "oxygenos.com",
         "onepluscorp.cn"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://security.oneplus.com/"
     },
     {
@@ -7619,7 +7619,7 @@
       "domains": [
         "onetrust.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/onetrust"
     },
     {
@@ -7627,7 +7627,7 @@
       "domains": [
         "onfido.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://onfido.com/company/responsible-disclosure/"
     },
     {
@@ -7635,7 +7635,7 @@
       "domains": [
         "onhir.gov"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/onhir-vdp"
     },
     {
@@ -7644,7 +7644,7 @@
         "opentech.fund",
         "reset.tech"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/otf"
     },
     {
@@ -7654,7 +7654,7 @@
         "powerdns.com",
         "open-xchange.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/open-xchange"
     },
     {
@@ -7662,7 +7662,7 @@
       "domains": [
         "openmage.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/openmage"
     },
     {
@@ -7670,7 +7670,7 @@
       "domains": [
         "opensea.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/opensea"
     },
     {
@@ -7678,7 +7678,7 @@
       "domains": [
         "yellow.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/openware/openware"
     },
     {
@@ -7717,7 +7717,7 @@
         "oppostore.com",
         "oppodvd.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://security.oppo.com/en/noticedetails.html?noticeId=20201578399519447"
     },
     {
@@ -7725,7 +7725,7 @@
       "domains": [
         "optimizely.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/optimizely"
     },
     {
@@ -7733,7 +7733,7 @@
       "domains": [
         "orionlabs.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/orion_labs"
     },
     {
@@ -7741,7 +7741,7 @@
       "domains": [
         "oroinc.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://oroinc.com/bug-bounty/"
     },
     {
@@ -7749,7 +7749,7 @@
       "domains": [
         "ovh.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/ovh"
     },
     {
@@ -7757,13 +7757,13 @@
       "domains": [
         "zaproxy.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/owaspzap"
     },
     {
       "name": "OwnCloud",
       "domains": [],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/owncloud"
     },
     {
@@ -7771,7 +7771,7 @@
       "domains": [
         "oyorooms.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.oyorooms.com/responsible-disclosure"
     },
     {
@@ -7779,7 +7779,7 @@
       "domains": [
         "p2pb2b.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/p2b-exchange/p2b-exchange"
     },
     {
@@ -7794,7 +7794,7 @@
         "paddypower.com",
         "betfair.exchange"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/flutteruki"
     },
     {
@@ -7802,7 +7802,7 @@
       "domains": [
         "pagerduty.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.pagerduty.com/security/disclosure/"
     },
     {
@@ -7821,7 +7821,7 @@
         "palantirgov.com",
         "foundrygov.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/palantir_public"
     },
     {
@@ -7834,7 +7834,7 @@
         "paloalto.com",
         "teamoutpost.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/palo_alto_software"
     },
     {
@@ -7842,7 +7842,7 @@
       "domains": [
         "pandora.digital"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/pandora/pandora-web"
     },
     {
@@ -7851,7 +7851,7 @@
         "runpanther.io",
         "runpanther.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/panther_labs"
     },
     {
@@ -7859,7 +7859,7 @@
       "domains": [
         "parity.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.parity.io/bug-bounty/"
     },
     {
@@ -7867,7 +7867,7 @@
       "domains": [
         "parrot.sh"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/parrot_sec"
     },
     {
@@ -7876,7 +7876,7 @@
         "zimisa.com",
         "pasls.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.bugv.io/researcher/program/0000008/detail"
     },
     {
@@ -7884,7 +7884,7 @@
       "domains": [
         "passit.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/passit"
     },
     {
@@ -7892,7 +7892,7 @@
       "domains": [
         "paymill.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.paymill.com/en/security/"
     },
     {
@@ -7909,13 +7909,13 @@
         "paytmlabs.com",
         "mypaytm.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugbounty.paytm.com"
     },
     {
       "name": "People Interactive",
       "domains": [],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/people_interactive"
     },
     {
@@ -7923,7 +7923,7 @@
       "domains": [
         "pcapcloud.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/personalcapital"
     },
     {
@@ -7931,7 +7931,7 @@
       "domains": [
         "pggm.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.pggm.nl/en/responsible-disclosure"
     },
     {
@@ -7939,7 +7939,7 @@
       "domains": [
         "pickyassist.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://pickyassist.com/blog/bug-bounty-program-bug-beacon/"
     },
     {
@@ -7947,7 +7947,7 @@
       "domains": [
         "picsart.studio"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/picsart"
     },
     {
@@ -7955,7 +7955,7 @@
       "domains": [
         "pingone.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/pingidentity"
     },
     {
@@ -7963,7 +7963,7 @@
       "domains": [
         "pinterest.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/pinterest"
     },
     {
@@ -7974,7 +7974,7 @@
         "vroid.com",
         "pxv.pay"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/pixiv"
     },
     {
@@ -7982,7 +7982,7 @@
       "domains": [
         "plaid.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/plaid"
     },
     {
@@ -7992,7 +7992,7 @@
         "n0c.com",
         "planethoster.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/planethosterinc"
     },
     {
@@ -8000,7 +8000,7 @@
       "domains": [
         "playtech.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.playtech.com/contact-us/security-inquiry"
     },
     {
@@ -8008,7 +8008,7 @@
       "domains": [
         "polkalokr.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/polkalokr/polkalokr-1"
     },
     {
@@ -8016,7 +8016,7 @@
       "domains": [
         "poloniex.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/poloniex"
     },
     {
@@ -8024,7 +8024,7 @@
       "domains": [
         "pon-cat.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.pon-cat.com/nl/responsible-disclosure"
     },
     {
@@ -8032,7 +8032,7 @@
       "domains": [
         "porkbun.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://porkbun.com/products/bug_bounty"
     },
     {
@@ -8041,7 +8041,7 @@
         "pornhub.com",
         "pornhubpremium.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/pornhub"
     },
     {
@@ -8050,7 +8050,7 @@
         "c-point.be",
         "portofantwerp.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.intigriti.com/programs/portofantwerp/portofantwerp/detail"
     },
     {
@@ -8059,7 +8059,7 @@
         "portswigger.net",
         "web-security-academy.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/portswigger"
     },
     {
@@ -8067,7 +8067,7 @@
       "domains": [
         "postmates.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/postmates"
     },
     {
@@ -8077,7 +8077,7 @@
         "postnl.com",
         "postnl.post"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.postnl.nl/en/responsible-disclosure/"
     },
     {
@@ -8085,7 +8085,7 @@
       "domains": [
         "premierhero.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.bugv.io/researcher/program/0000004/detail"
     },
     {
@@ -8095,7 +8095,7 @@
         "priceline.com",
         "bookingholdings.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/priceline"
     },
     {
@@ -8103,7 +8103,7 @@
       "domains": [
         "protonmail.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://protonmail.com/blog/protonmail-bug-bounty-program/"
     },
     {
@@ -8112,7 +8112,7 @@
         "protonvpn.com",
         "protonvpn.ch"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://protonvpn.com/blog/bug-bounty-program/"
     },
     {
@@ -8121,7 +8121,7 @@
         "pubg.com",
         "pubgesports.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/pubg"
     },
     {
@@ -8129,7 +8129,7 @@
       "domains": [
         "purevpn.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.purevpn.com/vulnerability-disclosure-policy"
     },
     {
@@ -8138,7 +8138,7 @@
         "cryptography.io",
         "pyopenssl.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/pyca"
     },
     {
@@ -8148,7 +8148,7 @@
         "quantopian.com",
         "quantshack.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/quantopian"
     },
     {
@@ -8156,7 +8156,7 @@
       "domains": [
         "quizlet.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/quizlet"
     },
     {
@@ -8164,7 +8164,7 @@
       "domains": [
         "qulture.rocks"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/qulture_rocks"
     },
     {
@@ -8173,7 +8173,7 @@
         "app.mobile",
         "quora.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/quora"
     },
     {
@@ -8181,7 +8181,7 @@
       "domains": [
         "qwant.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/qwant"
     },
     {
@@ -8190,7 +8190,7 @@
         "rabobank.nl",
         "rabobank.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/rabobank"
     },
     {
@@ -8198,7 +8198,7 @@
       "domains": [
         "railto.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/railto"
     },
     {
@@ -8206,7 +8206,7 @@
       "domains": [
         "range.co"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.range.co/security/bounty"
     },
     {
@@ -8214,7 +8214,7 @@
       "domains": [
         "rarible.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/rarible-ogmbb"
     },
     {
@@ -8222,7 +8222,7 @@
       "domains": [
         "ratelimited.me"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/ratelimited"
     },
     {
@@ -8230,7 +8230,7 @@
       "domains": [
         "razer.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.razer.com/security/bug-bounty-program"
     },
     {
@@ -8238,7 +8238,7 @@
       "domains": [
         "razorpay.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://razorpay.com/responsible-disclosure/"
     },
     {
@@ -8259,7 +8259,7 @@
         "cbintouch.com",
         "myzap.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/realogy"
     },
     {
@@ -8268,7 +8268,7 @@
         "recarga.com",
         "recargapay.com.br"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/recargapay"
     },
     {
@@ -8277,7 +8277,7 @@
         "recordedfuture.com",
         "therecord.media"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/recorded-future"
     },
     {
@@ -8287,7 +8287,7 @@
         "redbullmediahouse.com",
         "redbullmusicacademy.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.intigriti.com/programs/redbull/redbull/detail"
     },
     {
@@ -8305,7 +8305,7 @@
         "reddithelp.com",
         "dubsmash.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/reddit"
     },
     {
@@ -8314,7 +8314,7 @@
         "redislabs.com",
         "redis.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/redis-vdp"
     },
     {
@@ -8322,7 +8322,7 @@
       "domains": [
         "redoxengine.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/redox"
     },
     {
@@ -8330,7 +8330,7 @@
       "domains": [
         "redtube.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/redtube"
     },
     {
@@ -8342,7 +8342,7 @@
         "remb.be",
         "rembconnect.be"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/remb_hydraulics"
     },
     {
@@ -8350,7 +8350,7 @@
       "domains": [
         "remitano.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://security.remitano.com/"
     },
     {
@@ -8358,7 +8358,7 @@
       "domains": [
         "replyify.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/replyify"
     },
     {
@@ -8366,7 +8366,7 @@
       "domains": [
         "republik.ch"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://gobugfree.com/programs/republik"
     },
     {
@@ -8374,7 +8374,7 @@
       "domains": [
         "researchgate.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://explore.researchgate.net/display/support/Security+and+vulnerability"
     },
     {
@@ -8400,7 +8400,7 @@
         "resmed.la",
         "resmed.com.cn"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/resmed"
     },
     {
@@ -8408,7 +8408,7 @@
       "domains": [
         "reveantivirus.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.reveantivirus.com/in/bug-bounty-program"
     },
     {
@@ -8417,7 +8417,7 @@
         "rewind.com",
         "replay.sh"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://rewind.com/legal/vulnerability-disclosure-policy/"
     },
     {
@@ -8425,7 +8425,7 @@
       "domains": [
         "rghost.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/rghost"
     },
     {
@@ -8433,7 +8433,7 @@
       "domains": [
         "riotgames.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/riot/"
     },
     {
@@ -8442,7 +8442,7 @@
         "rivian.com",
         "rivianservices.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/rivian_automotive"
     },
     {
@@ -8455,7 +8455,7 @@
         "hellorory.com",
         "modernfertility.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/ro"
     },
     {
@@ -8464,7 +8464,7 @@
         "roblox.com",
         "rbx.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/roblox"
     },
     {
@@ -8472,7 +8472,7 @@
       "domains": [
         "rockset.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/rockset"
     },
     {
@@ -8480,7 +8480,7 @@
       "domains": [
         "routerprotocol.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/router/router-web"
     },
     {
@@ -8490,7 +8490,7 @@
         "rbs.co.uk",
         "rbsdigital.co.uk"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "http://personal.rbs.co.uk/personal/security-centre/responsible-disclosure.html"
     },
     {
@@ -8498,7 +8498,7 @@
       "domains": [
         "rubygems.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/rubygems"
     },
     {
@@ -8506,7 +8506,7 @@
       "domains": [
         "rupiahtoken.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://rupiahtoken.com/blog/bug-bounty-program"
     },
     {
@@ -8514,7 +8514,7 @@
       "domains": [
         "salesforce.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.salesforce.com/company/disclosure/"
     },
     {
@@ -8522,7 +8522,7 @@
       "domains": [
         "samsungmobile.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://security.samsungmobile.com/rewardsProgram.smsb"
     },
     {
@@ -8530,7 +8530,7 @@
       "domains": [
         "samsung.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://samsungtvbounty.com"
     },
     {
@@ -8538,7 +8538,7 @@
       "domains": [
         "santos.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/santos-vdp"
     },
     {
@@ -8546,7 +8546,7 @@
       "domains": [
         "tripit.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/concur"
     },
     {
@@ -8554,7 +8554,7 @@
       "domains": [
         "savedroid.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/savedroid"
     },
     {
@@ -8563,7 +8563,7 @@
         "scholarfundwa.org",
         "scholarfund.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.scholarfundwa.org/bug-bounty"
     },
     {
@@ -8573,7 +8573,7 @@
         "scopely.com",
         "withbuddies.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/scopely"
     },
     {
@@ -8582,7 +8582,7 @@
         "scrapinghub.com",
         "crawlera.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.zyte.com/terms-policies/responsible-disclosure-policy/"
     },
     {
@@ -8590,7 +8590,7 @@
       "domains": [
         "secnews.gr"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/secnews"
     },
     {
@@ -8599,7 +8599,7 @@
         "securityscorecard.io",
         "securityscorecard.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/securityscorecard"
     },
     {
@@ -8617,7 +8617,7 @@
         "seoab.io",
         "scatec.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/semrush"
     },
     {
@@ -8625,7 +8625,7 @@
       "domains": [
         "sendcloud.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.sendcloud.com/bug-bounty-program/"
     },
     {
@@ -8633,7 +8633,7 @@
       "domains": [
         "shakepay.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://legal.shakepay.com/bug-bounty-program"
     },
     {
@@ -8641,7 +8641,7 @@
       "domains": [
         "shapeshift.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/fox-foundation/shapeshift"
     },
     {
@@ -8658,7 +8658,7 @@
         "romwe.com",
         "romwe.co.in"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/shein"
     },
     {
@@ -8666,7 +8666,7 @@
       "domains": [
         "shipt.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/shipt"
     },
     {
@@ -8674,7 +8674,7 @@
       "domains": [
         "shopclues.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.shopclues.com/wall-of-fame.html"
     },
     {
@@ -8684,7 +8684,7 @@
         "shopify.com",
         "shopifykloud.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/shopify"
     },
     {
@@ -8693,7 +8693,7 @@
         "shoplazza.com",
         "myshoplaza.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/shoplazza"
     },
     {
@@ -8702,7 +8702,7 @@
         "showmax.com",
         "showmax.app"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/showmax"
     },
     {
@@ -8710,7 +8710,7 @@
       "domains": [
         "sidefx.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/sidefx"
     },
     {
@@ -8718,7 +8718,7 @@
       "domains": [
         "sidn.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.sidn.nl/en/cybersecurity/reporting-a-security-breach"
     },
     {
@@ -8730,7 +8730,7 @@
         "sgb.co",
         "alterx.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://silvergoldbull.se/en/bug-bounty"
     },
     {
@@ -8738,7 +8738,7 @@
       "domains": [
         "simple.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/simple"
     },
     {
@@ -8746,7 +8746,7 @@
       "domains": [
         "sketch.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.sketch.com/security/disclosure/"
     },
     {
@@ -8755,7 +8755,7 @@
         "smartling.com",
         "verbalizeit.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://help.smartling.com/hc/en-us/articles/360008147833-Bug-Bounty-Policy"
     },
     {
@@ -8763,7 +8763,7 @@
       "domains": [
         "smartsheet.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/smartsheet"
     },
     {
@@ -8771,7 +8771,7 @@
       "domains": [
         "smokescreen.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.smokescreen.io/responsible-disclosure-policy/"
     },
     {
@@ -8779,7 +8779,7 @@
       "domains": [
         "smtp2go.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/smtp2go"
     },
     {
@@ -8787,7 +8787,7 @@
       "domains": [
         "smule.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/smule"
     },
     {
@@ -8795,7 +8795,7 @@
       "domains": [
         "test-socrata.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/tyler-tech-data-insights"
     },
     {
@@ -8803,7 +8803,7 @@
       "domains": [
         "sony.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/sony"
     },
     {
@@ -8811,7 +8811,7 @@
       "domains": [
         "sorare.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/sorare"
     },
     {
@@ -8820,7 +8820,7 @@
         "starlink.com",
         "starlinkisp.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/spacex"
     },
     {
@@ -8828,7 +8828,7 @@
       "domains": [
         "spell.run"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/spell"
     },
     {
@@ -8838,7 +8838,7 @@
         "freepeopledirectory.com",
         "spokeoaffiliates.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.spokeo.com/bug-bounty"
     },
     {
@@ -8910,7 +8910,7 @@
         "extraordinariesonthemic.com",
         "spotify.design"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/spotify"
     },
     {
@@ -8920,7 +8920,7 @@
         "getbambu.com",
         "simplymeasured.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/sproutsocial"
     },
     {
@@ -8934,7 +8934,7 @@
         "stackpath.dev",
         "stackpath.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/stackpath"
     },
     {
@@ -8961,7 +8961,7 @@
         "stanbicbank.co.zw",
         "standardbank.com.br"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/standardbank"
     },
     {
@@ -8969,7 +8969,7 @@
       "domains": [
         "stanford.edu"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://uit.stanford.edu/security/bug-bounty"
     },
     {
@@ -8992,7 +8992,7 @@
         "starbucks.cn",
         "starbucks.com.br"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/starbucks"
     },
     {
@@ -9000,7 +9000,7 @@
       "domains": [
         "starlingbank.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/starling_bank"
     },
     {
@@ -9009,7 +9009,7 @@
         "driveuconnect.com",
         "driveuconnect.eu"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/stellantis"
     },
     {
@@ -9018,7 +9018,7 @@
         "streak.com",
         "mailfoogae.appspot.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/streak_com"
     },
     {
@@ -9026,7 +9026,7 @@
       "domains": [
         "stripo.email"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/stripo"
     },
     {
@@ -9035,7 +9035,7 @@
         "strongdm.com",
         "sdm.network"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/strongdm"
     },
     {
@@ -9043,7 +9043,7 @@
       "domains": [
         "superbet.ro"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/superbet"
     },
     {
@@ -9051,7 +9051,7 @@
       "domains": [
         "surf.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.surf.nl/en/responsible-disclosure"
     },
     {
@@ -9059,7 +9059,7 @@
       "domains": [
         "swapcard.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/swapcard"
     },
     {
@@ -9067,7 +9067,7 @@
       "domains": [
         "sweatco.app"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/sweatco_ltd"
     },
     {
@@ -9075,7 +9075,7 @@
       "domains": [
         "swiggy.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.swiggy.com/bug-bounty"
     },
     {
@@ -9083,7 +9083,7 @@
       "domains": [
         "post.ch"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/swiss-post"
     },
     {
@@ -9363,7 +9363,7 @@
         "cablex.ch",
         "itnetx.ch"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.swisscom.ch/en/about/security/bug-bounty.html"
     },
     {
@@ -9371,7 +9371,7 @@
       "domains": [
         "synack.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://synack.responsibledisclosure.com/hc/en-us/"
     },
     {
@@ -9379,7 +9379,7 @@
       "domains": [
         "t-mobile.cz"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.t-mobile.cz/bug-bounty"
     },
     {
@@ -9387,7 +9387,7 @@
       "domains": [
         "takealot.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.takealot.com/help/responsible-disclosure-policy"
     },
     {
@@ -9395,7 +9395,7 @@
       "domains": [
         "td.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.td.com/ca/en/about-td/privacy-and-security/report-vulnerability"
     },
     {
@@ -9405,7 +9405,7 @@
         "tealium.net",
         "tiqcdn.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://tealium.com/vdp/"
     },
     {
@@ -9418,7 +9418,7 @@
         "yelo.be",
         "yeloplay.be"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.intigriti.com/programs/telenet/telenetgroup/detail"
     },
     {
@@ -9431,7 +9431,7 @@
         "gravitational.co",
         "gravitational.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/teleport"
     },
     {
@@ -9443,7 +9443,7 @@
         "dnspod.cn",
         "weiyun.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://en.security.tencent.com"
     },
     {
@@ -9451,7 +9451,7 @@
       "domains": [
         "ternoa.network"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/ternoa/ternoa-web-and-apps"
     },
     {
@@ -9459,7 +9459,7 @@
       "domains": [
         "standard.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.standard.com/about-standard/responsible-disclosure-program"
     },
     {
@@ -9481,7 +9481,7 @@
         "fxnetworks.com",
         "abc.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/disney"
     },
     {
@@ -9489,7 +9489,7 @@
       "domains": [
         "threema.ch"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://gobugfree.com/programs/threema"
     },
     {
@@ -9502,7 +9502,7 @@
         "tstaging.tools",
         "tinderwebstaging.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/tinder"
     },
     {
@@ -9512,7 +9512,7 @@
         "tokopedia.com",
         "tokopedia.id"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bounty.tokopedia.net/rules"
     },
     {
@@ -9522,7 +9522,7 @@
         "teleatlas.com",
         "tomtomgroup.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/tomtom"
     },
     {
@@ -9530,7 +9530,7 @@
       "domains": [
         "topcoder.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/topcoder"
     },
     {
@@ -9538,7 +9538,7 @@
       "domains": [
         "topechelon.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/top_echelon_software"
     },
     {
@@ -9549,7 +9549,7 @@
         "schoenentorfs.be",
         "schoenentorfs.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.intigriti.com/programs/torfs/torfs/detail"
     },
     {
@@ -9557,7 +9557,7 @@
       "domains": [
         "touchincentive.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://touchincentive.com/responsible-disclosure/"
     },
     {
@@ -9569,7 +9569,7 @@
         "toyotamobility.com",
         "tddsprogram.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/toyota"
     },
     {
@@ -9577,7 +9577,7 @@
       "domains": [
         "traderepublic.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/trade-republic-bbp"
     },
     {
@@ -9585,7 +9585,7 @@
       "domains": [
         "traveloka.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.traveloka.com/en-id/bugs"
     },
     {
@@ -9593,7 +9593,7 @@
       "domains": [
         "treebal.green"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/treebal-the-eco-responsible-messaging"
     },
     {
@@ -9602,7 +9602,7 @@
         "trellix.com",
         "skyhighsecurity.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/trellix"
     },
     {
@@ -9611,7 +9611,7 @@
         "trendyol.com",
         "dolap.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/trendyol"
     },
     {
@@ -9619,7 +9619,7 @@
       "domains": [
         "trint.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/trint"
     },
     {
@@ -9627,7 +9627,7 @@
       "domains": [
         "trustpilot.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/trustpilot"
     },
     {
@@ -9644,7 +9644,7 @@
         "code.gov",
         "login.gov"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/tts"
     },
     {
@@ -9652,7 +9652,7 @@
       "domains": [
         "tu-chemniz.de"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.tu-chemnitz.de/.well-known/security.txt"
     },
     {
@@ -9662,7 +9662,7 @@
         "tube8.es",
         "tube8.fr"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/tube8"
     },
     {
@@ -9672,7 +9672,7 @@
         "txmblr.com",
         "umblr.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/automattic"
     },
     {
@@ -9684,7 +9684,7 @@
         "tuta.io",
         "keemail.me"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://tutanota.com/faq/#report-vulnerability"
     },
     {
@@ -9694,7 +9694,7 @@
         "tweakers.net",
         "tweakimg.net"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.intigriti.com/programs/dpgm/tweakers/detail"
     },
     {
@@ -9703,7 +9703,7 @@
         "authy.com",
         "twilio.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/twilio"
     },
     {
@@ -9720,7 +9720,7 @@
         "gnip.com",
         "snappytv.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/twitter"
     },
     {
@@ -9728,7 +9728,7 @@
       "domains": [
         "tyk.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.zerocopter.com/en/rd/261e0379-9eb8-4de6-b45d-48e30891a8bb"
     },
     {
@@ -9738,7 +9738,7 @@
         "segurosocial.gov",
         "socialsecurity.gov"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.ssa.gov/vulnerability-disclosure-policy/"
     },
     {
@@ -9876,7 +9876,7 @@
         "usuhs.mil",
         "web.mil"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/deptofdefense"
     },
     {
@@ -9910,7 +9910,7 @@
         "stopbullying.gov",
         "womenshealth.gov"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.hhs.gov/vulnerability-disclosure-policy/index.html"
     },
     {
@@ -9919,7 +9919,7 @@
         "ubnt.com",
         "ui.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/ui"
     },
     {
@@ -9927,7 +9927,7 @@
       "domains": [
         "udemy.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/udemy"
     },
     {
@@ -9936,7 +9936,7 @@
         "mod.uk",
         "mod.gov.uk"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.gov.uk/guidance/report-a-vulnerability-on-an-mod-system"
     },
     {
@@ -9944,7 +9944,7 @@
       "domains": [
         "umbraco.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://umbraco.com/about-us/trust-center/security-and-umbraco/how-to-report-a-vulnerability-in-umbraco/"
     },
     {
@@ -9954,7 +9954,7 @@
         "pinion.gg",
         "unikoingold.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/unikrn"
     },
     {
@@ -9962,7 +9962,7 @@
       "domains": [
         "upgrade.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/upgrade"
     },
     {
@@ -9970,7 +9970,7 @@
       "domains": [
         "uphabit.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/uphabit"
     },
     {
@@ -9978,7 +9978,7 @@
       "domains": [
         "uphold.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.intigriti.com/programs/Uphold/upholdcom/detail"
     },
     {
@@ -9986,7 +9986,7 @@
       "domains": [
         "ups.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/ups"
     },
     {
@@ -9998,7 +9998,7 @@
         "breadcrumb.com",
         "upserve.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/upserve"
     },
     {
@@ -10006,7 +10006,7 @@
       "domains": [
         "upstox.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://upstox.com/bug-bounty/"
     },
     {
@@ -10014,7 +10014,7 @@
       "domains": [
         "upwork.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/upwork"
     },
     {
@@ -10023,7 +10023,7 @@
         "urbancompany.com",
         "urbanclap.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/urbancompany"
     },
     {
@@ -10039,7 +10039,7 @@
         "urbandictionary.biz",
         "urbandictionary.blog"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/urbandictionary"
     },
     {
@@ -10047,7 +10047,7 @@
       "domains": [
         "usaa.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/usaa"
     },
     {
@@ -10062,7 +10062,7 @@
         "steamgames.com",
         "steampowered.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/valve"
     },
     {
@@ -10074,7 +10074,7 @@
         "vanillastaging.com",
         "vanillacommunity.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/vanilla"
     },
     {
@@ -10083,7 +10083,7 @@
         "varonis.com",
         "varonis.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/varonis"
     },
     {
@@ -10095,7 +10095,7 @@
         "vercel.sh",
         "zeit.sh"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/vercel"
     },
     {
@@ -10103,7 +10103,7 @@
       "domains": [
         "vgz.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.zerocopter.com/nl/cvd/bda542d5-c421-49f8-8e9c-5e70f5525673"
     },
     {
@@ -10113,7 +10113,7 @@
         "vimeo.com",
         "vhx.tv"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/vimeo"
     },
     {
@@ -10121,7 +10121,7 @@
       "domains": [
         "virtuswap.io"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/virtuswap/virtuswap-dex-app-1"
     },
     {
@@ -10131,7 +10131,7 @@
         "vismaonline.com",
         "workbox.dk"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/visma"
     },
     {
@@ -10142,7 +10142,7 @@
         "veezi.com",
         "movieteam.co"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.vista.co/responsible-disclosure-policy/"
     },
     {
@@ -10152,7 +10152,7 @@
         "vivo.xyz",
         "vivo.cn"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://security.vivo.com.cn/#/home"
     },
     {
@@ -10160,7 +10160,7 @@
       "domains": [
         "vivy.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/vivy"
     },
     {
@@ -10169,7 +10169,7 @@
         "vng.nl",
         "ondernemersfondsen.nl"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://vng.nl/kwetsbaarheid-melden"
     },
     {
@@ -10178,7 +10178,7 @@
         "volkis.com.au",
         "volk.is"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.volkis.com.au/vulnerability-disclosure/"
     },
     {
@@ -10196,7 +10196,7 @@
         "stubru.be",
         "vrt.be"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://app.intigriti.com/programs/vrtnv/vrt/"
     },
     {
@@ -10204,7 +10204,7 @@
       "domains": [
         "walla.co.il"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.walla.co.il/.well-know/security.txt"
     },
     {
@@ -10212,7 +10212,7 @@
       "domains": [
         "walmart.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://corporate.walmart.com/article/responsible-disclosure-policy"
     },
     {
@@ -10221,7 +10221,7 @@
         "wealthsimple.com",
         "simpletax.ca"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/wealthsimple"
     },
     {
@@ -10231,7 +10231,7 @@
         "gmx.de",
         "mail.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugbounty.web.de/english.html"
     },
     {
@@ -10239,7 +10239,7 @@
       "domains": [
         "weblate.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/weblate"
     },
     {
@@ -10247,7 +10247,7 @@
       "domains": [
         "wedbio.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://wedbio.com/report-incident"
     },
     {
@@ -10256,7 +10256,7 @@
         "westerndigital.com",
         "wd.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.westerndigital.com/en-ap/support/product-security/vulnerability-disclosure-policy"
     },
     {
@@ -10288,7 +10288,7 @@
         "westernunion.lu",
         "wuedge.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/westernunion"
     },
     {
@@ -10296,7 +10296,7 @@
       "domains": [
         "whitebit.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackenproof.com/whitebit/whitebit"
     },
     {
@@ -10304,7 +10304,7 @@
       "domains": [
         "wickr.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/wickr"
     },
     {
@@ -10317,7 +10317,7 @@
         "windstreamdeals.com",
         "broadviewnet.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/windstream"
     },
     {
@@ -10325,7 +10325,7 @@
       "domains": [
         "winni.in"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.winni.in/bug-bounty"
     },
     {
@@ -10333,7 +10333,7 @@
       "domains": [
         "wombat.exchange"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://immunefi.com/bounty/wombatexchange/"
     },
     {
@@ -10341,7 +10341,7 @@
       "domains": [
         "woodpecker.co"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://woodpecker.co/vulnerability-disclosure-program/"
     },
     {
@@ -10355,7 +10355,7 @@
         "wordpress.org",
         "wordpressfoundation.org"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/wordpress"
     },
     {
@@ -10363,7 +10363,7 @@
       "domains": [
         "worklytics.co"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/worklytics"
     },
     {
@@ -10375,7 +10375,7 @@
         "wpesvc.net",
         "studiopress.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://wpengine.com/security/"
     },
     {
@@ -10389,7 +10389,7 @@
         "xiaomi.market",
         "xiaomi.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/xiaomi"
     },
     {
@@ -10399,7 +10399,7 @@
         "workatastartup.com",
         "ycombinator.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/ycombinator"
     },
     {
@@ -10435,7 +10435,7 @@
         "yahoo.cloud",
         "yahooapis.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/yahoo"
     },
     {
@@ -10454,7 +10454,7 @@
         "kinopoisk.ru",
         "auto.ru"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yandex.com/bugbounty/index"
     },
     {
@@ -10462,7 +10462,7 @@
       "domains": [
         "yatra.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.yatra.com/online/bug-bounty"
     },
     {
@@ -10474,7 +10474,7 @@
         "yelpreservations.com",
         "nowait.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/yelp"
     },
     {
@@ -10482,7 +10482,7 @@
       "domains": [
         "yeswehack.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://yeswehack.com/programs/yes-we-hack"
     },
     {
@@ -10490,7 +10490,7 @@
       "domains": [
         "youneedabudget.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugcrowd.com/ynab"
     },
     {
@@ -10504,7 +10504,7 @@
         "cryptopunks.app",
         "mdvmm.xyz"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/yuga_labs"
     },
     {
@@ -10512,7 +10512,7 @@
       "domains": [
         "zapier.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://zapier.com/engineering/bug-bounty-program/"
     },
     {
@@ -10522,7 +10522,7 @@
         "smooch.io",
         "zopim.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/zendesk"
     },
     {
@@ -10531,7 +10531,7 @@
         "znly.co",
         "zen.ly"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/zenly"
     },
     {
@@ -10540,7 +10540,7 @@
         "zerodha.com",
         "kite.trade"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://zerodha.com/bug-bounty/"
     },
     {
@@ -10549,7 +10549,7 @@
         "zilliqa.com",
         "learnscilla.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/zilliqa"
     },
     {
@@ -10558,7 +10558,7 @@
         "zivver.com",
         "zivvermeet.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/zivver"
     },
     {
@@ -10570,7 +10570,7 @@
         "trainercentral.com",
         "zoho.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://bugbounty.zoho.com/bb/info"
     },
     {
@@ -10580,7 +10580,7 @@
         "zdev.net",
         "zomatobook.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://hackerone.com/zomato"
     },
     {
@@ -10604,7 +10604,7 @@
         "zoomtopiastore.com",
         "zoom.us"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://explore.zoom.us/docs/ent/h1.html"
     },
     {
@@ -10613,7 +10613,7 @@
         "zynga.com",
         "zyngagames.com"
       ],
-      "url_filters": [],
+      "wildcard_filters": [],
       "url": "https://www.zynga.com/security/whitehats/"
     }
   ]
