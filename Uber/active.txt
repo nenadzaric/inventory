@@ -31,6 +31,7 @@ ar.uber.com
 assets-share.uber.com
 assets.uber.com
 atg-partners.uber.com
+atg-pg-catalog-stagingdb01-sjc1.prod.uber.com
 auth-faq.uber.com
 auth-staging-dns.uber.com
 auth-staging.uber.com
@@ -51,6 +52,7 @@ bastion-dca.uber.com
 bastion-dca8.prod.uber.com
 bastion-dca8.uber.com
 bastion-geo.uber.com
+bastion-oob01-dca8.prod.uber.com
 bastion-oob01-dca8.uber.com
 bastion-oob01-phx4.uber.com
 bastion-phx.prod.uber.com
@@ -145,8 +147,10 @@ cn-sjc1.cfe.uber.com
 cn-sjc1.uber.com
 cn-slow1.uber.com
 cn-slow2.uber.com
+cn-staging-dca1.cfe.uber.com
 cn-staging-dca1.uber.com
 cn-staging-dca4.cfe.uber.com
+cn-staging-dca8.cfe.uber.com
 cn-staging-dca8.uber.com
 cn-staging-geo1.uber.com
 cn-staging-phx2.cfe.uber.com
@@ -222,10 +226,12 @@ edgetest-phx2.uber.com
 edgetest.uber.com
 eem.uber.com
 elevate.uber.com
+elevatenetwork-b.uber.com
 elevatenetwork.uber.com
 em.uber.com
 email.uber.com
 emergencyline.uber.com
+emergencyline01-uswest2.prod.uber.com
 emobility-comms.uber.com
 empresas.uber.com
 eng.uber.com
@@ -385,6 +391,7 @@ mta18.et.uber.com
 mta2.et.uber.com
 mta20.et.uber.com
 mta21.et.uber.com
+mta22.et.uber.com
 mta23.et.uber.com
 mta24.et.uber.com
 mta25.et.uber.com
@@ -419,9 +426,11 @@ nuber.uber.com
 nycvideo.uber.com
 o.uber.com
 o10.email.uber.com
+o11.email.uber.com
 o12.email.uber.com
 o13.email.uber.com
 o14.email.uber.com
+o15.email.uber.com
 o16.email.uber.com
 o17.email.uber.com
 o18.email.uber.com
@@ -437,6 +446,7 @@ o3.email.uber.com
 o4.email.uber.com
 o5.email.uber.com
 o8.email.uber.com
+o9.email.uber.com
 offerings.uber.com
 offers.uber.com
 office-space-staging.uber.com
@@ -578,6 +588,7 @@ tbs-static.uber.com
 tc.uber.com
 tc2.uber.com
 tdottest1.uber.com
+te-cn-dca1.cfe.uber.com
 te-cn-phx2.cfe.uber.com
 te-cn-sjc1.cfe.uber.com
 te-cn.cfe.uber.com
@@ -1087,6 +1098,7 @@ detective.uberinternal.com
 dev-bliss.uberinternal.com
 devbastion-us-east-1.dev.uberinternal.com
 devbastion-us-west-1.dev.uberinternal.com
+devbastion-us-west-2.dev.uberinternal.com
 developer-staging.uberinternal.com
 developer.uberinternal.com
 devhub.uberinternal.com
@@ -1968,6 +1980,7 @@ session2trace.uberinternal.com
 settlement-scheduler.uberinternal.com
 sflipr.uberinternal.com
 sftp-corp.uberinternal.com
+sftp.it-tools.uberinternal.com
 shadowdash-sjc1.uberinternal.com
 sherlock-dev.uberinternal.com
 sherlock-staging.uberinternal.com

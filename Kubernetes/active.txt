@@ -11,6 +11,7 @@ code.canary.kubernetes.io
 code.kubernetes.io
 conduct.canary.kubernetes.io
 conduct.kubernetes.io
+cs.canary.kubernetes.io
 cs.kubernetes.io
 discuss.canary.kubernetes.io
 discuss.kubernetes.io
@@ -18,6 +19,7 @@ dl.canary.kubernetes.io
 dl.kubernetes.io
 docs.canary.kubernetes.io
 docs.kubernetes.io
+examples.canary.kubernetes.io
 examples.kubernetes.io
 feature.canary.kubernetes.io
 feature.kubernetes.io
@@ -38,6 +40,7 @@ issues.canary.kubernetes.io
 issues.kubernetes.io
 kep.canary.kubernetes.io
 pr-test.canary.kubernetes.io
+pr.canary.kubernetes.io
 pr.kubernetes.io
 prow.canary.kubernetes.io
 prs.canary.kubernetes.io
@@ -47,10 +50,12 @@ releases.canary.kubernetes.io
 releases.kubernetes.io
 sbom.canary.kubernetes.io
 sigs.canary.kubernetes.io
+slack-infra.canary.kubernetes.io
 slack.canary.kubernetes.io
 slack.kubernetes.io
 submit-queue.canary.kubernetes.io
 testgrid.canary.kubernetes.io
+www.canary.kubernetes.io
 www.kubernetes.io
 youtube.canary.kubernetes.io
 yt.canary.kubernetes.io
@@ -61,16 +66,20 @@ apt.k8s.io
 artifacts-sandbox.canary.k8s.io
 artifacts.canary.k8s.io
 artifacts.k8s.io
+blog.canary.k8s.io
 blog.k8s.io
 canary.k8s.io
+capz.sigs.k8s.io
 changelog.canary.k8s.io
 changelog.k8s.io
+ci-test.canary.k8s.io
 ci-test.k8s.io
 cli.triage.k8s.io
 cloud-provider-aws.sigs.k8s.io
 cloud-provider-azure.sigs.k8s.io
 cloud-provider-vsphere.sigs.k8s.io
 cluster-api-aws.sigs.k8s.io
+cluster-api-cloudstack.sigs.k8s.io
 cluster-api-ibmcloud.sigs.k8s.io
 cluster-api-openstack.sigs.k8s.io
 cluster-api.sigs.k8s.io
@@ -89,6 +98,7 @@ docs.canary.k8s.io
 docs.k8s.io
 docs.prow.k8s.io
 dummy.k8s.io
+elections.canary.k8s.io
 elections.k8s.io
 examples.canary.k8s.io
 examples.k8s.io
@@ -114,8 +124,11 @@ issues.canary.k8s.io
 issues.k8s.io
 k8s-infra-prow.canary.k8s.io
 kep.canary.k8s.io
+kind.sigs.k8s.io
+kmm.sigs.k8s.io
 kops.sigs.k8s.io
 krew.sigs.k8s.io
+kubectl.sigs.k8s.io
 kueue.sigs.k8s.io
 kustomize.sigs.k8s.io
 kwok.sigs.k8s.io
@@ -125,6 +138,7 @@ monitoring.prow.k8s.io
 multicluster.sigs.k8s.io
 network-policy-api.sigs.k8s.io
 nfd.sigs.k8s.io
+perf-dash.canary.k8s.io
 pr-test.canary.k8s.io
 pr.k8s.io
 prow-canary.k8s.io
@@ -143,7 +157,9 @@ releases.canary.k8s.io
 releases.k8s.io
 relnotes.canary.k8s.io
 sbom.canary.k8s.io
+secrets-store-csi-driver.sigs.k8s.io
 sigs.canary.k8s.io
+sigs.k8s.io
 sippy.canary.k8s.io
 slack-infra.canary.k8s.io
 slack.canary.k8s.io
@@ -161,3 +177,4 @@ edwardsf.gcr.io
 forenza.k8s.gcr.io
 h-135-207-182-170.gcr.io
 p01-fmf-china-ic4.gcr.io
+sync200363-1.gcr.io
