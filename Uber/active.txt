@@ -8,6 +8,7 @@ activedirectory-dca1.uber.com
 activedirectory-sjc1.uber.com
 activedirectory.uber.com
 ad.uber.com
+addison3.sptrans.uber.com
 admin-staging.uber.com
 admin.uber.com
 ads-staging.uber.com
@@ -121,6 +122,7 @@ call-prompts.uber.com
 candidate-experience-staging.uber.com
 careers.uber.com
 careersemail.uber.com
+casen.et.uber.com
 cdg.uber.com
 central-beta.uber.com
 central-v2.uber.com
@@ -169,6 +171,7 @@ cn.uber.com
 cnc.uber.com
 cnd.uber.com
 commander-staging.aws.uber.com
+commander.aws.uber.com
 compliance.cpe.uber.com
 conecta.uber.com
 confluence-prod-node01.prod.uber.com
@@ -292,6 +295,7 @@ frontends-primary.uber.com
 frontends.uber.com
 frontier-ivr.uber.com
 fusionjs-sync-bot.uber.com
+gaar.blog.uber.com
 geo-dca1.cfe.uber.com
 geo-frontends-all-dca1.uber.com
 geo-frontends-all-phx2.uber.com
@@ -304,7 +308,9 @@ getmatched-staging.uber.com
 getmatched.uber.com
 getrush.uber.com
 gi.uber.com
+gift.dev.uber.com
 gifts.uber.com
+glitz.dev.uber.com
 go.uber.com
 googlefffffffffbdedc85.uber.com
 gratitude.uber.com
@@ -344,10 +350,13 @@ ittools01-dmz1.prod.uber.com
 jaeger-dca1.uber.com
 jaeger-phx3.uber.com
 jenkins-master01-sjc1.prod.uber.com
+jmishra1.dev.uber.com
 jobs.uber.com
 join.uber.com
 jrss-215-70-148-15.uber.com
 jump.uber.com
+jun.et.uber.com
+jyu.et.uber.com
 kafkaci.et.uber.com
 kasper.uber.com
 kcp-gateway.uber.com
@@ -360,6 +369,7 @@ lantern-experiment.uber.com
 lausanne.email.uber.com
 ldap.uber.com
 learn.uber.com
+legal.cpe.uber.com
 lert.uber.com
 lite.uber.com
 liveops.uber.com
@@ -381,6 +391,7 @@ mail.prod.uber.com
 mail.uber.com
 mapstorets.cfe.uber.com
 marketplace.uber.com
+mcr.et.uber.com
 me60.et.uber.com
 meh-staging.uber.com
 meh.uber.com
@@ -468,6 +479,7 @@ o3.email.uber.com
 o4.email.uber.com
 o5.email.uber.com
 o8.email.uber.com
+o9.email.uber.com
 offerings.uber.com
 offers.uber.com
 office-space-staging.uber.com
@@ -479,6 +491,7 @@ p2.uber.com
 p21.dev.uber.com
 p3.uber.com
 pages.et.uber.com
+parito.et.uber.com
 parking-staging.uber.com
 partner-surveys.uber.com
 partner.uber.com
@@ -595,6 +608,7 @@ sup.usuppliers.uber.com
 supplier-demo.uber.com
 supplier-experimental.uber.com
 supplier-staging.uber.com
+supplier.cpe.uber.com
 supplier.uber.com
 support.uber.com
 survey-lo.uber.com
@@ -1704,6 +1718,7 @@ mulesoft.uberinternal.com
 mx-staging.uberinternal.com
 mx.uberinternal.com
 mx2.uberinternal.com
+myc-3-38-1168.uberinternal.com
 mycroft-staging.uberinternal.com
 mycroft.uberinternal.com
 myprivacy.uberinternal.com
@@ -2463,6 +2478,7 @@ workbench-dashboard.uberinternal.com
 workbench-dca1.uberinternal.com
 workbench-staging.uberinternal.com
 workbench.uberinternal.com
+workspace.uberinternal.com
 woshou-web.uberinternal.com
 woshou.uberinternal.com
 wpe-breeze.uberinternal.com

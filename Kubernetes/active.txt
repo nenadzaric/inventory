@@ -318,6 +318,7 @@ provisionerk8s.docs.kubernetes.io
 prow-canary.docs.kubernetes.io
 prow.canary.kubernetes.io
 prow.docs.kubernetes.io
+prow.kubernetes.io
 prs.canary.kubernetes.io
 prs.docs.kubernetes.io
 prs.kubernetes.io
@@ -369,6 +370,7 @@ sigs.kubernetes.io
 sippy.docs.kubernetes.io
 slack-infra.canary.kubernetes.io
 slack-infra.docs.kubernetes.io
+slack-infra.kubernetes.io
 slack-staging.docs.kubernetes.io
 slack.canary.kubernetes.io
 slack.docs.kubernetes.io
@@ -385,6 +387,7 @@ storage.docs.kubernetes.io
 store.docs.kubernetes.io
 submit-queue.canary.kubernetes.io
 submit-queue.docs.kubernetes.io
+submit-queue.kubernetes.io
 submit.docs.kubernetes.io
 substituak8s.docs.kubernetes.io
 sy-sy.docs.kubernetes.io
@@ -397,6 +400,7 @@ test1.docs.kubernetes.io
 test2.docs.kubernetes.io
 test3.docs.kubernetes.io
 testgrid.canary.kubernetes.io
+testgrid.kubernetes.io
 thockin-test1.docs.kubernetes.io
 thockin-test2.docs.kubernetes.io
 thockin-test3.docs.kubernetes.io
@@ -602,6 +606,7 @@ cloudstack.docs.k8s.io
 cluster-api-aws.docs.k8s.io
 cluster-api-aws.sigs.k8s.io
 cluster-api-cloudstack.docs.k8s.io
+cluster-api-cloudstack.sigs.k8s.io
 cluster-api-ibmcloud.sigs.k8s.io
 cluster-api-openstack.docs.k8s.io
 cluster-api-openstack.sigs.k8s.io
@@ -675,6 +680,7 @@ dummy.k8s.io
 e2e-dda82cbc91-ff1eb.docs.k8s.io
 e2e-kops-aws-canary.docs.k8s.io
 e2e.docs.k8s.io
+elections.canary.k8s.io
 elections.docs.k8s.io
 elections.k8s.io
 elwood.docs.k8s.io
@@ -779,6 +785,7 @@ kind.docs.k8s.io
 kind.sigs.k8s.io
 kisakallio.docs.k8s.io
 kmm.docs.k8s.io
+kmm.sigs.k8s.io
 kootac-pay.docs.k8s.io
 kootac.docs.k8s.io
 kootapacc.docs.k8s.io
@@ -792,6 +799,7 @@ kube.docs.k8s.io
 kubeadm.docs.k8s.io
 kubect.docs.k8s.io
 kubectl.docs.k8s.io
+kubectl.sigs.k8s.io
 kubernetes.docs.k8s.io
 kueue.docs.k8s.io
 kueue.sigs.k8s.io
@@ -870,6 +878,7 @@ policy1-do.docs.k8s.io
 policy1.docs.k8s.io
 pr-test.canary.k8s.io
 pr-test.docs.k8s.io
+pr-test.k8s.io
 pr.canary.k8s.io
 pr.k8s.io
 prod.docs.k8s.io
@@ -1114,6 +1123,7 @@ bisniscepat.683kbk8s.gcr.io
 canary.683kbk8s.gcr.io
 changelog.683kbk8s.gcr.io
 cherrypick.683kbk8s.gcr.io
+cherrypick.k8s.gcr.io
 ci-test.683kbk8s.gcr.io
 cloud-provider-aws.683kbk8s.gcr.io
 cloud-provider-vsphere.683kbk8s.gcr.io

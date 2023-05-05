@@ -1,10 +1,12 @@
 accounts.api.openai.com
 accounts.openai.com
+alfaromeo-genesis-2.slack.openai.com
 api-cloudflare.api.openai.com
 api-cloudflare.openai.com
 api.openai.com
 apps.openai.com
 arena.openai.com
+auth.api.openai.com
 auth.openai.com
 auth0-dev.openai.com
 auth0.chat.openai.com
@@ -47,6 +49,7 @@ new.chat.openai.com
 o26.apps.openai.com
 onboard.openai.com
 pay.openai.com
+platform-cloudflare.api.openai.com
 platform.api.openai.com
 platform.openai.com
 platform2.api.openai.com
@@ -105,6 +108,9 @@ platform.api.openai.org
 playground.api.openai.org
 quail.ace-research01.openai.org
 raven.ace-research01.openai.org
+rex.sci.openai.org
+simon.apps.openai.org
 staging-first-party-aks-scus-api-b.api.openai.org
 staging-primary-aks-scus-api-b.api.openai.org
 test.dev.openai.org
+vip-cache.openai.org
