@@ -12,6 +12,7 @@ forum.bugcrowd.com
 go.bugcrowd.com
 hooks.a.bugcrowd.com
 mailgun.a.bugcrowd.com
+pages.bugcrowd.com
 stargate.a.bugcrowd.com
 tracker.bugcrowd.com
 ww1.bugcrowd.com
