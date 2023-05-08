@@ -643,6 +643,7 @@ developer-staging.uber.com
 developer-staging.uberinternal.com
 developer.uber.com
 developer.uberinternal.com
+developers.prod.uber.com
 developers.uber.com
 devhub.uberinternal.com
 devicelab.uberinternal.com

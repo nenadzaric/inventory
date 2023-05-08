@@ -249,6 +249,7 @@ bizsys.uber.com
 blackbird-staging.uber.com
 blackbird.uber.com
 blackbox.uberinternal.com
+blackmagic.prod.uber.com
 blacksmith.uberinternal.com
 blackswan-mitigator.uberinternal.com
 blackswan.uber.com
@@ -281,6 +282,7 @@ bonjour-sandbox.uberinternal.com
 bonjour-staging.uber.com
 bonjour.uber.com
 boost.uberinternal.com
+bossbox.prod.uber.com
 boulder-ui.uberinternal.com
 boulder-web-tools-staging.uberinternal.com
 boulder-web-tools.uberinternal.com
@@ -862,6 +864,7 @@ ford.prod.uber.com
 forge-dev.uberinternal.com
 forge.uberinternal.com
 forms.uberinternal.com
+foxbar.cfe.uber.com
 fp.uberinternal.com
 fractal.uberinternal.com
 framework-maker.uberinternal.com
@@ -1019,6 +1022,7 @@ hadoop-jhs.uberinternal.com
 hadoop-management.uberinternal.com
 hadoop-ui-dca1.uberinternal.com
 hadoop-ui.uberinternal.com
+hadoopqueue.prod.uber.com
 hadoopviz.uberinternal.com
 hailstorm-dca1.uberinternal.com
 hailstorm-phx2.uberinternal.com
@@ -1131,6 +1135,7 @@ ipam.uberinternal.com
 ipo.uberinternal.com
 ipv4-c437-ord001-ix.uber.com
 ipv6.uberinternal.com
+irc01-dca1.dev.uber.com
 irc01-dca1.prod.uber.com
 irc01-sjc1.prod.uber.com
 iris-staging.uberinternal.com
@@ -1488,6 +1493,7 @@ newsroomapi.uber.com
 next.prod.uber.com
 next.uberinternal.com
 nikolay-dev.prod.uber.com
+nikolay-eu.cfe.uber.com
 nitro.uberinternal.com
 nlexa.uberinternal.com
 nlexaclient.uberinternal.com
@@ -1835,6 +1841,7 @@ robots.uberinternal.com
 rodeo.uberinternal.com
 rolodex-staging.uberinternal.com
 rolodex.uberinternal.com
+romaxa6.dev.uber.com
 roosterbrood.uberinternal.com
 rosetta-staging.uberinternal.com
 rosetta.uberinternal.com
@@ -1873,6 +1880,7 @@ sanctions-screening.uberinternal.com
 sandbox-alpha-eudev1-staff.prod.uber.com
 sandbox-api.uber.com
 sanity.uberinternal.com
+santa.prod.uber.com
 sao.uber.com
 sao1.uber.com
 sao2.uber.com
@@ -2067,6 +2075,7 @@ sub-166-146-243.uber.com
 sub-166-152-19.uber.com
 sub-166-157-211.uber.com
 sub-166-157-36.uber.com
+sub-166-160-69.uber.com
 sub-166-162-202.uber.com
 sub-174-198-24.uber.com
 sub-97-157-26.uber.com
@@ -2076,6 +2085,8 @@ sub-97-232-216.uber.com
 sub-97-233-30.uber.com
 sub-97-33-234.uber.com
 sub-97-45-182.uber.com
+sub-97-48-156.uber.com
+sub-97-61-34.uber.com
 submap-sets-staging.uberinternal.com
 submap-sets.uberinternal.com
 submitqueue-admin.uberinternal.com
@@ -2469,6 +2480,7 @@ vs-terms.uber.com
 vs-terms.uberinternal.com
 vs.uberinternal.com
 vsdispatch.uber.com
+w1.prod.uber.com
 wall-e.uberinternal.com
 wallet-staging.uber.com
 wallet.uber.com
