@@ -1604,6 +1604,7 @@ pathfinder.uberinternal.com
 pattern.uberinternal.com
 payment-profile.uberinternal.com
 payment-providers.uber.com
+payment.cfe.uber.com
 payments-staging.uber.com
 payments-staging.uberinternal.com
 payments.uber.com
@@ -2057,7 +2058,10 @@ styleguide.uberinternal.com
 sub-166-152-19.uber.com
 sub-166-157-36.uber.com
 sub-174-198-24.uber.com
+sub-97-157-26.uber.com
+sub-97-17-116.uber.com
 sub-97-203-88.uber.com
+sub-97-232-216.uber.com
 sub-97-33-234.uber.com
 submap-sets-staging.uberinternal.com
 submap-sets.uberinternal.com
@@ -2374,6 +2378,7 @@ usearch.uberinternal.com
 usecret-staging.uberinternal.com
 usecret.uberinternal.com
 usentry.uberinternal.com
+user37.uber.com
 users.uberinternal.com
 usim-editor-staging.uberinternal.com
 usim-editor.uberinternal.com

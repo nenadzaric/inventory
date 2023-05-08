@@ -339,6 +339,7 @@ caravan.uberinternal.com
 carb.uberinternal.com
 carbon.uberinternal.com
 careers-staging.uberinternal.com
+careers.dev.uber.com
 careers.uber.com
 careersemail.uber.com
 carrots-staging.uberinternal.com
@@ -659,6 +660,7 @@ devpod-us.uberinternal.com
 devpod-waw.uberinternal.com
 devpod.uberinternal.com
 devseries.uberinternal.com
+devserver.uber.com
 dexter.uberinternal.com
 dfi.uberinternal.com
 dgr.uberinternal.com
@@ -739,6 +741,7 @@ elk.uberinternal.com
 elkland.uberinternal.com
 em.uber.com
 email.uber.com
+emailcode.uber.com
 embed-chronicle.uberinternal.com
 embed-payments.uberinternal.com
 emd.uberinternal.com
@@ -778,6 +781,7 @@ ess-staging.uberinternal.com
 ess.uberinternal.com
 est.uber.com
 etr.uberinternal.com
+etstaging.uber.com
 event-truth.uberinternal.com
 event.uber.com
 events-admin.uberinternal.com
