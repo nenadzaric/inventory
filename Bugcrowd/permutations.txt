@@ -1,0 +1,7 @@
+api.bugcrowd.com
+blog.bugcrowd.com
+bugcrowd.com
+docs.bugcrowd.com
+email.forum.bugcrowd.com
+forum.bugcrowd.com
+www.bugcrowd.com
