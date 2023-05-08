@@ -831,6 +831,7 @@ finance.uberinternal.com
 finmeta-staging.uberinternal.com
 finmeta.uberinternal.com
 firehouse.uberinternal.com
+firix.cfe.uber.com
 first.uberinternal.com
 flamegraphs.uberinternal.com
 flashback.uberinternal.com
@@ -1198,6 +1199,7 @@ kaleidoscope.uberinternal.com
 kasper.uber.com
 kcp-gateway.uber.com
 kcp.uberinternal.com
+keith.cfe.uber.com
 kerberos.uber.com
 kia-turbo-5.dev.uber.com
 kibana.uberinternal.com
@@ -1858,6 +1860,7 @@ rush.uber.com
 rush.uberinternal.com
 rushmore.uberinternal.com
 rwangbox1.cfe.uber.com
+ryan-webp2.cfe.uber.com
 s-chronicle.uberinternal.com
 s-urate.uberinternal.com
 s.uber.com
@@ -2080,6 +2083,7 @@ sub-166-162-202.uber.com
 sub-174-198-24.uber.com
 sub-97-157-26.uber.com
 sub-97-17-116.uber.com
+sub-97-19-150.uber.com
 sub-97-203-88.uber.com
 sub-97-232-216.uber.com
 sub-97-233-30.uber.com
@@ -2564,4 +2568,5 @@ z.uber.com
 zero2.uber.com
 1a.cfe.uber.com
 3uyulechengzenmewan.dev.uber.com
+026-toolshed.cfe.uber.com
 15205598.uber.com
