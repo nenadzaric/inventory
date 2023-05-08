@@ -16,6 +16,7 @@ accounts-test.uberinternal.com
 accounts-test2.uberinternal.com
 accounts.uber.com
 accounts.uberinternal.com
+acmilan.cfe.uber.com
 activeai-staging.uberinternal.com
 activeai.uberinternal.com
 activedirectory-dca1.uber.com
@@ -1311,6 +1312,7 @@ marketplace.uber.com
 marketplace.uberinternal.com
 mastermind.uberinternal.com
 matching-client.uberinternal.com
+mazda-mightymax-8.cfe.uber.com
 maze.uberinternal.com
 mcp.uberinternal.com
 mcr.et.uber.com
@@ -2055,8 +2057,10 @@ strelka.uberinternal.com
 studio-staging.uberinternal.com
 studio.uberinternal.com
 styleguide.uberinternal.com
+sub-166-146-243.uber.com
 sub-166-152-19.uber.com
 sub-166-157-36.uber.com
+sub-166-162-202.uber.com
 sub-174-198-24.uber.com
 sub-97-157-26.uber.com
 sub-97-17-116.uber.com
