@@ -13,6 +13,7 @@ calendar.snapchat.com
 cb.sc-corp.net
 cdn.snapchat.com
 chat-gateway-prod.chat.snapchat.com
+chat-gateway-stage.chat.snapchat.com
 connect.bitmoji.com
 developer.snapchat.com
 docs.snapchat.com

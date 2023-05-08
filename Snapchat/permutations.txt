@@ -6,6 +6,7 @@ bitstrips.com
 cdn.snapchat.com
 chat-internal.snapchat.com
 developer.snapchat.com
+developers.secproxy-dev.sc-corp.net
 developers.snapchat.com
 docs.snapchat.com
 my.snapchat.com
