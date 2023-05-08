@@ -10,6 +10,7 @@ email.forum.bugcrowd.com
 files.bugcrowd.com
 forum.bugcrowd.com
 go.bugcrowd.com
+hooks.a.bugcrowd.com
 mailgun.a.bugcrowd.com
 stargate.a.bugcrowd.com
 tracker.bugcrowd.com
