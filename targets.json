@@ -265,6 +265,52 @@
       "url": "https://bugcrowd.com/cyberghost"
     },
     {
+      "name": "Department of Homeland Security: Vulnerability Disclosure Program",
+      "domains": [
+        "BIOMETRICS.GOV",
+        "CBP.GOV",
+        "CISA.GOV",
+        "CPNIREPORTING.GOV",
+        "CYBER.GOV",
+        "CYBERSECURITY.GOV",
+        "DISASTERASSISTANCE.GOV",
+        "DOTGOV.GOV",
+        "E-VERIFY.GOV",
+        "EVERIFY.GOV",
+        "EVUS.GOV",
+        "FEMA.GOV",
+        "FIRSTRESPONDERTRAINING.GOV",
+        "FLETA.GOV",
+        "FLETC.GOV",
+        "FLOODSMART.GOV",
+        "GET.GOV",
+        "GLOBALENTRY.GOV",
+        "HOMELANDSECURITY.GOV",
+        "ICE.GOV",
+        "JUNTOS.GOV",
+        "LISTO.GOV",
+        "NIC.GOV",
+        "NIEM.GOV",
+        "NMSC.GOV",
+        "POWER2PREVENT.GOV",
+        "PREVENTIONRESOURCEFINDER.GOV",
+        "READY.GOV",
+        "READYBUSINESS.GOV",
+        "SAFETYACT.GOV",
+        "SCHOOLSAFETY.GOV",
+        "SECRETSERVICE.GOV",
+        "STOPRANSOMWARE.GOV",
+        "TOGETHER.GOV",
+        "TSA.GOV",
+        "US-CERT.GOV",
+        "USCG.GOV",
+        "USCIS.GOV",
+        "USSS.GOV"
+      ],
+      "wildcard_filters": [],
+      "url": "https://bugcrowd.com/dhs-vdp"
+    },
+    {
       "name": "DICK'S Sporting Goods",
       "domains": [
         "calia.com",
@@ -516,7 +562,7 @@
       "url": "https://bugcrowd.com/mettle"
     },
     {
-      "name": "Monash University",
+      "name": "Monash University Vulnerability Disclosure Program",
       "domains": [
         "erc.monash.edu",
         "monash.edu"
