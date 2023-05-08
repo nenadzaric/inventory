@@ -1,3 +1,4 @@
+api-demo.intigriti.com
 api.intigriti.com
 app.intigriti.com
 autodiscover.intigriti.com
@@ -8,6 +9,7 @@ communication-demo.intigriti.com
 communication.intigriti.com
 go.intigriti.com
 intigriti.com
+jobs-uat.intigriti.com
 jobs.intigriti.com
 kb.intigriti.com
 login.intigriti.com
