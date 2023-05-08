@@ -10,6 +10,7 @@ developers.secproxy-dev.sc-corp.net
 developers.snapchat.com
 docs.snapchat.com
 my.snapchat.com
+payment.snappublisher.snapchat.com
 sc-core.net
 sc-corp.net
 scan.me
