@@ -68,6 +68,7 @@ an-settlement.uber.com
 analytics-workbench.uberinternal.com
 announcer-staging.uberinternal.com
 announcer.uberinternal.com
+anoopkum3.prod.uber.com
 ans.dev.uber.com
 ap-dev.uberinternal.com
 api-an-settlement.uber.com
@@ -1077,6 +1078,7 @@ hotspot-curator.uberinternal.com
 hotspot.uberinternal.com
 hound.uberinternal.com
 hs01.et.uber.com
+huang.prod.uber.com
 hub.uberinternal.com
 hue-dev.uberinternal.com
 hunter2.uberinternal.com
@@ -1187,6 +1189,7 @@ jukebox.uberinternal.com
 jump-staging.uberinternal.com
 jump.uber.com
 jun.et.uber.com
+junjiah1.cfe.uber.com
 jxt-staging.uberinternal.com
 jxt.uberinternal.com
 jyu.et.uber.com
@@ -1475,6 +1478,7 @@ mycroft.uberinternal.com
 mynd.et.uber.com
 myprivacy.uber.com
 myprivacy.uberinternal.com
+mystique-staging.awscorp.uberinternal.com
 mystique-staging.uberinternal.com
 mystique.uberinternal.com
 myteam.uberinternal.com
