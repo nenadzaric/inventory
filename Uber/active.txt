@@ -385,10 +385,12 @@ chronicle-v1.uberinternal.com
 chronicle-v2.uberinternal.com
 chronicle-v3.uberinternal.com
 chronicle.uberinternal.com
+chua.cfe.uber.com
 ci-android-mobile.uberinternal.com
 ci-android-sq-mobile.uberinternal.com
 ci-blackbox.uberinternal.com
 ci-engsec.uberinternal.com
+ci-go.dev.uber.com
 ci-go.uberinternal.com
 ci-infra.uberinternal.com
 ci-ios-mobile.uberinternal.com
@@ -1059,6 +1061,7 @@ hive-sync.uberinternal.com
 hive.uberinternal.com
 hopstop.uberinternal.com
 hos-job-history.uberinternal.com
+hos.cfe.uber.com
 hotcakes.uberinternal.com
 hotpot.uberinternal.com
 hotspot-curator.uberinternal.com
@@ -1405,6 +1408,7 @@ moncon.uberinternal.com
 monitoring.uberinternal.com
 monocle.uberinternal.com
 moogsoft.uberinternal.com
+morgan-malibu-7.dev.uber.com
 morpheus.uberinternal.com
 movement-admin.uberinternal.com
 movement-dca1.uberinternal.com
@@ -2109,6 +2113,7 @@ synoptic-ui.uberinternal.com
 synoptic.uberinternal.com
 system-staging.uberinternal.com
 system.uberinternal.com
+szhou.dev.uber.com
 t.uber.com
 t2.uber.com
 t2.uberinternal.com
