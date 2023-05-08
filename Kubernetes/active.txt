@@ -938,6 +938,7 @@ storage.docs.k8s.io
 storage.docs.kubernetes.io
 store.docs.k8s.io
 store.docs.kubernetes.io
+sub-166-152-112.gcr.io
 sub-97-173-139.gcr.io
 submit-queue.canary.k8s.io
 submit-queue.canary.kubernetes.io
