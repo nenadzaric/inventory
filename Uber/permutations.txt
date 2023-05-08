@@ -514,6 +514,7 @@ corners-staging.uberinternal.com
 corners.uberinternal.com
 corp-dev.uberinternal.com
 corp.insightvm.uberinternal.com
+corpdevelopers.uber.com
 corpmdm-adm.uberinternal.com
 corpmdm.uberinternal.com
 corporatecard.uberinternal.com

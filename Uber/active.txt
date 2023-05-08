@@ -85,6 +85,7 @@ approvalservice.uber.com
 appsec-analysis.uber.com
 aptarchive.uber.com
 ar.uber.com
+arby-dca1.dev.uber.com
 arcanist-the-service.uberinternal.com
 arize-api.uberinternal.com
 arize.uberinternal.com
@@ -329,6 +330,7 @@ cam-staging.uberinternal.com
 cam.uberinternal.com
 candidate-experience-staging.uber.com
 candidate-experience-staging.uberinternal.com
+candidate.prod.uber.com
 cannes.uberinternal.com
 canopy.uberinternal.com
 cap-staging.uberinternal.com
@@ -387,6 +389,7 @@ chronicle-v2.uberinternal.com
 chronicle-v3.uberinternal.com
 chronicle.uberinternal.com
 chua.cfe.uber.com
+chuzhongyinianjitiyudabiao.cfe.uber.com
 ci-android-mobile.uberinternal.com
 ci-android-sq-mobile.uberinternal.com
 ci-blackbox.uberinternal.com
@@ -1686,6 +1689,7 @@ preferences.uber.com
 preloads-backend.uberinternal.com
 preloads.uberinternal.com
 presence.uberinternal.com
+presto-jarvis.dev.uber.com
 primer-dca1.uberinternal.com
 primer.uberinternal.com
 prism.uberinternal.com
@@ -1699,6 +1703,7 @@ proactive.uberinternal.com
 proctor-api-demo.uberinternal.com
 proctor-api-dev.uberinternal.com
 proctor-api-staging.uberinternal.com
+proctor-api.prod.uber.com
 proctor-api.uberinternal.com
 proctor-demo.uberinternal.com
 proctor-dev.uberinternal.com
@@ -1879,6 +1884,7 @@ schema-publish.uberinternal.com
 schemaless.uberinternal.com
 science.uber.com
 science.uberinternal.com
+scion-justy-5.cfe.uber.com
 scooby-doo-esperweb-poc.uberinternal.com
 scout-fusion.uberinternal.com
 scout-prod.uberinternal.com
@@ -2059,6 +2065,7 @@ studio.uberinternal.com
 styleguide.uberinternal.com
 sub-166-146-243.uber.com
 sub-166-152-19.uber.com
+sub-166-157-211.uber.com
 sub-166-157-36.uber.com
 sub-166-162-202.uber.com
 sub-174-198-24.uber.com
@@ -2066,7 +2073,9 @@ sub-97-157-26.uber.com
 sub-97-17-116.uber.com
 sub-97-203-88.uber.com
 sub-97-232-216.uber.com
+sub-97-233-30.uber.com
 sub-97-33-234.uber.com
+sub-97-45-182.uber.com
 submap-sets-staging.uberinternal.com
 submap-sets.uberinternal.com
 submitqueue-admin.uberinternal.com
