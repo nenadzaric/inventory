@@ -1,0 +1,16 @@
+admin.fanduel.com
+assets.sportsbook.fanduel.com
+cms.sportsbook.fanduel.com
+fanduel.com
+fanduel.design
+fdbox.net
+live.fanduel.com
+racing-qa.fanduel.com
+search.sportsbook.fanduel.com
+service.racing-qa.fanduel.com
+service.racing-staging.fanduel.com
+service.racing.fanduel.com
+staging.racing.fanduel.com
+vpn.east.fdbox.net
+vpn.fdbox.net
+www.fanduel.com
