@@ -1,0 +1,12 @@
+ads.jora.com
+api.employer.jora.com
+api.jora.com
+assets.jora.com
+cdn.jora.com
+dev-employer.jora.com
+jora.com
+jora.xyz
+local.jora.com
+my.jora.com
+qa.jora.com
+www.jora.com
