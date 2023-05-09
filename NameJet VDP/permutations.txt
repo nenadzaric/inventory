@@ -1,0 +1,6 @@
+api.namejet.com
+atlas.namejet.com
+namejet.com
+stage.namejet.com
+test.namejet.com
+www.namejet.com
