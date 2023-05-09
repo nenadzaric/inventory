@@ -3921,12 +3921,6 @@
       "url": "https://hackenproof.com/dex-trade/dex-trade"
     },
     {
-      "name": "Dexalot",
-      "domains": [],
-      "wildcard_filters": [],
-      "url": "https://hackenproof.com/dexalot/dexalot-smart-contracts"
-    },
-    {
       "name": "Didi",
       "domains": [
         "didichuxing.com",
@@ -6578,12 +6572,6 @@
       "url": "https://jivochat.com/bugbounty/"
     },
     {
-      "name": "JNJ Mobile",
-      "domains": [],
-      "wildcard_filters": [],
-      "url": "https://hackerone.com/jnj_mobile"
-    },
-    {
       "name": "John Deere",
       "domains": [
         "johndeere.com",
@@ -6973,12 +6961,6 @@
       ],
       "wildcard_filters": [],
       "url": "https://hackerone.com/magisto"
-    },
-    {
-      "name": "Mailtime Technology",
-      "domains": [],
-      "wildcard_filters": [],
-      "url": "https://hackerone.com/mailtime_technology_inc"
     },
     {
       "name": "Mailtrack.io",
@@ -7816,12 +7798,6 @@
       "url": "https://bugcrowd.com/owaspzap"
     },
     {
-      "name": "OwnCloud",
-      "domains": [],
-      "wildcard_filters": [],
-      "url": "https://hackerone.com/owncloud"
-    },
-    {
       "name": "OYO",
       "domains": [
         "oyorooms.com"
@@ -7966,12 +7942,6 @@
       ],
       "wildcard_filters": [],
       "url": "https://bugbounty.paytm.com"
-    },
-    {
-      "name": "People Interactive",
-      "domains": [],
-      "wildcard_filters": [],
-      "url": "https://hackerone.com/people_interactive"
     },
     {
       "name": "Personal Capital",
