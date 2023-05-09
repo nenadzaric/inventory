@@ -127,6 +127,7 @@ qa.ingress.linktr.ee
 qa.linktr.ee
 qa.linktree.com
 qa.tr.ee
+redirect.qa.tr.ee
 redirect.tr.ee
 revenue-cat-filter.production.linktr.ee
 revenue-cat-filter.qa.linktr.ee
