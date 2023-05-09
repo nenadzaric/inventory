@@ -5,7 +5,10 @@
 0-101.us.binance.com
 0-11.binance.com
 0-113.binance.com
+0-113.eu.api.binance.com
 0-132.us.binance.com
+0-14.api.binance.com
+0-15.dev.api.binance.com
 0-151.binance.com
 0-156.us.binance.com
 0-173.us.binance.com
@@ -68,8 +71,12 @@
 0-63.binance.com
 0-66.binance.com
 0-7.binance.com
+0-76.us.api.binance.com
+0-78.binance.com
 0-8.binance.com
+0-9-0-9.binance.com
 0-9-0.binance.com
+0-9-08.dev.api.binance.com
 0-9-1.binance.com
 0-9-2.binance.com
 0-9-3.binance.com
@@ -669,8 +676,10 @@ abi-dr.at.dev.api.binance.com
 abi-dr.at.eu.api.binance.com
 abi-dr.at.us.api.binance.com
 abi80.api.binance.com
+abi80.binance.com
 about.binance.com
 about.test.us.api.binance.com
+about.test.us.binance.com
 about.test.us.dev.api.binance.com
 about.test.us.eu.api.binance.com
 about.test.us.us.api.binance.com
@@ -4623,6 +4632,7 @@ email.dev.binance.com
 email.directmaila.binance.us
 email.m.binance.com
 email.mailera.binance.us
+email.mgdirectmail.binance.com
 email.mgmailer.binance.com
 email.us.binance.com
 emailantivirus.binance.com
@@ -12824,6 +12834,7 @@ www.binance.sg
 www.binance.us
 www.bnbchain.org
 www.labs-00.binance.com
+www.pay.binance.com
 www0-0.binance.com
 www0-1.binance.com
 www0-2.binance.com
@@ -13102,7 +13113,9 @@ zyash.binance.com
 1-55.binance.com
 1-56-2.binance.com
 1-56-6.binance.com
+1-57.api.binance.com
 1-57.binance.com
+1-57.us.api.binance.com
 1-58.binance.com
 1-589.binance.com
 1-59-4.binance.com
@@ -13119,6 +13132,7 @@ zyash.binance.com
 1-9-8.binance.com
 1-9.binance.com
 1.binance.com
+1.eu.api.binance.com
 1a.binance.com
 1a7bd.api.binance.com
 1a7bd.dev.api.binance.com
@@ -13446,6 +13460,7 @@ zyash.binance.com
 2cq2jrewr1.s.eu.api.binance.com
 2cq2jrewr1.s.us.api.binance.com
 2d6d941641670324477530.api.binance.com
+2d6d941641670324477530.binance.com
 2d6d941641670324477530.dev.api.binance.com
 2d6d941641670324477530.eu.api.binance.com
 2d6d941641670324477530.us.api.binance.com
@@ -15195,6 +15210,7 @@ zyash.binance.com
 35.us.api.binance.com
 36-125.binance.com
 36-cyspk12cwx1tl0.ht.api.binance.com
+36-cyspk12cwx1tl0.ht.binance.com
 36-cyspk12cwx1tl0.ht.dev.api.binance.com
 36-cyspk12cwx1tl0.ht.eu.api.binance.com
 36-cyspk12cwx1tl0.ht.us.api.binance.com
@@ -15531,6 +15547,7 @@ zyash.binance.com
 78-i95143f0d.am.eu.api.binance.com
 78-i95143f0d.am.us.api.binance.com
 78.api.binance.com
+78.binance.com
 78.dev.api.binance.com
 78.eu.api.binance.com
 78.us.api.binance.com
@@ -16181,6 +16198,7 @@ zyash.binance.com
 543bc18a-a8ff-4b37-b663-a79d947cb6b6.eu.api.binance.com
 543bc18a-a8ff-4b37-b663-a79d947cb6b6.us.api.binance.com
 000550-8.us.api.binance.com
+000550-8.us.binance.com
 000550-8.us.dev.api.binance.com
 000550-8.us.eu.api.binance.com
 000550-8.us.us.api.binance.com

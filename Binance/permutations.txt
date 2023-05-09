@@ -3,6 +3,7 @@ antivirus-search.binance.com
 api.binance.com
 api1.binance.com
 api2.binance.com
+api3.binance.com
 api4.binance.com
 api5.binance.com
 binance.co.ug
@@ -23,4 +24,6 @@ login.binance.com
 logincompute.binance.com
 pay.binance.com
 service-api.binance.com
+uswordpress.binance.com
+wordpress.antivirus.binance.com
 www.binance.com
