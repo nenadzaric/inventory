@@ -6,6 +6,7 @@ hackerone-user-content.com
 hackerone.com
 hackerone.net
 mta-sts.hackerone.com
+o1.ctf.hacker101.com
 search.ctf.hacker101.com
 service.ctf.hacker101.com
 vpn.hackerone.net
