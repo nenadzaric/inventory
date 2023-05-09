@@ -7,8 +7,10 @@ dns2.namejet.com
 dns3.namejet.com
 help.namejet.com
 mail2.namejet.com
+maintenance.namejet.com
 namejet.com
 partnerapi.namejet.com
+partnertest.namejet.com
 sftp.namejet.com
 stage.namejet.com
 test.namejet.com
