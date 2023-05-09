@@ -13,6 +13,7 @@ admintool.lime.bike
 airflow-mwaa.limeinternal.com
 airflow.limeinternal.com
 alation.lime.bike
+alimmenta-5318009.hs-sites.com
 anomalo.limeinternal.com
 api.lime.bike
 apps.li.me
@@ -56,6 +57,7 @@ iot-platform-core.lime.bike
 iot-proxy-gen2-production-standby.lime.bike
 iot-proxy-gen2-production.lime.bike
 iot-proxy-gen2-staging.lime.bike
+israeliamerican-19513447.hs-sites.com
 istio-test.lime.bike
 juicer-test-nick.lime.bike
 juicer.lime.bike

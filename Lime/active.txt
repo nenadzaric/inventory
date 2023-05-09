@@ -1,10 +1,13 @@
+ablink.juicer.li.me
 ablink.marketing.li.me
+ablink.rider.li.me
 abmail.juicer.li.me
 abmail.marketing.li.me
 abmail.rider.li.me
 act.li.me
 api.lime.bike
 apps.li.me
+apsouth1-vpn.li.me
 cdn.li.me
 cdn.ops.lime.bike
 community.li.me
@@ -31,6 +34,7 @@ safety.li.me
 shop.li.me
 staging.li.me
 test.limeinternal.com
+transfer.li.me
 uswest1-vpn.li.me
 v1.li.me
 vision.li.me
