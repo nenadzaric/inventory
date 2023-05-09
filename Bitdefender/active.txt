@@ -36,6 +36,7 @@ console.bitdefender.net
 cwautomate-api.rmm.bitdefender.com
 cwautomate-rmmapi.rmm.bitdefender.com
 cwse-plugin-prod.rmm.bitdefender.com
+datto.rmm.bitdefender.com
 defense-us.gravityzone.bitdefender.com
 dev.bitdefender.com
 dev1.bitdefender.com
@@ -106,6 +107,7 @@ pwd.bitdefender.com
 ra.bitdefender.com
 remote.bitdefender.com
 research.bitdefender.com
+rmmi-api-backend.rmm.bitdefender.com
 rmmi-api.rmm.bitdefender.com
 sa-api-cloud.athena.bitdefender.net
 safego.athena.bitdefender.net
