@@ -1,4 +1,5 @@
 andre-ecs.preprod.directly.com
+andre-ecs.sandbox.directly.com
 andre-ecs.stage.directly.com
 api.directly.com
 api.preprod.directly.com
@@ -9,6 +10,7 @@ assets.preprod.directly.com
 assets.sandbox.directly.com
 assets.stage.directly.com
 authsmtp.directly.com
+cache.preprod.directly.com
 cache1.directly.com
 cai.preprod.directly.com
 cai.sandbox.directly.com
@@ -16,10 +18,12 @@ cai.stage.directly.com
 carbon.directly.com
 css.directly.com
 css.sandbox.directly.com
+db.preprod.directly.com
 db.prod.directly.com
 db.sandbox.directly.com
 db.stage.directly.com
 developer.directly.com
+developer.preprod.directly.com
 developer.prod.directly.com
 developer.sandbox.directly.com
 directly.com
@@ -35,14 +39,17 @@ links.experts.directly.com
 live.directly.com
 preprod-worker01.preprod.directly.com
 preprod-worker02.preprod.directly.com
+preprod.directly.com
 preprod01.preprod.directly.com
 preprod02.preprod.directly.com
 prod-worker01.prod.directly.com
 prod-worker02.prod.directly.com
+prod-worker03.prod.directly.com
 prod-worker04.prod.directly.com
 prod01.prod.directly.com
 prod02.prod.directly.com
 prod03.prod.directly.com
+prod04.directly.com
 prod04.prod.directly.com
 prod05.prod.directly.com
 prometheus.directly.com
@@ -62,6 +69,8 @@ stage01.stage.directly.com
 stage02.stage.directly.com
 static.preprod.directly.com
 static.sandbox.directly.com
+static.stage.directly.com
 static1.directly.com
 tm.directly.com
 vpn.directly.com
+xorriyo.dev.directly.com
