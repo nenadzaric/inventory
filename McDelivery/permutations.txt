@@ -1,0 +1,6 @@
+api.mcdelivery.co.in
+api.uat.mcdelivery.co.in
+mcdelivery.co.in
+web.uat.mcdelivery.co.in
+www.locateme.mcdelivery.co.in
+www.mcdelivery.co.in
