@@ -1,4 +1,5 @@
 adrs.pages.dcsg.com
+alpha.dickssportinggoods.com
 alpha.publiclands.com
 aos.dcsg.com
 aos.dickssportinggoods.com
@@ -31,6 +32,7 @@ ds.dcsg.com
 e.calia.com
 e.dcsg.com
 e.dickssportinggoods.com
+e.fieldandstreamshop.com
 e.goinggoinggone.com
 e.golfgalaxy.com
 e.publiclands.com
@@ -56,13 +58,16 @@ hosted.golfgalaxy.com
 image.dickssportinggoods.com
 image.golfgalaxy.com
 images.dickssportinggoods.com
+img.dickssportinggoods.com
 img.fieldandstreamshop.com
+iq.vrst.com
 ir.dickssportinggoods.com
 jabber.dcsg.com
 jobs.fieldandstreamshop.com
 kappa.dickssportinggoods.com
 kappa.golfgalaxy.com
 lessons.qa.dcsg.com
+lessonsapi.golfgalaxy.com
 lessonsapi.qa.dcsg.com
 link.dickssportinggoods.com
 link.fieldandstreamshop.com
@@ -89,7 +94,9 @@ mi.publiclands.com
 mi.vrst.com
 ml.dcsg.com
 ml.dickssportinggoods.com
+mobilegateway.dcsg.com
 mycloudclient.dcsg.com
+origin.golfgalaxy.com
 pages.dcsg.com
 payments-docs.pages.dcsg.com
 pi-engineering.pages.dcsg.com
@@ -113,10 +120,12 @@ sso.fieldandstreamshop.com
 sso.golfgalaxy.com
 sso.publiclands.com
 sts.dcsg.com
+sub-97-141-197.vrst.com
 svn.dcsg.com
 t.dickssportinggoods.com
 t.fieldandstreamshop.com
 t.golfgalaxy.com
+tag.calia.com
 tag.dickssportinggoods.com
 tag.fieldandstreamshop.com
 tag.goinggoinggone.com
