@@ -1,12 +1,12 @@
-new,host,a,soa,status_code,cname,mx,ns,txt
-,asm.bitdiscovery.com,"54.177.28.14, 54.183.212.192","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,,
-,assetreport.bitdiscovery.com,"52.9.178.178, 52.8.210.217","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,,
-,bitdiscovery.com,"54.183.212.192, 54.177.28.14","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,bitdiscovery-com.mail.protection.outlook.com,"ns-1741.awsdns-25.co.uk, ns-194.awsdns-24.com, ns-971.awsdns-57.net, ns-1163.awsdns-17.org","google-site-verification=14x7Z9oNO6-T8oM3DjHxBIuz5pdlKSB4RyZrn1O0qGU, h1-domain-verification=gkNpZHih3XQrSVGX74dwJQZ7px9jV33NhQoYua3D8gxpmxS4, v=spf1 include:spf.protection.outlook.com -all, detectify-verification=ee9904f3857f8cabfa55586f2e39b076"
-,chubb.bitdiscovery.com,"54.177.28.14, 54.183.212.192","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,,
-,dev.bitdiscovery.com,"52.52.122.253, 52.52.210.168","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,,
-,events.bitdiscovery.com,"54.177.85.120, 52.8.194.176","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,,
-,staging.bitdiscovery.com,,"ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,,
-,synopsys.bitdiscovery.com,"54.183.212.192, 54.177.28.14","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,,
-,tech.live.bitdiscovery.com,"54.183.63.247, 50.18.170.118","ns-699.awsdns-23.net, awsdns-hostmaster.amazon.com",NOERROR,36915c77-bd-bdingresspubli-a24d-1044068914.us-west-1.elb.amazonaws.com,,,
-,tenable.bitdiscovery.com,"54.183.212.192, 54.177.28.14","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,,
-,www.bitdiscovery.com,"54.183.212.192, 54.177.28.14","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,,
+new,host,a,cname,soa,status_code,mx,ns,txt
+[x],lab.live.bitdiscovery.com,"54.183.63.247, 50.18.170.118",36915c77-bd-bdingresspubli-a24d-1044068914.us-west-1.elb.amazonaws.com,"ns-699.awsdns-23.net, awsdns-hostmaster.amazon.com",NOERROR,,,
+,asm.bitdiscovery.com,"54.177.28.14, 54.183.212.192",,"ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,
+,assetreport.bitdiscovery.com,"52.9.178.178, 52.8.210.217",,"ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,
+,bitdiscovery.com,"54.177.28.14, 54.183.212.192",,"ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,bitdiscovery-com.mail.protection.outlook.com,"ns-971.awsdns-57.net, ns-1741.awsdns-25.co.uk, ns-1163.awsdns-17.org, ns-194.awsdns-24.com","detectify-verification=ee9904f3857f8cabfa55586f2e39b076, v=spf1 include:spf.protection.outlook.com -all, google-site-verification=14x7Z9oNO6-T8oM3DjHxBIuz5pdlKSB4RyZrn1O0qGU, h1-domain-verification=gkNpZHih3XQrSVGX74dwJQZ7px9jV33NhQoYua3D8gxpmxS4"
+,chubb.bitdiscovery.com,"54.177.28.14, 54.183.212.192",,"ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,
+,dev.bitdiscovery.com,"52.52.122.253, 52.52.210.168",,"ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,
+,events.bitdiscovery.com,"52.8.194.176, 54.177.85.120",,"ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,
+,staging.bitdiscovery.com,,,"ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,
+,synopsys.bitdiscovery.com,"54.183.212.192, 54.177.28.14",,"ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,
+,tech.live.bitdiscovery.com,"54.183.63.247, 50.18.170.118",36915c77-bd-bdingresspubli-a24d-1044068914.us-west-1.elb.amazonaws.com,"ns-699.awsdns-23.net, awsdns-hostmaster.amazon.com",NOERROR,,,
+,tenable.bitdiscovery.com,"54.177.28.14, 54.183.212.192",,"ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,
