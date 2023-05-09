@@ -15,6 +15,7 @@ client.ks-qa.synack.com
 client.ks-staging.synack.com
 client.staging.synack.com
 client.synack.com
+client.wa-qa.synack.com
 info.synack.com
 internal.ks-demo.synack.com
 internal.ks-dev1.synack.com
@@ -32,6 +33,7 @@ login.ks-prod.synack.com
 login.ks-qa.synack.com
 login.ks-staging.synack.com
 login.staging.synack.com
+login.synack.com
 login.wa-qa.synack.com
 mail.synack.com
 prod.analytics.synack.com
