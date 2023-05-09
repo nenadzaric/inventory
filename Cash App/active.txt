@@ -6,6 +6,7 @@ api.cashstaging.app
 api.taxes.cash.app
 api.taxes.cashstaging.app
 app.joinverse.com
+beta.taxes.cashstaging.app
 beta.verse.events
 business.verse.me
 cash.app

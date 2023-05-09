@@ -1,5 +1,6 @@
 admin.taxes.cash.app
 admin.taxes.cashstaging.app
+api.cash.app
 api.cashstaging.app
 api.taxes.cash.app
 api.taxes.cashstaging.app
