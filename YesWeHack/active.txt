@@ -4,6 +4,7 @@ api.yeswehack.com
 apps.demo.yeswehack.com
 apps.yeswehack.com
 autodiscover.yeswehack.com
+bbjobs.yeswehack.com
 blog.yeswehack.com
 changelog.yeswehack.com
 contact.yeswehack.com
@@ -13,6 +14,7 @@ event.yeswehack.com
 files.demo.yeswehack.com
 internal.demo.yeswehack.com
 jobs.yeswehack.com
+lyncdiscover.yeswehack.com
 mail.yeswehack.com
 pj.demo.yeswehack.com
 qrcode.yeswehack.com
