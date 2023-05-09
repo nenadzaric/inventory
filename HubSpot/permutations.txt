@@ -6,6 +6,7 @@ cms.hubspot.com
 dev.hubspot.com
 dev.hubspotemail.net
 developer.hubspot.com
+developer.sites.hubspot.com
 developers.hubspot.com
 growth.org
 hs-sites.com
