@@ -1,7 +1,11 @@
-new,host,a,mx,soa,ns,txt,status_code,cdn,cdn-name,cname
-[x],blog.zen.ly,,,"ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com",,,NOERROR,,,
-[x],community.zen.ly,"104.18.248.37, 104.18.249.37",mail-pod-17.int.zendesk.com,"ns-1213.awsdns-23.org, awsdns-hostmaster.amazon.com",,"v=spf1 include:mail.zendesk.com ~all, pod=17",NOERROR,True,cloudflare,zenlyapp.zendesk.com
-[x],gdpr.zen.ly,,,"ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com",,,NOERROR,,,
-[x],jira.znly.co,35.244.249.183,,"ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com",,,NOERROR,True,google,
-[x],zen.ly,34.120.54.238,"alt2.aspmx.l.google.com, alt1.aspmx.l.google.com, aspmx.l.google.com, aspmx2.googlemail.com, aspmx3.googlemail.com","ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com","ns-cloud-a2.googledomains.com, ns-cloud-a4.googledomains.com, ns-cloud-a1.googledomains.com, ns-cloud-a3.googledomains.com","google-site-verification=Yup3uFoCFEsouvAWBYz4ORwdsSVXH9O5AehFVbuAuuw, segment-site-verification=dQ3Lb2hnj5WP7wmEN7f0MTwR1tN7XuI8, v=spf1 include:spf.mailjet.com include:helpscoutemail.com include:mail.zendesk.com include:_spf.google.com ~all",NOERROR,True,google,
-[x],znly.co,,,"ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com","ns-cloud-a2.googledomains.com, ns-cloud-a4.googledomains.com, ns-cloud-a1.googledomains.com, ns-cloud-a3.googledomains.com",,NOERROR,,,
+new,host,a,soa,status_code,cdn,cdn-name,cname,mx,txt,ns,aaaa
+,blog.zen.ly,"52.4.145.119, 52.1.173.203, 52.5.181.79, 52.4.240.221, 52.6.46.142, 52.0.16.118, 52.6.3.192, 52.1.119.170, 52.4.38.70, 52.4.225.124, 52.1.147.205, 52.4.175.111","ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com",NOERROR,,,,,,,
+,community.zen.ly,"104.18.248.37, 104.18.249.37","ns-1213.awsdns-23.org, awsdns-hostmaster.amazon.com",NOERROR,True,cloudflare,zenlyapp.zendesk.com,mail-pod-17.int.zendesk.com,"pod=17, v=spf1 include:mail.zendesk.com ~all",,
+,gdpr.zen.ly,,"ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com",NOERROR,,,,,,,
+,jira.znly.co,35.244.249.183,"ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com",NOERROR,True,google,,,,,
+,rpc-hk.znly.co,,,NOERROR,,,,,,,
+,rpc-lenses-global.znly.co,54.144.128.85,,NOERROR,,,,,,,2602:fcbc:0:3::11
+,web.zen.ly,,"ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com",NOERROR,,,,,google-site-verification=shcFDHoKuPYyZbWODa0htxXOYIW5NsK_jggA-hPf5LU,,
+,www.zen.ly,34.120.54.238,"ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com",NOERROR,True,google,zen.ly,"aspmx2.googlemail.com, alt1.aspmx.l.google.com, aspmx3.googlemail.com, aspmx.l.google.com, alt2.aspmx.l.google.com","google-site-verification=Yup3uFoCFEsouvAWBYz4ORwdsSVXH9O5AehFVbuAuuw, segment-site-verification=dQ3Lb2hnj5WP7wmEN7f0MTwR1tN7XuI8, v=spf1 include:spf.mailjet.com include:helpscoutemail.com include:mail.zendesk.com include:_spf.google.com ~all","ns-cloud-a4.googledomains.com, ns-cloud-a1.googledomains.com, ns-cloud-a3.googledomains.com, ns-cloud-a2.googledomains.com",
+,zen.ly,34.120.54.238,"ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com",NOERROR,True,google,,"aspmx.l.google.com, alt1.aspmx.l.google.com, aspmx2.googlemail.com, aspmx3.googlemail.com, alt2.aspmx.l.google.com","segment-site-verification=dQ3Lb2hnj5WP7wmEN7f0MTwR1tN7XuI8, google-site-verification=Yup3uFoCFEsouvAWBYz4ORwdsSVXH9O5AehFVbuAuuw, v=spf1 include:spf.mailjet.com include:helpscoutemail.com include:mail.zendesk.com include:_spf.google.com ~all","ns-cloud-a4.googledomains.com, ns-cloud-a2.googledomains.com, ns-cloud-a3.googledomains.com, ns-cloud-a1.googledomains.com",
+,znly.co,,"ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com",NOERROR,,,,,,,
