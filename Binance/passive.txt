@@ -14223,6 +14223,7 @@ zyash.binance.com
 5fwww098.eu.api.binance.com
 5fwww098.us.api.binance.com
 5fwww23.api.binance.com
+5fwww23.binance.com
 5fwww23.dev.api.binance.com
 5fwww23.eu.api.binance.com
 5fwww23.us.api.binance.com
