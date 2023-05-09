@@ -1,0 +1,10 @@
+abmail.e.smartmockups.com
+api.smartmockups.com
+auth.smartmockups.com
+beta.smartmockups.com
+blog.smartmockups.com
+help.smartmockups.com
+l.e.smartmockups.com
+smartmockups.com
+staging-api.smartmockups.com
+www.smartmockups.com
