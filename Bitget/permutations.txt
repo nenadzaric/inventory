@@ -4,4 +4,5 @@ bitget.com
 blog.bitget.com
 mta-sts.bitget.com
 partner.bitget.com
+proxy.bitget.com
 www.bitget.com

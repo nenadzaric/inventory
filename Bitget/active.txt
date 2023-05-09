@@ -1,6 +1,7 @@
 api.bitget.com
 bitget.com
 blog.bitget.com
+capi.bitget.com
 h5.bitget.com
 m.bitget.com
 partner.bitget.com
