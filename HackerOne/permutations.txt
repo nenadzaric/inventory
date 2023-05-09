@@ -5,10 +5,12 @@ hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.com
 hackerone.net
+k8s.ctf.hacker101.com
 mta-sts.hackerone.com
 o1.ctf.hacker101.com
 search.ctf.hacker101.com
 service.ctf.hacker101.com
+temp.ctf.hacker101.com
 vpn.hackerone.net
 www.hacker101.com
 www.hackerone.com

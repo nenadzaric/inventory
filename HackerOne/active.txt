@@ -1,6 +1,7 @@
 a.ns.hackerone.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
+asm-attachments.hackerone-user-content.com
 asm-attachments.us-east-2.hackerone-user-content.com
 b.ns.hackerone.com
 b5s.hackerone-ext-content.com
@@ -8,6 +9,12 @@ cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.us-east-2.hackerone-user-content.com
 ctf.hacker101.com
 docs.hackerone.com
+errors.hackerone.net
+fsdkim.hackerone.com
+fwdkim1.hackerone.com
+gsemail.hackerone.com
+gslink.hackerone.com
+hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.us-east-2.hackerone-user-content.com
 hacker101.com
 hackerone-ext-content.com
@@ -18,9 +25,15 @@ levels-a.hacker101.com
 levels-b.hacker101.com
 marketing-assets.hackerone-user-content.com
 marketing-assets.us-east-2.hackerone-user-content.com
+mta-sts.hackerone.com
 profile-photos.us-east-2.hackerone-user-content.com
+resources.hackerone.com
 support.hackerone.com
 vpn.hackerone.net
 www.hacker101.com
 www.hackerone.com
 www.hackerone.net
+zendesk1.hackerone.com
+zendesk2.hackerone.com
+zendesk3.hackerone.com
+zendesk4.hackerone.com
