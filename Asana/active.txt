@@ -48,6 +48,7 @@ reporting-api-beta.integrations.asana.plus
 reporting-api-uat.integrations.asana.plus
 reporting-api.integrations.asana.plus
 sales.asana.com
+search.asana.biz
 security.asana.com
 services.beta.asana.biz
 services.prod.asana.biz
@@ -67,6 +68,8 @@ stag9-bastion-preferred.machine.asana.biz
 status.asana.com
 sub-97-181-70.app.asana.com
 sub-97-198-211.app.asana.com
+sub-97-250-99.app.asana.com
+sub-97-58-13.app.asana.com
 support.asana.com
 tableau-wdc-beta.integrations.asana.plus
 tableau-wdc-uat.integrations.asana.plus
