@@ -1,6 +1,7 @@
 blog.hackenproof.com
 dev.hackenproof.com
 faq.hackenproof.com
+grafana-dev.hackenproof.com
 hackenproof.com
 resources.hackenproof.com
 sc.hackenproof.com
@@ -8,4 +9,5 @@ stg.hackenproof.com
 upload.hackenproof.com
 vps1.hackenproof.com
 wp-euw1b.hackenproof.com
+wp-euw1c.hackenproof.com
 www.hackenproof.com
