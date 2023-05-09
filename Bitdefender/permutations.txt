@@ -13,6 +13,7 @@ logs.athena.bitdefender.net
 mail.bitdefender.com
 my.bitdefender.com
 my.gravityzone.bitdefender.com
+service.athena.bitdefender.net
 shop.bitdefender.com
 stage.bitdefender.com
 stats.bitdefender.com
