@@ -1,6 +1,8 @@
 affiliate.websitebuilder.com
 api.websitebuilder.com
+app-gateway.websitebuilder.com
 app.websitebuilder.com
+autodiscover.websitebuilder.com
 cc.websitebuilder.com
 cp-my.websitebuilder.com
 dev.websitebuilder.com
