@@ -14,7 +14,9 @@ hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.com
 hackerone.net
+levels-a.hacker101.com
 levels-b.hacker101.com
+marketing-assets.hackerone-user-content.com
 marketing-assets.us-east-2.hackerone-user-content.com
 profile-photos.us-east-2.hackerone-user-content.com
 support.hackerone.com
