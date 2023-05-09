@@ -1,0 +1,13 @@
+beta-download-staging.sketch.com
+cdn.sketch.com
+cloud-staging.sketch.com
+developer.sketch.com
+forum.sketch.com
+internal-download-staging.sketch.com
+o1.sketch.com
+private-download-staging.sketch.com
+sketch.com
+test-download-staging.sketch.com
+vpn.non-prod.sketch.com
+vpn.prod.sketch.com
+www.sketch.com
