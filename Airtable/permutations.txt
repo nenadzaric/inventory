@@ -1,0 +1,12 @@
+airtable.com
+api-staging.airtable.com
+api.airtable.com
+blog.airtable.com
+cdn.staging-airtableblocks.com
+community.staging.airtable.com
+oktalive.staging-airtableblocks.com
+staging-airtableblocks.com
+staging.airtable.com
+support.staging.airtable.com
+www.airtable.com
+www.staging.airtable.com
