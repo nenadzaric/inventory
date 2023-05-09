@@ -1,8 +1,10 @@
 a.ns.hackerone.com
+a5s.hackerone-ext-content.com
 api.hackerone.com
 asm-attachments.us-east-2.hackerone-user-content.com
 b.ns.hackerone.com
 b5s.hackerone-ext-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.us-east-2.hackerone-user-content.com
 ctf.hacker101.com
 docs.hackerone.com
@@ -12,6 +14,7 @@ hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.com
 hackerone.net
+levels-b.hacker101.com
 marketing-assets.us-east-2.hackerone-user-content.com
 profile-photos.us-east-2.hackerone-user-content.com
 support.hackerone.com
