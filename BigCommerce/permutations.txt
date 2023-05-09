@@ -16,5 +16,6 @@ o1.newsletter.bigcommerce.com
 oauth.bigcommerce.com
 shop.bigcommerce.com
 staging.bigcommerce.com
+supportcareers-client.bigcommerce.com
 www.bigcommerce.com
 www1.bigcommerce.com
