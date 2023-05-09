@@ -46,6 +46,7 @@ coreapi.ks-qa.synack.com
 coreapi.ks-staging.synack.com
 coreapi.staging.synack.com
 coreapi.wa-qa.synack.com
+demo.analytics.synack.com
 design.ks-qa.synack.com
 design.wa-qa.synack.com
 em.synack.com
@@ -133,6 +134,7 @@ support.ks-fedprod.synack.com
 support.staging.synack.com
 support.synack.com
 synack.com
+test.analytics.synack.com
 viper-e.ks-demo.synack.com
 viper-e.ks-dev1.synack.com
 viper-e.ks-fedprod.synack.com
