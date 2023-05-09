@@ -23,6 +23,7 @@ eetimes.com
 einfochips.com
 elektroda.pl
 immixgroup.com
+info.ecs-anz.arrow.com
 legacy.arrow.com
 login.arrow.com
 my.arrow.com
@@ -34,6 +35,7 @@ verical.com
 web.arrow.com
 www.arrow.com
 www.components.arrow.com
+www.ecs-anz.arrow.com
 www.ecs.arrow.com
 www.einfochips.com
 xsp.arrow.com

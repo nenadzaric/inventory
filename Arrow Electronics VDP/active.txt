@@ -4,6 +4,7 @@ ads.aspencore.com
 aepetsche.com
 amazon.transim.com
 api.arrow.com
+api.aspencore.com
 api.chip1stop.com
 api.siliconexpert.com
 api.transim.com
@@ -16,12 +17,14 @@ arc.arrow.com
 arrow.cn
 arrow.com
 asic.arrow.com
+asm.siliconexpert.com
 aspencore.com
 audit.arrow.com
 autodiscover.aepetsche.com
 autodiscover.arrow.com
 autodiscover.aspencore.com
 autodiscover.chip1stop.com
+autodiscover.eetimes.com
 autodiscover.einfochips.com
 autodiscover.elektroda.pl
 autodiscover.immixgroup.com
@@ -55,12 +58,14 @@ connection.arrow.com
 connection.verical.com
 data.verical.com
 de.cloud.arrow.com
+design.arrow.com
 dev.arrow.com
 digital.einfochips.com
 dk.cloud.arrow.com
 dn.siliconexpert.com
 download.arrow.com
 download.siliconexpert.com
+ecs-anz.arrow.com
 ecs.arrow.com
 edi.richardsonrfpd.com
 edu.arrow.com
@@ -94,6 +99,7 @@ images.arrow.cn
 images.eugo.arrow.com
 images.go.arrow.com
 immixgroup.com
+info.ecs-anz.arrow.com
 invest.arrow.com
 ir.chip1stop.com
 k2.arrow.com
@@ -105,6 +111,8 @@ login.arrow.com
 login.aspencore.com
 mac.aspencore.com
 mail.aepetsche.com
+mail.arrow.cn
+mail.aspencore.com
 mail.chip1stop.com
 mail01.arrow.com
 mail01.eugo.arrow.com
@@ -140,6 +148,7 @@ powerandsignal.com
 psi.immixgroup.com
 qa.eetimes.com
 qaap.components.arrow.com
+qaeu.components.arrow.com
 remote.aspencore.com
 report.arrow.com
 reporting.aspencore.com
@@ -188,8 +197,11 @@ static6.arrow.com
 status.transim.com
 streaming.arrow.com
 sts.arrow.com
+support.ecs-anz.arrow.com
 support.siliconexpert.com
 svn.transim.com
+tools.arrow.com
+tracker.transim.com
 training.einfochips.com
 transim.com
 uat.arrow.com
@@ -213,6 +225,7 @@ www.arrow.com
 www.aspencore.com
 www.chip1stop.com
 www.components.arrow.com
+www.ecs-anz.arrow.com
 www.ecs.arrow.com
 www.eetimes.com
 www.einfochips.com
@@ -220,5 +233,6 @@ www.elektroda.pl
 www.immixgroup.com
 www.richardsonrfpd.com
 www.siliconexpert.com
+www.transim.com
 www.verical.com
 xsp.arrow.com
