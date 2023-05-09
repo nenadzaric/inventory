@@ -1,6 +1,7 @@
 access.motorola.com
 admin.cochat.lenovo.com
 admin.lenovo.com.cn
+ads.lenovo.com
 api.lenovo.com
 api.lenovo.com.cn
 api.uds-qa.lenovo.com
@@ -8,12 +9,14 @@ api.uds.lenovo.com
 app.lenovo.com
 app.lenovo.com.cn
 app.mbgstore.lenovo.com.cn
+app.qliksense.lenovo.com
 atlas.lenovo.com
 blog.lenovo.com
 blog.motorola.com
 blogs.lenovo.com
 blogs.motorola.com
 cdn.uds-qa.lenovo.com
+client.lenovo.com
 cloud.lenovo.com
 cloud.lenovo.com.cn
 cloud.mbgstore.lenovo.com.cn
@@ -27,9 +30,11 @@ dev.cochat.lenovo.com
 dev.lenovo.com
 developer.mbgstore.lenovo.com.cn
 developer.uds-dev.lenovo.com
+developer.uds-qa.lenovo.com
 developer.uds.lenovo.com
 docs.lenovo.com
 docs.lenovo.com.cn
+forum.lenovo.com.cn
 forum.mbgstore.lenovo.com.cn
 forum.motorola.com
 image.lenovo.com
@@ -51,6 +56,7 @@ media.motorola.com
 mobile.lenovo.com
 mobile.lenovo.com.cn
 mobile.motorola.com
+monitor.qliksense.lenovo.com
 motorola.com
 motorola.com.br
 motorola.com.cn
