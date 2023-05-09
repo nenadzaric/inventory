@@ -4,9 +4,12 @@ api.yelpreservations.com
 api.yelpwifi.com
 app.yelpwifi.com
 blog.yelp.com
+business.yelp.com
 canary.yelpreservations.com
+careers.yelp.com
 developer.yelp.com
 e.yelp.com
+em.yelp.com
 email.yelp.com
 fusion.yelp.com
 image.e.yelp.com
@@ -19,7 +22,9 @@ ir.yelp.com
 jobs.yelp.com
 login.yelpwifi.com
 mail.yelpreservations.com
+megavip.iad1.yelp.com
 mobile.yelp.com
+mta.e.yelp.com
 nowait.com
 o10.mail.yelp.com
 o11.mail.yelp.com
@@ -39,6 +44,7 @@ s.yelp.com
 seatme.yelp.com
 static.seatme.yelp.com
 static.yelpreservations.com
+sub-166-140-123.nowait.com
 support.yelp.com
 support.yelpwifi.com
 trust.yelp.com

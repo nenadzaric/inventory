@@ -1,3 +1,4 @@
+api.seatme.yelp.com
 api.staging.yelpreservations.com
 api.yelpreservations.com
 blog.yelp.com
