@@ -1,6 +1,7 @@
 api.a.pggm.nl
 api.pggm.nl
 api.releasedoc.pggm.nl
+bp2.pggm.nl
 info.pggm.nl
 pggm.nl
 www.pggm.nl
