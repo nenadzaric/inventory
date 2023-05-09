@@ -1,0 +1,12 @@
+acc-abonnement.demorgen.be
+acc.demorgen.be
+beta.demorgen.be
+demorgen.be
+dev.bouwjestad.demorgen.be
+login.demorgen.be
+mobile-beta.demorgen.be
+service.demorgen.be
+shop.demorgen.be
+staging.demorgen.be
+www.demorgen.be
+www2.demorgen.be
