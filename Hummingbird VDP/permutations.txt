@@ -1,0 +1,12 @@
+api.hummingbird.co
+api.sandbox.hummingbird.co
+api.staging.hummingbird.co
+app.hummingbird.co
+beta.docs.hummingbird.co
+docs.hummingbird.co
+hummingbird.co
+info.hummingbird.co
+staging.hummingbird.co
+www.docs.hummingbird.co
+www.help.hummingbird.co
+www.hummingbird.co
