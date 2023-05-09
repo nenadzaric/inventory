@@ -14,6 +14,8 @@ bluehost.in
 careers.bluehost.com
 cdn.bluehost.com
 cdn.kb.bluehost.com
+chat.beta.bluehost.com
+chatapi.bluehost.com
 cloud.bluehost.com
 content.bluehost.com
 dashboard.bluehost.com
@@ -30,9 +32,11 @@ login.bluehost.com
 login.bluehost.in
 mail.bluehost.com
 my.beta.bluehost.in
+my.bluehost.com
 my.bluehost.in
 mysql.beta.bluehost.in
 mysql.bluehost.com
+mysql.chat.bluehost.com
 office.bluehost.com
 partner.beta.bluehost.in
 partner.bluehost.com
@@ -50,6 +54,7 @@ stage.assets.bluehost.com
 stage.bluehost.com
 stage.cap.bluehost.com
 stage.cap.bluehost.in
+stage.kb.bluehost.com
 stats.bluehost.com
 test.bluehost.com
 test.cn.bluehost.com
@@ -58,6 +63,7 @@ www.beta.bluehost.in
 www.bluehost.com
 www.bluehost.in
 www.in.bluehost.com
+www1.beta.bluehost.in
 www1.bluehost.com
 www1.bluehost.in
 www2.beta.bluehost.in
