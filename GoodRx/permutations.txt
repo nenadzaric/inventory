@@ -1,0 +1,9 @@
+assets.goodrx.com
+cloud.contact.goodrx.com
+dev.goodrx.com
+docs.goodrx.com
+goodrx.com
+image.marketing.goodrx.com
+mail.goodrx.com
+staging.goodrx.com
+yourmedcenterraw.goodrx.com
