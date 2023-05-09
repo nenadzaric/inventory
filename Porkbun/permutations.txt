@@ -1,0 +1,9 @@
+ads.porkbun.com
+blog.porkbun.com
+fwd1.porkbun.com
+fwd2-office.porkbun.com
+fwd2.porkbun.com
+monitor-fortaleza.porkbun.com
+porkbun.com
+staging.porkbun.com
+vpn.porkbun.com
