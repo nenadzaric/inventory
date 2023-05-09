@@ -1,0 +1,16 @@
+access.fidelity.com
+access.fisc.fidelity.com
+app.fidelity.com
+assets.fidelity.com
+careers.fidelity.com
+db.fidelity.com
+developer.fidelity.com
+fidelity.com
+login.fidelity.com
+media.fidelity.com
+mobile.fidelity.com
+search.fidelity.com
+wp.fidelity.com
+www.fidelity.com
+www.netbenefits.fidelity.com
+www.retail.fidelity.com
