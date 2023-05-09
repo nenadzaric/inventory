@@ -1,0 +1,11 @@
+api.dex-trade.com
+api1.dex-trade.com
+api2.dex-trade.com
+beta-api.dex-trade.com
+beta.dex-trade.com
+dex-trade.com
+docs.dex-trade.com
+mail.dex-trade.com
+pay.dex-trade.com
+s3.dex-trade.com
+www.dex-trade.com
