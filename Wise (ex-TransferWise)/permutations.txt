@@ -1,0 +1,6 @@
+api.transferwise.com
+tech.transferwise.com
+transferwise.com
+wise.com
+www.transferwise.com
+www.wise.com
