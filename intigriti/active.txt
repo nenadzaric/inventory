@@ -1,5 +1,7 @@
 api-demo.intigriti.com
+api-stage.intigriti.com
 api.intigriti.com
+app-demo.intigriti.com
 app.intigriti.com
 autodiscover.intigriti.com
 blog.intigriti.com
@@ -22,6 +24,7 @@ mail2.intigriti.me
 mail2.test.intigriti.me
 newsletter.intigriti.com
 status.intigriti.com
+swag.intigriti.com
 t.intigriti.com
 trust.intigriti.com
 www.intigriti.com
