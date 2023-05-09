@@ -4,11 +4,13 @@ app-gateway.websitebuilder.com
 app.websitebuilder.com
 autodiscover.websitebuilder.com
 cc.websitebuilder.com
+cp-api-login.websitebuilder.com
 cp-my.websitebuilder.com
 dev.websitebuilder.com
 e.websitebuilder.com
 forms.websitebuilder.com
 help.websitebuilder.com
+helpfos.websitebuilder.com
 kb.websitebuilder.com
 link.websitebuilder.com
 localize.websitebuilder.com
@@ -25,6 +27,7 @@ static.websitebuilder.com
 status.websitebuilder.com
 store.websitebuilder.com
 support.websitebuilder.com
+tracking.websitebuilder.com
 websitebuilder.com
 www.websitebuilder.com
 your.websitebuilder.com
