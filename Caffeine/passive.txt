@@ -49,6 +49,8 @@ email150.caffeine.tv
 email52.caffeine.tv
 engineering-library.caffeine.tv
 events.caffeine.tv
+events.devel.caffeine.tv
+events.development.caffeine.tv
 events.prod.caffeine.tv
 events.production.caffeine.tv
 events.stage.caffeine.tv
@@ -1308,6 +1310,7 @@ magnus.staging.caffeine.tv
 manager.rtcdn.caffeine.tv
 mercy-recordings.caffeine.tv
 mercy.caffeine.tv
+mercy.stage.caffeine.tv
 multivac.caffeine.tv
 multivac.staging.caffeine.tv
 my.static.caffeine.tv
@@ -1354,6 +1357,8 @@ scim.caffeine.tv
 sftp.caffeine.tv
 snappy-images.caffeine.tv
 social-event-publisher.staging.caffeine.tv
+social-feed-grpc.prod.caffeine.tv
+social-feed-grpc.stage.caffeine.tv
 social-feed.staging.caffeine.tv
 stage.caffeine.tv
 staging.caffeine.tv
