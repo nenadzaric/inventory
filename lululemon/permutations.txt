@@ -7,6 +7,8 @@ dev.lululemon.com
 dev.pos-api.lululemon.com
 dev.preprod-apis.lululemon.com
 developers.lululemon.com
+image.e.lululemon.com
+image.info.lululemon.com
 info.lululemon.com
 ir.lululemon.com
 login.lululemon.com

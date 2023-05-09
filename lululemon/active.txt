@@ -11,6 +11,7 @@ cdn.lululemon.co.uk
 cdn.lululemon.com
 cl.info.lululemon.com
 click.e.lululemon.com
+click.info.lululemon.com
 cloud.e.lululemon.com
 connect.lululemon.com
 corporate.lululemon.com
@@ -35,6 +36,7 @@ images.info.lululemon.com
 images.lululemon.com
 info.lululemon.co.uk
 info.lululemon.com
+ir.lululemon.com
 lists.lululemon.com
 localhost.e.lululemon.com
 localhost.info.lululemon.com
@@ -43,6 +45,7 @@ lululemon.co.uk
 lululemon.com
 mail.lululemon.com
 media.lululemon.com
+mock.preprod-apis.lululemon.com
 mta.e.lululemon.com
 mta.info.lululemon.com
 mta2.e.lululemon.com
@@ -56,10 +59,13 @@ o-blog.eu.lululemon.com
 o-info-cms.eu.lululemon.com
 o-stage-blog.eu.lululemon.com
 o-stage-info-cms.eu.lululemon.com
+o-stage.eu.lululemon.com
 o-stage62-info.eu.lululemon.com
 o-stagegsr-preview.eu.lululemon.com
 o-stagegsr.eu.lululemon.com
 o2-www.eu.lululemon.com
+origin-info-cms.eu.lululemon.com
+origin-info.eu.lululemon.com
 origin-stage.info.lululemon.com
 owa.lululemon.com
 pages.e.lululemon.com
@@ -67,7 +73,9 @@ portal.lululemon.com
 pp.lululemon.com
 preview.lululemon.com
 qa-info.eu.lululemon.com
+qa.eu.lululemon.com
 qa.info.lululemon.com
+qa.lululemon.co.uk
 qa.lululemon.com
 qa2-info.eu.lululemon.com
 qa2.info.lululemon.com
