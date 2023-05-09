@@ -1,0 +1,16 @@
+amocrm.com
+amocrm.ru
+developers.amocrm.ru
+k8s.amocrm.com
+k8s.amocrm.ru
+live.amocrm.com
+my.amocrm.com
+my.amocrm.ru
+office.amocrm.ru
+pay.amocrm.com
+pay.amocrm.ru
+proxy.trunk.amocrm.ru
+s1.amocrm.com
+stripe.amocrm.com
+www.amocrm.com
+www.amocrm.ru
