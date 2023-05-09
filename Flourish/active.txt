@@ -4,9 +4,12 @@ developers.flourish.studio
 email.flourish.studio
 flourish.studio
 help.flourish.studio
+icons.flourish.studio
 public.dev.flourish.studio
 public.flourish.studio
+resources.flourish.studio
 tempfiles201706.flourish.studio
+tiles.flourish.studio
 training.flourish.studio
 www.flourish.studio
 xyzbmojn.net
