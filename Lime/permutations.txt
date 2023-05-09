@@ -1,3 +1,4 @@
+admintool-staging.lime.bike
 api.lime.bike
 assets.lime.bike
 cdn.li.me
@@ -11,6 +12,7 @@ limeinternal.com
 prod.li.me
 shop.li.me
 staging.li.me
+test.limeinternal.com
 v1.li.me
 web.lime.bike
 www.li.me
