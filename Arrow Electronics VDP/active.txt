@@ -130,6 +130,7 @@ my.arrow.com
 my.siliconexpert.com
 mysupport.ecs.arrow.com
 news.chip1stop.com
+news.elektroda.pl
 ns.arrow.com
 ns1.arrow.com
 ns2.arrow.com
@@ -197,8 +198,10 @@ static6.arrow.com
 status.transim.com
 streaming.arrow.com
 sts.arrow.com
+sub-97-218-228.immixgroup.com
 support.ecs-anz.arrow.com
 support.siliconexpert.com
+support.verical.com
 svn.transim.com
 tools.arrow.com
 tracker.transim.com
@@ -216,6 +219,7 @@ vpn.elektroda.pl
 web.arrow.com
 web.transim.com
 webserver.arrow.com
+wevloh.aepetsche.com
 wiki.transim.com
 ww2.arrow.com
 ww2.richardsonrfpd.com
@@ -231,6 +235,7 @@ www.eetimes.com
 www.einfochips.com
 www.elektroda.pl
 www.immixgroup.com
+www.powerandsignal.com
 www.richardsonrfpd.com
 www.siliconexpert.com
 www.transim.com
