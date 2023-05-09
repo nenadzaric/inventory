@@ -1,0 +1,16 @@
+api.lime.bike
+assets.lime.bike
+cdn.li.me
+cdn.ops.lime.bike
+data.lime.bike
+info.li.me
+internal.lime.bike
+li.me
+lime.bike
+limeinternal.com
+prod.li.me
+shop.li.me
+staging.li.me
+v1.li.me
+web.lime.bike
+www.li.me
