@@ -1,0 +1,9 @@
+admin.myndr.net
+api.myndr.net
+dashboard.myndr.net
+myndr.net
+myndr.nl
+public2.myndr.net
+test.myndr.net
+www.myndr.net
+www.myndr.nl
