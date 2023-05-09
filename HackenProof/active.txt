@@ -4,6 +4,7 @@ dev.hackenproof.com
 faq.hackenproof.com
 grafana-dev.hackenproof.com
 hackenproof.com
+jenkins-deploy-dev.hackenproof.com
 resources.hackenproof.com
 sc.hackenproof.com
 stg.hackenproof.com
