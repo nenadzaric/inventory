@@ -1,0 +1,7 @@
+new,host,a,mx,soa,ns,txt,status_code,cdn,cdn-name,cname
+[x],blog.zen.ly,,,"ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com",,,NOERROR,,,
+[x],community.zen.ly,"104.18.248.37, 104.18.249.37",mail-pod-17.int.zendesk.com,"ns-1213.awsdns-23.org, awsdns-hostmaster.amazon.com",,"v=spf1 include:mail.zendesk.com ~all, pod=17",NOERROR,True,cloudflare,zenlyapp.zendesk.com
+[x],gdpr.zen.ly,,,"ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com",,,NOERROR,,,
+[x],jira.znly.co,35.244.249.183,,"ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com",,,NOERROR,True,google,
+[x],zen.ly,34.120.54.238,"alt2.aspmx.l.google.com, alt1.aspmx.l.google.com, aspmx.l.google.com, aspmx2.googlemail.com, aspmx3.googlemail.com","ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com","ns-cloud-a2.googledomains.com, ns-cloud-a4.googledomains.com, ns-cloud-a1.googledomains.com, ns-cloud-a3.googledomains.com","google-site-verification=Yup3uFoCFEsouvAWBYz4ORwdsSVXH9O5AehFVbuAuuw, segment-site-verification=dQ3Lb2hnj5WP7wmEN7f0MTwR1tN7XuI8, v=spf1 include:spf.mailjet.com include:helpscoutemail.com include:mail.zendesk.com include:_spf.google.com ~all",NOERROR,True,google,
+[x],znly.co,,,"ns-cloud-a1.googledomains.com, cloud-dns-hostmaster.google.com","ns-cloud-a2.googledomains.com, ns-cloud-a4.googledomains.com, ns-cloud-a1.googledomains.com, ns-cloud-a3.googledomains.com",,NOERROR,,,
