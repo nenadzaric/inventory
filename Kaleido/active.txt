@@ -11,6 +11,7 @@ e.hello.remove.bg
 e.hello.unscreen.com
 e.news.designify.com
 help.remove.bg
+kaleido-core-lib.docs.kaleido.ai
 kaleido.ai
 labs.kaleido.ai
 o.remove.bg
