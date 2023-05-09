@@ -1,0 +1,10 @@
+new,host,a,soa,status_code,mx,ns,txt
+[x],asm.bitdiscovery.com,"54.177.28.14, 54.183.212.192","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,
+[x],assetreport.bitdiscovery.com,"52.8.210.217, 52.9.178.178","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,
+[x],bitdiscovery.com,"54.183.212.192, 54.177.28.14","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,bitdiscovery-com.mail.protection.outlook.com,"ns-971.awsdns-57.net, ns-194.awsdns-24.com, ns-1741.awsdns-25.co.uk, ns-1163.awsdns-17.org","detectify-verification=ee9904f3857f8cabfa55586f2e39b076, google-site-verification=14x7Z9oNO6-T8oM3DjHxBIuz5pdlKSB4RyZrn1O0qGU, h1-domain-verification=gkNpZHih3XQrSVGX74dwJQZ7px9jV33NhQoYua3D8gxpmxS4, v=spf1 include:spf.protection.outlook.com -all"
+[x],chubb.bitdiscovery.com,"54.183.212.192, 54.177.28.14","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,
+[x],dev.bitdiscovery.com,"52.52.210.168, 52.52.122.253","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,
+[x],events.bitdiscovery.com,"52.8.194.176, 54.177.85.120","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,
+[x],staging.bitdiscovery.com,,"ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,
+[x],synopsys.bitdiscovery.com,"54.177.28.14, 54.183.212.192","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,
+[x],www.bitdiscovery.com,"54.183.212.192, 54.177.28.14","ns-1163.awsdns-17.org, awsdns-hostmaster.amazon.com",NOERROR,,,

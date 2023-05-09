@@ -1,0 +1,8 @@
+asm.bitdiscovery.com
+assetreport.bitdiscovery.com
+bitdiscovery.com
+blog.bitdiscovery.com
+chubb.bitdiscovery.com
+dev.bitdiscovery.com
+events.bitdiscovery.com
+www.bitdiscovery.com
