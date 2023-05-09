@@ -17,6 +17,7 @@ mail.yeswehack.com
 pj.demo.yeswehack.com
 sip.yeswehack.com
 storage.yeswehack.com
+vdp.yeswehack.com
 vpn.yeswehack.com
 webmail.yeswehack.com
 www.yeswehack.com
