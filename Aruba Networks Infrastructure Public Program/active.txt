@@ -1,5 +1,6 @@
 aed-stg.getaws.arubanetworks.com
 aed.getaws.arubanetworks.com
+ai.arubanetworks.com
 akb-stg.getaws.arubanetworks.com
 akb.getaws.arubanetworks.com
 apac.cloudops.arubanetworks.com
@@ -46,6 +47,7 @@ asp.arubanetworks.com
 asp.getaws.arubanetworks.com
 aspstg.getaws.arubanetworks.com
 asw1.central.arubanetworks.com
+atlas.arubanetworks.com
 autodiscover.arubanetworks.com
 av.arubanetworks.com
 azinternal.cloudops.arubanetworks.com
@@ -84,6 +86,7 @@ device-prod2.central.arubanetworks.com
 device-sneakpeek.central.arubanetworks.com
 device-uswest4.central.arubanetworks.com
 device.arubanetworks.com
+devicemanager.central.arubanetworks.com
 dialin.arubanetworks.com
 discovery.arubanetworks.com
 docs.arubanetworks.com
@@ -103,6 +106,7 @@ git.netinsight.arubanetworks.com
 global-api.netinsight.arubanetworks.com
 go.arubanetworks.com
 gso.arubanetworks.com
+help.arubanetworks.com
 help.central.arubanetworks.com
 humio.cloudops.arubanetworks.com
 i1.arubanetworks.com
@@ -117,11 +121,14 @@ internal-apigw.central.arubanetworks.com
 internal-portal.central.arubanetworks.com
 internal-ui.central.arubanetworks.com
 internal.central.arubanetworks.com
+internal2.central.arubanetworks.com
 internal2.cloudops.arubanetworks.com
 ir.arubanetworks.com
 jabber.arubanetworks.com
 jaguar.arubanetworks.com
 kr.arubanetworks.com
+labs.arubanetworks.com
+lion.arubanetworks.com
 lists.arubanetworks.com
 lms.arubanetworks.com
 lms.getaws.arubanetworks.com
@@ -138,6 +145,7 @@ mail03.connect.arubanetworks.com
 mail3.arubanetworks.com
 master.netinsight.arubanetworks.com
 media.arubanetworks.com
+meeting.arubanetworks.com
 mm-7xxx-mcd-001-stg.central.arubanetworks.com
 mx04.arubanetworks.com
 nae1.central.arubanetworks.com
@@ -157,6 +165,8 @@ ns2.arubanetworks.com
 ns3.arubanetworks.com
 ns4.arubanetworks.com
 oc.arubanetworks.com
+orion.arubanetworks.com
+page.arubanetworks.com
 pathfinder.arubanetworks.com
 pegasus.arubanetworks.com
 portal-apac.central.arubanetworks.com
@@ -166,6 +176,7 @@ portal-ca.central.arubanetworks.com
 portal-eu.central.arubanetworks.com
 portal-eucentral3.central.arubanetworks.com
 portal-prod2.central.arubanetworks.com
+portal-sneakpeek.central.arubanetworks.com
 portal-us-east-1.central.arubanetworks.com
 portal-uswest4.central.arubanetworks.com
 portal.central.arubanetworks.com
@@ -178,6 +189,7 @@ quote.arubanetworks.com
 rcs-ng-att-hilton.central.arubanetworks.com
 runbooks.cloudops.arubanetworks.com
 search.arubanetworks.com
+services.arubanetworks.com
 si.arubanetworks.com
 signup.central.arubanetworks.com
 signup.netinsight.arubanetworks.com
@@ -200,6 +212,7 @@ teleport-prod.central.arubanetworks.com
 test.clearpass.arubanetworks.com
 thdnaas.cloudops.arubanetworks.com
 tiger.arubanetworks.com
+titan.arubanetworks.com
 uaenorth1.cloudops.arubanetworks.com
 uswest4.cloudops.arubanetworks.com
 viper.arubanetworks.com

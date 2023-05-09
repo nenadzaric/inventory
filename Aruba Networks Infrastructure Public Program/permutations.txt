@@ -15,6 +15,7 @@ logs.central.arubanetworks.com
 media.arubanetworks.com
 prod.cloudops.arubanetworks.com
 search.arubanetworks.com
+stats.central.arubanetworks.com
 test.clearpass.arubanetworks.com
 traininglab.arubanetworks.com
 us-east-1.cloudops.arubanetworks.com
