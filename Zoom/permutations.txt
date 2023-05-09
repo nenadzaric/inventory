@@ -1,6 +1,7 @@
 acc.zoom.us
 admin.zoom.us
 admin.zoomdev.us
+amdocs.zoom.us
 api.zoom.us
 app.zoom.us
 app.zoomdev.us
@@ -11,11 +12,14 @@ backend.zoomdev.us
 beta.zoom.us
 blog.zoom.us
 build.zoom.us
+careers.zoom.us
 cdn.zoom.us
 cdn.zoomdev.us
 client.zoomdev.us
 cms.zoom.us
 code.zoom.us
+core.zoom.us
+db.zoom.us
 dev-zoom.us
 developer.zoom.us
 developer.zoomdev.us
@@ -37,6 +41,7 @@ meetzoom.us
 monitor.zoom.us
 mta-sts.acqa.zoomdev.us
 mta-sts.zoomdev.us
+my.zoomdev.us
 netlify.zoom.us
 origin.zoom.us
 partner.zoom.us
@@ -63,6 +68,7 @@ web.zoomdev.us
 wistia.com
 www.zoom.us
 www.zoomdev.us
+www2.zoom.us
 zoom.com
 zoom.us
 zoomasiaresourcehub.com
