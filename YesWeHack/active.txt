@@ -15,6 +15,7 @@ internal.demo.yeswehack.com
 jobs.yeswehack.com
 mail.yeswehack.com
 pj.demo.yeswehack.com
+qrcode.yeswehack.com
 sip.yeswehack.com
 storage.yeswehack.com
 vdp.yeswehack.com
