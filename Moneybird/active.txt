@@ -1,0 +1,14 @@
+assets-app-cdn.moneybird.com
+assets-app.moneybird.com
+assets-rs-cdn.moneybird.com
+assets-rs.moneybird.com
+assets.moneybird.com
+developer.moneybird.com
+email.deliver.moneybird.com
+email.mail.moneybird.com
+fwdkim1.moneybird.com
+gtm.moneybird.com
+moneybird.com
+moneybirdstorage.com
+status.moneybird.com
+www.moneybird.com
