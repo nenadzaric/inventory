@@ -37,6 +37,7 @@ login.mobicorp.com
 login.webtechwireless.com
 mail.geotab.ca
 mail.lat-lon.com
+mail.webtechwireless.com
 mail1.local.bsmwireless.com
 maps.mobicorp.com
 maps.webtechwireless.com
