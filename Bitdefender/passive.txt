@@ -72,6 +72,7 @@ apac-my.bitdefender.com
 apex-us.bitdefender.com
 api-stage.pan-stage.bitdefender.com
 api.athena.bitdefender.net
+api.beta-login.bitdefender.com
 api.customerzone.bitdefender.com
 api.pan.bitdefender.com
 api.ti.bitdefender.com

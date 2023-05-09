@@ -9,6 +9,7 @@ forum.bitdefender.com
 info.bitdefender.com
 login.bitdefender.com
 login.bitdefender.net
+logs.athena.bitdefender.net
 mail.bitdefender.com
 my.bitdefender.com
 my.gravityzone.bitdefender.com

@@ -1,4 +1,5 @@
 0upmidg.cdn.bitdefender.net
+a001bucgts.kdn.bitdefender.net
 a002bucgts.kdn.bitdefender.net
 a003bucgts.kdn.bitdefender.net
 a004bucgts.kdn.bitdefender.net
@@ -49,6 +50,7 @@ elb-iow-gcp.nimbus.bitdefender.net
 elb-lon-gcp.nimbus.bitdefender.net
 elb-nvi-gcp.nimbus.bitdefender.net
 elb-ore-gcp.nimbus.bitdefender.net
+engine.athena.bitdefender.net
 enterprise.bitdefender.com
 eu-lurker-input.gravityzone.bitdefender.com
 eu-pluto-coll-pg.gravityzone.bitdefender.com
@@ -58,9 +60,11 @@ extranet.bitdefender.com
 forum.bitdefender.com
 free.bitdefender.com
 go.bitdefender.com
+gravityzone.bitdefender.com
 help.gravityzone.bitdefender.com
 horizon.bitdefender.net
 hq.nimbus.bitdefender.net
+imap.bitdefender.com
 info.bitdefender.com
 ipm.bitdefender.com
 is.bitdefender.com
@@ -105,17 +109,21 @@ research.bitdefender.com
 rmmi-api.rmm.bitdefender.com
 sa-api-cloud.athena.bitdefender.net
 safego.athena.bitdefender.net
+sales-edr.gravityzone.bitdefender.com
 sales.bitdefender.com
 sandbox-portal-us-gcp.gravityzone.bitdefender.com
 sandbox-portal-us.gravityzone.bitdefender.com
 sandbox-portal.gravityzone.bitdefender.com
 sandbox.bitdefender.net
+secupgr.cdn.bitdefender.net
 seems.gravityzone.bitdefender.com
 sg1.bitdefender.com
 share.bitdefender.com
+shop.bitdefender.com
 smtp.bitdefender.com
 smtp02.bitdefender.com
 ssems.gravityzone.bitdefender.com
+stage.bitdefender.com
 stargate.bitdefender.com
 stats.bitdefender.com
 store.bitdefender.com
@@ -135,6 +143,7 @@ upgr-rp-vtr-p.cdn.bitdefender.net
 upgr-rp-vtr.cdn.bitdefender.net
 upgrade-please-change-me.cdn.bitdefender.net
 upload.bitdefender.net
+us-lurker-input.gravityzone.bitdefender.com
 us-pluto-coll-pg.gravityzone.bitdefender.com
 us-tc.gravityzone.bitdefender.com
 vpn.athena.bitdefender.net
