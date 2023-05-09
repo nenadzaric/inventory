@@ -79,6 +79,7 @@ events.atlassian.com
 fi.atlassian.com
 forums.atlassian.com
 fr.atlassian.com
+gfps-portal.0.atlassian.net
 github.dev.atlassian.com
 github.stg.atlassian.com
 global-state.stg.atlassian.com
@@ -103,6 +104,7 @@ jira-service-management.status.atlassian.com
 jira-software.status.atlassian.com
 jira-spreadsheets.services.atlassian.com
 jira-training.dev.atlassian.com
+jira-training.stg.atlassian.com
 jira-work-management.status.atlassian.com
 jsd-nutmeg.services.atlassian.com
 jsd-status-page.services.atlassian.com
@@ -116,6 +118,7 @@ momentiveai-uat.1.atlassian.net
 my-reminders.services.atlassian.com
 my.atlassian.com
 my.services.atlassian.com
+net109-57.atlassian.net
 nl.atlassian.com
 oauth-2-authorization-server.services.atlassian.com
 opensource.stg.atlassian.com
@@ -135,6 +138,7 @@ shortstack.services.atlassian.com
 start.stg.atlassian.com
 status.atlassian.com
 status.services.atlassian.com
+sub-166-161-196.atlassian.net
 sub-97-30-208.atlassian.net
 support.atlassian.com
 support.status.atlassian.com
@@ -153,4 +157,5 @@ web-security-reports.services.atlassian.com
 wikidocs.services.atlassian.com
 www.atlassian.com
 3p0l.1.atlassian.net
+7thwave.1.atlassian.net
 59ae0.1.atlassian.net

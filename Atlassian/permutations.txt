@@ -1,5 +1,7 @@
+0faq.atlassian.net
 access.status.atlassian.com
 admin.atlassian.com
+admin.dev.atlassian.com
 admin.stg.atlassian.com
 api.atlassian.com
 api.dev.atlassian.com
@@ -24,6 +26,7 @@ search.atlassian.com
 server-notifications.atlassian.com
 shop.atlassian.com
 shopify-1.atlassian.net
+stats-1.atlassian.net
 status.developer.atlassian.com
 vpn.atlassian.com
 www.atlassian.com
