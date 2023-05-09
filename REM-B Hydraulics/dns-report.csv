@@ -1,0 +1,28 @@
+new,host,a,cname,soa,status_code,cdn,cdn-name,aaaa,ns,txt,mx
+[x],autodiscover.hydass.be,"40.99.150.120, 52.98.152.168, 52.98.175.8, 52.97.135.104","autodiscover.outlook.com, atod-g2.tm-4.office.com, autod.ms-acdc-autod.office.com","ns1-ms-acdc.office.com, hostmaster.microsoft.com, ns1-34.azure-dns.com, azuredns-hostmaster.microsoft.com",NOERROR,,,"2603:1026:c0d:77::8, 2603:1026:c0d:72::8, 2603:1026:c0d:6a::8, 2603:1026:c0d:2a::8, 2603:1026:c0d:34::8, 2603:1026:c0d:6b::8, 2603:1026:c0d:74::8, 2603:1026:c0d:73::8",,,
+[x],autodiscover.hydraulics-group.com,"40.99.148.104, 52.98.240.136, 52.98.240.88","autodiscover.outlook.com, atod-g2.tm-4.office.com, autod.ms-acdc-autod.office.com","ns1-ms-acdc.office.com, hostmaster.microsoft.com",NOERROR,,,"2603:1026:c0e:863::8, 2603:1026:c0e:876::8, 2603:1026:c0e:871::8",,,
+[x],autodiscover.rem-b.com,"52.98.243.24, 52.98.152.200, 52.98.242.248, 40.99.150.24","autodiscover.outlook.com, atod-g2.tm-4.office.com, autod.ms-acdc-autod.office.com","ns1-ms-acdc.office.com, hostmaster.microsoft.com",NOERROR,,,"2603:1026:c0d:c2c::8, 2603:1026:c0d:c03::8, 2603:1026:c0d:c02::8, 2603:1026:c0d:c1f::8",,,
+[x],enterpriseenrollment.hydass.be,20.91.147.72,"enterpriseenrollment.manage.microsoft.com, manage-pe.trafficmanager.net, pexsucpeu03.swedencentral.cloudapp.azure.com","ns1-07.azure-dns.com, azuredns-hostmaster.microsoft.com",NOERROR,True,azure,,,,
+[x],enterpriseenrollment.hydraulics-group.com,20.91.147.72,"enterpriseenrollment.manage.microsoft.com, manage-pe.trafficmanager.net, pexsucpeu03.swedencentral.cloudapp.azure.com","ns1-07.azure-dns.com, azuredns-hostmaster.microsoft.com",NOERROR,,,,,,
+[x],enterpriseenrollment.remb.be,52.236.189.96,"enterpriseenrollment.manage.microsoft.com, manage-pe.trafficmanager.net, pexsucpeu02.westeurope.cloudapp.azure.com","ns1-201.azure-dns.com, msnhst.microsoft.com",NOERROR,True,azure,,,,
+[x],enterpriseregistration.hydass.be,20.190.137.40,"enterpriseregistration.windows.net, adrs.privatelink.msidentity.com, www.tm.prd.adrs.akadns.net","internal.akadns.net, hostmaster.akamai.com",NOERROR,True,azure,,,,
+[x],enterpriseregistration.hydraulics-group.com,20.190.135.40,"enterpriseregistration.windows.net, adrs.privatelink.msidentity.com, www.tm.prd.adrs.akadns.net","internal.akadns.net, hostmaster.akamai.com",NOERROR,True,azure,,,,
+[x],enterpriseregistration.remb.be,20.190.135.40,"enterpriseregistration.windows.net, adrs.privatelink.msidentity.com, www.tm.prd.adrs.trafficmanager.net","tm1.dns-tm.com, hostmaster.trafficmanager.net",NOERROR,True,azure,,,,
+[x],hydass.be,212.123.6.254,,"ns.be.hostbasket.com, postmaster.hydass.be",NOERROR,,,,"ns.be.hostbasket.com, ns.fr.hostbasket.com, ns.nl.hostbasket.com","MS=ms12880348, v=spf1 include:spf.protection.outlook.com -all",hydass-be.mail.protection.outlook.com
+[x],hydraulics-group.com,212.123.6.254,,"ns.be.hostbasket.com, postmaster.hydraulics-group.com",NOERROR,,,,"ns.be.hostbasket.com, ns.fr.hostbasket.com","MS=ms52599233, v=spf1 include:spf.protection.outlook.com -all",hydraulicsgroup-com02e.mail.protection.outlook.com
+[x],lyncdiscover.hydass.be,52.112.193.16,webdir.online.lync.com,"admin.nsatc.net, dns.level3.net",NOERROR,,,2603:1027:0:48::21,,,
+[x],lyncdiscover.hydraulics-group.com,52.112.193.16,webdir.online.lync.com,"admin.nsatc.net, dns.level3.net",NOERROR,,,2603:1027::e,,,
+[x],lyncdiscover.remb.be,52.112.70.76,webdir.online.lync.com,"admin.nsatc.net, dns.level3.net",NOERROR,,,"2603:1037:0:7::e, 2603:1037:0:15::d, 2603:1037:0:c::12, 2603:1037::e, 2603:1037:0:5::e, 2603:1037:0:2::e, 2603:1037:0:a::e, 2603:1037:0:3::e",,,
+[x],mail.remb.be,194.78.67.82,,"ns1.cloud.telenet.be, postmaster.remb.be",NOERROR,,,,,,
+[x],nav.remb.be,194.78.67.82,,"ns1.cloud.telenet.be, postmaster.remb.be",NOERROR,,,,,,
+[x],portal.remb.be,,,"ns1.cloud.telenet.be, postmaster.remb.be",NOERROR,,,,,,
+[x],rem-b.com,86.39.240.68,,,NOERROR,,,,,"MS=ms23765800, \""v=spf1 include:spf.protection.outlook.com -all\""",
+[x],rembconnect.be,40.114.240.25,,"ns.be.hostbasket.com, postmaster.rembconnect.be",NOERROR,True,azure,,"ns.be.hostbasket.com, ns.nl.hostbasket.com, ns.fr.hostbasket.com",,
+[x],sip.hydass.be,52.112.192.11,sipdir.online.lync.com,"admin.nsatc.net, dns.level3.net",NOERROR,,,2603:1027::b,,,
+[x],vpn.remb.be,194.78.67.82,,"ns1.cloud.telenet.be, postmaster.remb.be",NOERROR,,,,"ns2.cloud.telenet.be, ns3.cloud.telenet.be, ns1.cloud.telenet.be",,
+[x],webmail.hydraulics-group.com,194.78.67.82,,"ns.be.hostbasket.com, postmaster.hydraulics-group.com",NOERROR,,,,"ns.fr.hostbasket.com, ns.be.hostbasket.com",,
+[x],webserver.remb.be,194.78.67.82,mail.remb.be,"ns1.cloud.telenet.be, postmaster.remb.be",NOERROR,,,,,,
+[x],www.hydraulics-group.com,212.123.6.254,,"ns.be.hostbasket.com, postmaster.hydraulics-group.com",NOERROR,,,,,,
+[x],www.rem-b.com,86.39.240.68,rem-b.com,"ns.hostyou4ever.be, info.hostyou.be",NOERROR,,,,"ns.hostyou4ever.nl, ns.hostyou4ever.com, ns.hostyou4ever.be","MS=ms23765800, \""v=spf1 include:spf.protection.outlook.com -all\""",remb-com0i.mail.protection.outlook.com
+[x],www.remb.be,212.123.6.254,,"ns1.cloud.telenet.be, postmaster.remb.be",NOERROR,,,,,,
+[x],www.rembconnect.be,40.114.240.25,,"ns.be.hostbasket.com, postmaster.rembconnect.be",NOERROR,True,azure,,,,
