@@ -4,6 +4,7 @@ af-rdl.dev.just-data.io
 af-rdl.qa.just-data.io
 airflow-2-ingest-flower.dev.just-data.io
 airflow-2-ingest.dev.just-data.io
+airflow-batchingestion.dev.just-data.io
 airflow-bianda.dev.just-data.io
 airflow-bianda.preprod.just-data.io
 airflow-coredwh.dev.just-data.io
@@ -17,6 +18,8 @@ airflow-ingest-flower.dev.just-data.io
 airflow-ingest-flower.qa.just-data.io
 airflow-ingest.dev.just-data.io
 airflow-ingest.qa.just-data.io
+airflow-morpheus-flower.dev.just-data.io
+airflow-morpheus.dev.just-data.io
 airflow-optimus-flower.dev.just-data.io
 airflow-optimus.dev.just-data.io
 airflow-package-flower.dev.just-data.io
@@ -45,6 +48,7 @@ connected-content.qa.just-data.io
 crm.justeat-int.com
 data-scoop.dev.just-data.io
 dev.just-data.io
+fat.dev.just-data.io
 genesis.dev.just-data.io
 genesis.preprod.just-data.io
 gimme-data.infra-dev.just-data.io
@@ -73,13 +77,17 @@ just-ingest.qa.just-data.io
 justeat-int.com
 karma.infra-dev.just-data.io
 karma.infra.just-data.io
+monitoring.justeat-int.com
 neo4j-data-scoop.dev.just-data.io
+optimus-hub.dev.just-data.io
 optimus-hub.qa.just-data.io
 orchestrator-cloudrun-test.dev.just-data.io
 orchestrator-ui.dev.just-data.io
+orchestrator-ui.qa.just-data.io
 orchestratoreventapigateway-north.dev.just-data.io
 orchestratoreventapigateway-south.dev.just-data.io
 osrm-anz-bicycle.dev.just-data.io
+osrm-anz-motorbike.dev.just-data.io
 osrm-anz.dev.just-data.io
 osrm-be-bicycle.dev.just-data.io
 osrm-be-bicycle.prod.just-data.io
@@ -118,7 +126,9 @@ prometheus.dev.just-data.io
 prometheus.infra-dev.just-data.io
 prometheus.infra.just-data.io
 prometheus.just-data.io
+prometheus.ml-dev.just-data.io
 prometheus.preprod.just-data.io
+prometheus.qa.just-data.io
 qa.just-data.io
 reporting.justeat-int.com
 schema-registry.dev.just-data.io

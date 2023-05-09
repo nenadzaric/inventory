@@ -2,6 +2,7 @@ dev.just-data.io
 grafana.dev.just-data.io
 grafana.infra-dev.just-data.io
 grafana.infra.just-data.io
+grafana.just-data.io
 grafana.ml-dev.just-data.io
 grafana.preprod.just-data.io
 grafana.qa.just-data.io
