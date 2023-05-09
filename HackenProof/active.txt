@@ -1,4 +1,5 @@
 blog.hackenproof.com
+dashboard-dev.hackenproof.com
 dev.hackenproof.com
 faq.hackenproof.com
 grafana-dev.hackenproof.com
