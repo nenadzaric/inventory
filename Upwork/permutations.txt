@@ -1,0 +1,13 @@
+api-staging.upwork.com
+api.upwork.com
+auth-staging.upwork.com
+beta-analytics.upwork.com
+blog.upwork.com
+careers.upwork.com
+developer.upwork.com
+developers.upwork.com
+stage.upwork.com
+stripe.upwork.com
+upwork.com
+vpn.upwork.com
+www.upwork.com
