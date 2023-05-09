@@ -1,4 +1,6 @@
+ads.test.netflix.com
 api.netflix.com
+api.test.netflix.com
 app.netflix.com
 blog.netflix.com
 cdn.netflix.com
