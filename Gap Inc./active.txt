@@ -42,6 +42,7 @@ nambdirfi-d.ocaus.gapinc.com
 nambdirfi-s.ocaus.gapinc.com
 nambdirfi-t.ocaus.gapinc.com
 nambdirfi.ocaus.gapinc.com
+nma.stitch.gapinc.com
 ns1.gapinc.com
 ns2.gapinc.com
 oc.gapinc.com
@@ -59,6 +60,7 @@ oci-jpncon-d.ocaus.gapinc.com
 oci-jpncon-dev.ocaus.gapinc.com
 oci-jpncon-p.ocaus.gapinc.com
 oci-jpncon-s.ocaus.gapinc.com
+oci-jpncon.ocaus.gapinc.com
 oci-jpnconqa.ocaus.gapinc.com
 oci-jpngg-d.ocaus.gapinc.com
 oci-jpngg-dev.ocaus.gapinc.com
@@ -76,6 +78,7 @@ oci-nacon.ocaus.gapinc.com
 oci-nagg.ocaus.gapinc.com
 oci-namcon-d.ocaus.gapinc.com
 oci-namcon-s.ocaus.gapinc.com
+oci-namcon-t.ocaus.gapinc.com
 oci-namgg-d.ocaus.gapinc.com
 oci-namgg-s.ocaus.gapinc.com
 oci-namgg-t.ocaus.gapinc.com
