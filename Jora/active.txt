@@ -1,4 +1,5 @@
 ads.jora.com
+ae.jora.com
 api-dev.employer.jora.com
 api.employer.jora.com
 api.jora.com
@@ -17,6 +18,8 @@ e.local.jora.com
 e.news.jora.com
 ec.jora.com
 employer.jora.com
+es.jora.com
+events.jora.com
 fr.jora.com
 hk.jora.com
 id.jora.com
@@ -35,8 +38,10 @@ my.jora.com
 nz.jora.com
 pe.jora.com
 ph.jora.com
+pk.jora.com
 prism.jora.com
 pt.jora.com
+qa.jora.com
 sg.jora.com
 t.mail.jora.com
 th.jora.com
