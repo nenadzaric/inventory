@@ -467,6 +467,7 @@ www.capecam.naspers.com
 www.ccc-dev.epm.naspers.com
 www.ccc.epm.naspers.com
 www.cdm.prosus.com
+www.cdmappwewp01.onestream.prosus.com
 www.cfc-uat.naspers.com
 www.cfc.naspers.com
 www.dashboard.naspers.com
@@ -487,6 +488,7 @@ www.naspers.fr
 www.naspers.us
 www.okta.prosus.com
 www.onestream.prosus.com
+www.onestreamdev.prosus.com
 www.openline.naspers.com
 www.openline.prosus.com
 www.pandemic.naspers.co

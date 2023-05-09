@@ -14,5 +14,6 @@ naspers.fr
 naspers.us
 naspersventures.com
 prosus.com
+qa.naspers.com
 www.naspers.com
 www.prosus.com
