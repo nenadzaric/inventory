@@ -14,14 +14,17 @@ developer.atlassian.com
 developer.status.atlassian.com
 developers.atlassian.com
 developers.atlassian.net
+docs.atlassian.com
 internal.docs.atlassian.com
 my.atlassian.com
 my.services.atlassian.com
 partner.atlassian.com
 plugins.atlassian.com
 search.atlassian.com
+server-notifications.atlassian.com
 shop.atlassian.com
 shopify-1.atlassian.net
 status.developer.atlassian.com
 vpn.atlassian.com
 www.atlassian.com
+110.atlassian.net
