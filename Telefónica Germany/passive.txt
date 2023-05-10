@@ -248,6 +248,7 @@ b6e94e0856065bd21601b5cfa4e8646e.sf-int.aurasa.telefonica.de
 baai.bmi.telefonica.de
 backend.netzclub.net
 backoffice.ortelmobile.de
+bako2.dev.jivosite.com
 balancer.norma-mobil.de
 barcamp.o2.com
 base.cesp-dev.aws.de.pri.o2.com
@@ -505,6 +506,7 @@ cindy211.o2online.de
 cindy212.o2online.de
 cindy213.o2online.de
 cindy214.o2online.de
+cionbase.dev.network-auth.com
 cis-556-apigw.o2online.de
 cis-556.o2business.de
 cis-892-apigw.o2online.de
@@ -1780,6 +1782,7 @@ gutvpn01.telefonica.de
 gutvpn02.telefonica.de
 gw.o2service.de
 gww.m2m.telefonica.de
+h-eplsgo2-development-riwe5b.pd.idps.a.intuit.com
 hades.ncc.de.o2.com
 hades.testflex.telefonica.de
 handel.blau.de
@@ -3701,6 +3704,7 @@ jira-ex.test.de.pri.o2.com
 jo.norma-mobil.de
 jogjauncover.mein.simfinity.de
 john.netzclub.net
+johnsdemo2.demo1.sl.edst.ibm.com
 jss.o2.com
 k2mailing.de.pri.o2.com
 k8s.dev.lab.o2online.de
@@ -4078,6 +4082,7 @@ mnref-cxcv-01-vs02.ref.uk.pri.o2.com
 mnref-cxcv-02-cc01.ref.uk.pri.o2.com
 mnref-cxcv-02-vs01.ref.uk.pri.o2.com
 mnref-cxcv-02-vs02.ref.uk.pri.o2.com
+mo2.dev.jivosite.com
 mobil.base.de
 mobil.o2online.de
 mobile-ads-lp.o2.de
@@ -4289,6 +4294,7 @@ nxt-o-mat.o2.de
 nxt.o2.de
 o2.com
 o2.de
+o2.deals.priceline.com
 o2.telefonica.de
 o2app-store-dev.sg.de.pri.o2.com
 o2business.de
@@ -4330,6 +4336,7 @@ ocs.o2.com
 offer.o2online.de
 office.o2service.de
 offline.dsl.o2online.de
+oho2.dev.jivosite.com
 omnichannel.telefonica.de
 one-unlimited.o2online.de
 oneclick.cloud.o2.com
@@ -4432,6 +4439,7 @@ play.o2online.de
 pln.daai-dev.ddc.telefonica.de
 plus.netzclub.net
 pns.ncc.de.o2.com
+po2.dev.jivosite.com
 po20.02.xmws.99.mhg.de.net.telefonica.de
 poa.o2.com
 pop.o2online.de
@@ -5018,6 +5026,7 @@ ssl-vpn-frn2-de01.telefonica.de
 ssl-vpn-frn2-de02.telefonica.de
 sso.base.de
 sso.dsl.o2online.de
+sso.yaozhao2.dev.ikarem.io
 sst.blau.de
 sst.o2business.de
 sst.o2online.de
@@ -5301,6 +5310,7 @@ store.o2.com
 storefrontmassmutual-ase-eus-nonprod-001.p.base.de
 stores.o2.com
 streamqa.de.o2.com
+stsmngo2.dev.jivosite.com
 student.base.de
 studio-cm10.o2online.de
 sued.de.pri.o2.com
@@ -6667,6 +6677,8 @@ xclips-ref.o2online.de
 xclips.o2online.de
 xd9ba000.m2m.telefonica.de
 xmas-fb.o2.de
+yaozhao2.dev.ikarem.io
+yaozhao2.dev.network-auth.ikarem.io
 youcando.o2online.de
 youcando.ref.o2online.de
 youmeverse-stage.o2online.de
