@@ -1,0 +1,17 @@
+admin.mobikwik.com
+app-beta2.mobikwik.com
+artifactory.logs.mobikwik.com
+beta1.access.mobikwik.com
+blog.mobikwik.com
+conf.ww.mobikwik.com
+dashboard.mobikwik.com
+ir-staging.mobikwik.com
+ir.mobikwik.com
+mail.mobikwik.com
+mobikwik.com
+rechargeforum.administrator.mobikwik.com
+stage-app-beta.mobikwik.com
+staging-pay.mobikwik.com
+staging.mobikwik.com
+vpn.mobikwik.com
+ww-internal.mobikwik.com
