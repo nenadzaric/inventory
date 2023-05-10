@@ -1,0 +1,8 @@
+api.easyprojects.net
+blog.easyprojects.net
+easyprojects.net
+mail.easyprojects.net
+stage.easyprojects.net
+www.api.easyprojects.net
+www.easyprojects.net
+www2.easyprojects.net
