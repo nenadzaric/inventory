@@ -1,0 +1,14 @@
+acc-web.foxycart.com
+backup.affiliate.foxycart.com
+batesinfosearch.foxycart.com
+cdn.foxycart.com
+cms.dns.foxycart.com
+foxycart.com
+o1.email.foxycart.com
+oauth.admin.foxycart.com
+pay.www3.foxycart.com
+qa.admin.foxycart.com
+www.blog.foxycart.com
+www.foxycart.com
+www3ads.foxycart.com
+6re2role.foxycart.com
