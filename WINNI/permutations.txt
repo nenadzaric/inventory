@@ -1,0 +1,5 @@
+assets.winni.in
+blog.winni.in
+blogassets.winni.in
+staging.winni.in
+winni.in
