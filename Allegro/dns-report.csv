@@ -1,0 +1,11 @@
+new,host,a,soa,status_code,aaaa,mx
+[x],after-sales.allegrosandbox.pl,5.134.211.94,"dns1.allegro.pl, hostmaster.allegro.pl",NOERROR,2a02:dcc:30::125,
+[x],allegro.cz.allegrosandbox.pl,5.134.215.168,"dns1.allegro.pl, hostmaster.allegro.pl",NOERROR,2a02:dc8:30::138,
+[x],allegro.pl.allegrosandbox.pl,5.134.211.92,"dns1.allegro.pl, hostmaster.allegro.pl",NOERROR,2a02:dc8:30::121,smtp.allegro.pl
+[x],dal09-prd-mtqrc-01.allegroimg.allegrosandbox.pl,185.31.27.130,"dns1.allegro.pl, hostmaster.allegro.pl",NOERROR,,
+[x],external-test.allegrosandbox.pl,5.134.211.91,"dns1.allegro.pl, hostmaster.allegro.pl",NOERROR,,
+[x],h-135-207-61-77.allegroimg.allegrosandbox.pl,185.31.27.130,"dns1.allegro.pl, hostmaster.allegro.pl",NOERROR,,
+[x],linear-p-isp2.allegroimg.allegrosandbox.pl,185.31.27.130,"dns1.allegro.pl, hostmaster.allegro.pl",NOERROR,,
+[x],payu.allegrosandbox.pl,5.134.211.96,"dns1.allegro.pl, hostmaster.allegro.pl",NOERROR,,
+[x],tuition.allegroimg.allegrosandbox.pl,185.31.27.130,"dns1.allegro.pl, hostmaster.allegro.pl",NOERROR,,
+[x],uploads-private-userredirectdoc-corporate.allegroimg.allegrosandbox.pl,185.31.27.130,"dns1.allegro.pl, hostmaster.allegro.pl",NOERROR,,
