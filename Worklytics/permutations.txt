@@ -1,0 +1,5 @@
+app-eu.worklytics.co
+docs.worklytics.co
+o1.send.worklytics.co
+worklytics.co
+www.worklytics.co
