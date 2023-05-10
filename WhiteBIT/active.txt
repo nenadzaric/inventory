@@ -1,0 +1,13 @@
+api.whitebit.com
+bff.whitebit.com
+blog.whitebit.com
+cdn.whitebit.com
+checkout.whitebit.com
+device.whitebit.com
+help.whitebit.com
+internal.whitebit.com
+payment.whitebit.com
+sentry.whitebit.com
+stellar.whitebit.com
+whitebit.com
+www.whitebit.com
