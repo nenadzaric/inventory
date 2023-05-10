@@ -1,0 +1,4 @@
+autodiscover.touchincentive.com
+dev.touchincentive.com
+touchincentive.com
+www.touchincentive.com
