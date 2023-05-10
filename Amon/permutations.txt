@@ -2,5 +2,6 @@ amon.tech
 api-blog.amon.tech
 api.amon.tech
 blog.amon.tech
+o1.ptr2621.amon.tech
 servermail2.amon.tech
 www.amon.tech
