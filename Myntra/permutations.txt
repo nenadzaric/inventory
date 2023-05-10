@@ -1,0 +1,12 @@
+ads.myntra.com
+api.myntra.com
+apidocs.myntra.com
+blog.myntra.com
+careers.myntra.com
+cdn.myntra.com
+developer.myntra.com
+mail.myntra.com
+myntra.com
+o1.sg.myntra.com
+tech.myntra.com
+www.myntra.com
