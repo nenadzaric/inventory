@@ -1,9 +1,12 @@
 bedpost-db.casper.tools
+blog-staging.casper.com
 casper.com
 casper.tools
 dev.casper.com
 docs.casper.tools
+image.mail.casper.com
 ir.casper.com
 legacy.casper.com
 mail.casper.com
+staging.casper.com
 www.casper.com
