@@ -1,3 +1,4 @@
+a-96-118-30-77.fanduel.com
 ablink.racing.fanduel.com
 abmail.racing.fanduel.com
 account-internal.fanduel.com
@@ -13,6 +14,7 @@ amdocs.ab.fanduel.com
 android-update.casino.fanduel.com
 api.fanduel.com
 apiapigcp-webapp-temp-exchangedns.ab.fanduel.com
+apidocs.fanduel.com
 app-files.casino.fanduel.com
 asa.east.fdbox.net
 assets.sportsbook.fanduel.com
@@ -44,8 +46,10 @@ eurwbn-134-232-12-71.racing.fanduel.com
 events.fanduel.com
 explore.sportsbook.fanduel.com
 extkdc-1.east.fdbox.net
+extkdc-2.east.fdbox.net
 fanduel.com
 fanduel.design
+fd.sportsbook.fanduel.com
 fdbox.net
 gateway.ss.fdbox.net
 go.fanduel.com
@@ -70,7 +74,9 @@ ipv4-c202-sea001-ix.casino.fanduel.com
 jenkins-mobile.east.fdbox.net
 jenkins.east.fdbox.net
 jenkins.fdbox.net
+jrss-215-70-188-98.sportsbook.fanduel.com
 jrss-215-70-27-32.ab.fanduel.com
+kerinavi.fanduel.com
 ks.sportsbook.fanduel.com
 la.sportsbook.fanduel.com
 launcher.casino.fanduel.com
@@ -107,6 +113,7 @@ promotions.fanduel.com
 racing-qa.fanduel.com
 racing-staging.fanduel.com
 racing.fanduel.com
+re-api-staging.perftest.fdbox.net
 re-api-webhook-staging.perftest.fdbox.net
 redirect.sportsbook.fanduel.com
 refer.casino.fanduel.com
@@ -127,13 +134,16 @@ sunset-stardust-nj.casino.fanduel.com
 sunset-stardust-pa.casino.fanduel.com
 support.fanduel.com
 temp-bucket-meta-corporate.sportsbook.fanduel.com
+tm.fanduel.com
 tn.sportsbook.fanduel.com
 tnv1.sportsbook.fanduel.com
 users-ipv4-qa-apiproduction.sportsbook.fanduel.com
 util28.ab.fanduel.com
+v1cache.fdbox.net
 va.sportsbook.fanduel.com
 vav1.sportsbook.fanduel.com
 verify.fanduel.com
+videoclick.support.fanduel.com
 vpn-1.east.fdbox.net
 vpn.east.fdbox.net
 vpn.fdbox.net

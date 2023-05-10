@@ -10,12 +10,15 @@ forum-cas.fanduel.com
 live.fanduel.com
 media-casino.fanduel.com
 racing-qa.fanduel.com
+racing-staging-access.fanduel.com
 racing-staging.fanduel.com
 search.sportsbook.fanduel.com
 service.racing-qa.fanduel.com
 service.racing-staging.fanduel.com
 service.racing.fanduel.com
+sportsbook-forum.fanduel.com
 staging.racing.fanduel.com
+test-casino.fanduel.com
 vpn.east.fdbox.net
 vpn.fdbox.net
 www.fanduel.com
