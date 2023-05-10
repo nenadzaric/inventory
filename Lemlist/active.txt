@@ -4,8 +4,11 @@ app.lemlist.com
 app2.lemlist.com
 backup.lemlist.com
 blog.lemlist.com
+change.lemlist.com
+cust1.lemlist.com
 cust2.lemlist.com
 custom.lemlist.com
+custom.staging.lemlist.com
 custom.staging1.lemlist.com
 custom2.lemlist.com
 db.lemlist.com
@@ -17,6 +20,8 @@ fr.lemlist.com
 help.lemlist.com
 imap.lemlist.com
 img.lemlist.com
+k.img.lemlist.com
+lemhero.lemlist.com
 lemlist.com
 links.emails.lemlist.com
 pages.lemlist.com
@@ -26,8 +31,10 @@ smtp.lemlist.com
 staging.lemlist.com
 staging1.lemlist.com
 staging2.lemlist.com
+status.lemlist.com
 test.lemlist.com
 trail.lemlist.com
 update.lemlist.com
 vip.lemlist.com
+web-campus.staging1.lemlist.com
 www.lemlist.com

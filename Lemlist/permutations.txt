@@ -1,6 +1,7 @@
 api.lemlist.com
 app.lemlist.com
 app2.lemlist.com
+backup.lemlist.com
 blog.lemlist.com
 custom.staging.lemlist.com
 custom2.lemlist.com
@@ -12,3 +13,4 @@ staging.lemlist.com
 staging1.lemlist.com
 staging2.lemlist.com
 test.lemlist.com
+www.lemlist.com
