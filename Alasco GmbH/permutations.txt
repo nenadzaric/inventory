@@ -1,0 +1,11 @@
+alasco.de
+alasco.rocks
+api-staging.alasco.rocks
+api.alasco.de
+app-staging.alasco.rocks
+app.alasco.de
+developer.alasco.de
+login.alasco.de
+login.alasco.rocks
+www.alasco.de
+www.alasco.rocks
