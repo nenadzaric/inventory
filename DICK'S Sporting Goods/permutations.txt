@@ -1,9 +1,11 @@
 app.dickssportinggoods.com
 beta.dickssportinggoods.com
+beta.publiclands.com
 blog.dickssportinggoods.com
 calia.com
 cloud.vpn.dcsg.com
 dcsg.com
+dev-cms.dickssportinggoods.com
 dickssportinggoods.com
 engineering.pages.dcsg.com
 fieldandstreamshop.com
@@ -13,9 +15,11 @@ image.dickssportinggoods.com
 ir.dickssportinggoods.com
 mail.dcsg.com
 mail.dickssportinggoods.com
+mymobilemailkerberostest.dcsg.com
 origin-gateway.dcsg.com
 publiclands.com
 vrst.com
 wfmmobiledev.dcsg.com
 wfmmobileqa.dcsg.com
 www.dickssportinggoods.com
+www.publiclands.com
