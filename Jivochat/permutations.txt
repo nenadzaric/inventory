@@ -1,5 +1,6 @@
 access.jeeves.jivosite.com
 admin.dev.jivosite.com
+admin.jivosite.com
 ads.jeeves.jivosite.com
 api.jivosite.com
 api1.jivosite.com
@@ -16,6 +17,7 @@ cms.jeeves.jivosite.com
 code.jeeves.jivosite.com
 code.jivosite.com
 core.dev.jivosite.com
+dev.jivosite.com
 developer.dev.jivosite.com
 developers.jeeves.jivosite.com
 dmz.jeeves.jivosite.com
@@ -33,6 +35,8 @@ o1.jeeves.jivosite.com
 oncall.dev.jivosite.com
 partner.jivosite.com
 prometheus.dev.jivosite.com
+prometheus.jivosite.com
+proxy.dev.jivosite.com
 qa.dev.jivosite.com
 shop.dev.jivosite.com
 tech.dev.jivosite.com

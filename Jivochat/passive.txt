@@ -365,6 +365,7 @@ fateev6.dev.jivosite.com
 fd.dev.jivosite.com
 fedotov.dev.jivosite.com
 fifi.dev.jivosite.com
+fifth-sp.dev.jivosite.com
 files-dev.jivosite.com
 files.jivosite.com
 fin.dev.jivosite.com
@@ -812,6 +813,7 @@ oncall.jivosite.com
 oncall.oncall.jivosite.com
 op.dev.jivosite.com
 op2.dev.jivosite.com
+opcht.dev.jivosite.com
 org.dev.jivosite.com
 ospv.dev.jivosite.com
 oto.dev.jivosite.com
@@ -1224,6 +1226,7 @@ turnik11.dev.jivosite.com
 turnik12.dev.jivosite.com
 turnik13.dev.jivosite.com
 turnik15.dev.jivosite.com
+turnik16.dev.jivosite.com
 turnik2.dev.jivosite.com
 turnik3.dev.jivosite.com
 turnik4.dev.jivosite.com
