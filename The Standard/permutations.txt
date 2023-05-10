@@ -1,0 +1,13 @@
+access.standard.com
+api.dcx.standard.com
+api.edp.standard.com
+api.pas.standard.com
+api.snowaas.standard.com
+cloud.message.standard.com
+image.message.standard.com
+login.standard.com
+media.standard.com
+mobile.standard.com
+portalacc.standard.com
+standard.com
+www.standard.com
