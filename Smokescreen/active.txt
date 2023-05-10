@@ -1,4 +1,5 @@
 athena.smokescreen.io
+cloud.smokescreen.io
 download.smokescreen.io
 downloads.smokescreen.io
 faultline.smokescreen.io
