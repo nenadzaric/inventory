@@ -1,0 +1,6 @@
+amon.tech
+api-blog.amon.tech
+api.amon.tech
+blog.amon.tech
+servermail2.amon.tech
+www.amon.tech
