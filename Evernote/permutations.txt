@@ -5,6 +5,7 @@ app.preprod.evernote.com
 app.preprod2.evernote.com
 app.preprod3.evernote.com
 blog.evernote.com
+blog.stage.evernote.com
 blogassets.evernote.com
 builds.common-editor.evernote.com
 content.evernote.com
@@ -19,6 +20,7 @@ mail.evernote.com
 market.evernote.com
 preprod3.evernote.com
 prod.blog.evernote.com
+shop.evernote.com
 stage-content.evernote.com
 stage-corp.evernote.com
 stage.blog.evernote.com

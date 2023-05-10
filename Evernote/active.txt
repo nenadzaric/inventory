@@ -48,9 +48,11 @@ jp.evernote.com
 links.account.evernote.com
 links.comms.evernote.com
 m.evernote.com
+m.preprod.evernote.com
 m.preprod2.evernote.com
 m.preprod3.evernote.com
 m.stage.evernote.com
+m1.svc.evernote.com
 m2.svc.evernote.com
 mail-svc.evernote.com
 mail-sys.evernote.com
@@ -74,6 +76,7 @@ preprod3.evernote.com
 preview.evernote.com
 private-img.evernote.com
 prod.blog.evernote.com
+pub.emails.evernote.com
 sandbox.evernote.com
 schools.evernote.com
 shop.evernote.com
@@ -82,6 +85,7 @@ sp.account.evernote.com
 sp.comms.evernote.com
 ssltest.evernote.com
 stage-content.evernote.com
+stage.blog.evernote.com
 stage.evernote.com
 static.evernote.com
 status.evernote.com
@@ -103,8 +107,10 @@ ws.stage.evernote.com
 ws.www.evernote.com
 ww8.evernote.com
 www.evernote.com
+www.preprod3.evernote.com
 xml.evernote.com
 zendesk1.evernote.com
+zendesk1.help.evernote.com
 zendesk2.evernote.com
 zendesk2.help.evernote.com
 zendesk3.evernote.com
