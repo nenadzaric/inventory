@@ -13,6 +13,7 @@ info.here.com
 mail.here.com
 mobile.here.com
 mobilitygraph.hereapi.com
+my.here.com
 pos.api.here.com
 qa.account.here.com
 router.hereapi.com

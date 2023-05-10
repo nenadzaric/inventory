@@ -2,6 +2,7 @@ account.api.here.com
 account.here.com
 accounting.api.here.com
 activitycount.ls.hereapi.com
+administration.ls.hereapi.com
 amslyncpool-ext.it.here.com
 amswco.it.here.com
 ap-northeast-1.search.hereapi.com
@@ -22,6 +23,7 @@ avb-tui2-hapi.ls.hereapi.com
 avb.sit.hereapi.com
 b2bcomm.ext.here.com
 batch.search.hereapi.com
+bearing-bot.it.here.com
 beta.here.com
 binary.scbe.api.here.com
 blog.here.com
@@ -34,6 +36,7 @@ chilyncpool-ext.it.here.com
 chiwco.it.here.com
 cit.account.api.here.com
 cit.account.here.com
+cle.api.here.com
 clickwork.ext.here.com
 cms.developer.here.com
 collab.data.here.com
@@ -44,6 +47,7 @@ company.here.com
 confluence.it.here.com
 connect.here.com
 cortex.ext.here.com
+coverage.here.com
 cre.api.here.com
 crl.ext.here.com
 cttaas-siemens.cit.hereapi.com
@@ -80,6 +84,7 @@ eu-west-1-sit-mrsbase.ls.hereapi.com
 eu-west-1-subscription.mobilitygraph.hereapi.com
 eu-west-1.router.hereapi.com
 eu-west-1.search.hereapi.com
+eu.platform.here.com
 explore.api.here.com
 expressway.it.here.com
 expressway.uc.here.com
@@ -109,6 +114,8 @@ gns-recv.it.here.com
 gnss.cit.hereapi.com
 gnss.sit.hereapi.com
 gsnlink.here.com
+gspe21-ssl-carry.router.hereapi.com
+h-135-207-63-46.platform.here.com
 had.api.here.com
 hcr.data.here.com
 hdlmv.ext.here.com
@@ -117,6 +124,7 @@ here.com
 hereapi.com
 horizon.ext.here.com
 hth-ext.it.here.com
+iad2nowhere.comodo.bluesnap.com
 idm.api.here.com
 im.here.com
 info.here.com
@@ -167,6 +175,7 @@ msrp.cit.hereapi.com
 msrp.sit.hereapi.com
 my.here.com
 navigation-voice.data.here.com
+ngmp-dev.it.here.com
 ngmp-ext.it.here.com
 notification.api.here.com
 ns3.here.com
@@ -225,6 +234,7 @@ routing.ext.here.com
 s.here.com
 saeljira-qa.it.here.com
 scbe.api.here.com
+scheduler.here.com
 scheduler.it.here.com
 sda.api.here.com
 sdabb.api.here.com
@@ -240,6 +250,7 @@ sip.it.here.com
 sipfed.here.com
 sit.account.api.here.com
 sit.account.here.com
+sit.scbe.api.here.com
 sit.search.hereapi.com
 sli.data.here.com
 smap.hereapi.com
@@ -250,9 +261,11 @@ snowstatusdev.it.here.com
 speedtest.ext.here.com
 spot.account.here.com
 sps.data.here.com
+sso.it.here.com
 sso2.it.here.com
 sso3.it.here.com
 ssow.it.here.com
+st.developer.here.com
 static.here.com
 status.here.com
 stg.account.api.here.com
@@ -267,6 +280,7 @@ subp-intermodal.router.hereapi.com
 subp-matrix.router.hereapi.com
 subp-mobility.api.here.com
 subp-places.api.here.com
+subp-pos.api.here.com
 subp-route.api.here.com
 subp-route.ls.hereapi.com
 subp-router.hereapi.com
@@ -280,9 +294,11 @@ subp-us-west-2.search.hereapi.com
 subp-weather.api.here.com
 subscription.mobilitygraph.hereapi.com
 supplier.ext.here.com
+support.here.com
 sys-sp01.data.here.com
 talent.here.com
 tce.api.here.com
+tcs.ext.here.com
 tcs.it.here.com
 terra.here.com
 testing.developer.here.com
@@ -292,6 +308,7 @@ tourplanning.cit.hereapi.com
 tourplanning.sit.hereapi.com
 tpa-prd.ls.hereapi.com
 tpeg.api.here.com
+tpwodl.api.here.com
 tracking.api.here.com
 tracking.here.com
 traffic.api.here.com
@@ -330,15 +347,18 @@ vldwco.it.here.com
 voice-crowd.ext.here.com
 vpn.here.com
 w.here.com
+wat-vcse-c1-1.pos.here.com
 weather-prd-cc-us.ls.hereapi.com
 weather.api.here.com
 weather.hereapi.com
 weather.ls.hereapi.com
 weather.sit.hereapi.com
 webmail.platform.here.com
+webww1link.it.here.com
 whatsapp-chatd-msgr-mini-edge-shv-02-maa2.here.com
 wiki-help.mobilitygraph.hereapi.com
 wikiassetslogs-miembros.mobilitygraph.hereapi.com
+wmsd.cc.here.com
 woyoedukasi.it.here.com
 wps.hereapi.com
 wse.api.here.com
