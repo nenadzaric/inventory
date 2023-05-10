@@ -1,0 +1,11 @@
+blog.exodus.com
+blog.exodus.io
+docs.exodus.com
+exchange-server.exodus.io
+exodus.com
+exodus.io
+grafana.exodus.io
+oauth.exodus.io
+server.exodus.io
+www.exodus.com
+www.exodus.io
