@@ -10,6 +10,7 @@ kaleido.ai
 remove.bg
 staging.api.remove.bg
 staging.api.unscreen.com
+staging.danni.kaleido.ai
 staging.kaleido.ai
 staging.labs.kaleido.ai
 staging.unscreen.com
