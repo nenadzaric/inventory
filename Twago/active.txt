@@ -1,0 +1,2 @@
+itprojects.talent-community.com
+smtp.itprojects.talent-community.com
