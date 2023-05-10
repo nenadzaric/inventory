@@ -2,6 +2,7 @@ api.websitebuilder.com
 app.websitebuilder.com
 assets.websitebuilder.com
 billing-api.websitebuilder.com
+blog-api.websitebuilder.com
 dev.websitebuilder.com
 login.websitebuilder.com
 mail.websitebuilder.com
