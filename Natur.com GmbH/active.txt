@@ -1,0 +1,8 @@
+autodiscover.natur.com
+enterpriseenrollment.natur.com
+lyncdiscover.natur.com
+mail.natur.com
+msoid.natur.com
+natur.com
+sip.natur.com
+www.natur.com
