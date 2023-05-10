@@ -1,0 +1,5 @@
+cms.coinstore.com
+coinstore.com
+conf.coinstore.com
+live.coinstore.com
+mail.coinstore.com
