@@ -25,6 +25,7 @@ admin.hiltontravelagents.web-7.hiltonbusinessonline.com
 admin.static-fractal.web-11.hiltonbusinessonline.com
 admin.test.web-11.hiltonbusinessonline.com
 admin.us-1.hiltonbusinessonline.com
+admin.web-8.hiltonbusinessonline.com
 ads.hiltonbusinessonline.com
 af3-stg.hilton.com
 af3.hilton.com
@@ -273,11 +274,13 @@ connect.hilton.com
 connectdr.hilton.com
 connecttest.hilton.com
 connich.hiltonbusinessonline.com
+conrad-abu-dhabi.web-5.hiltonbusinessonline.com
 conrad-osaka.dev.hiltonjapan.co.jp
 conrad-osaka.hiltonjapan.co.jp
 conrad-tokyo.hiltonjapan.co.jp
 conradalgarve.us-1.hiltonbusinessonline.com
 conradalgarve.web-11.hiltonbusinessonline.com
+conradalgarve.web-12.hiltonbusinessonline.com
 conradalgarve.web-3.hiltonbusinessonline.com
 conradbali.web-11.hiltonbusinessonline.com
 conradbali.web-4.hiltonbusinessonline.com
@@ -288,6 +291,7 @@ conradhotels1.hilton.com
 conradhotels3.hilton.com
 conradmaldives.web-11.hiltonbusinessonline.com
 conradmiami.us-1.hiltonbusinessonline.com
+conradmiami.web-4.hiltonbusinessonline.com
 context.hilton.com
 contracts.hilton.com
 cophr.hilton.com
@@ -319,6 +323,7 @@ csolapweb2.hilton.com
 ctadmin-s.hilton.com
 ctadmin.hilton.com
 ctamin.hilton.com
+curio.brand.hiltonbusinessonline.com
 curiocollection.resorts.hiltonbusinessonline.com
 curiocollection3.hilton.com
 cwaptmxprint01.hq.ad.hilton.com
@@ -694,6 +699,7 @@ hotel.hilton.com
 hotelcontent.hilton.com
 hotelhub.hilton.com
 hotelwestminster.web-11.hiltonbusinessonline.com
+hotelwestminster.web-12.hiltonbusinessonline.com
 houstonnasaclearlake.hilton.com
 houstonnorth.hilton.com
 houstonplaza.hilton.com
@@ -931,6 +937,7 @@ mail.hilton.com
 mail.hilton.com.tr
 mail.panel2.voip2.hiltonmanage.com
 mail.us-1.hiltonbusinessonline.com
+mail.web-8.hiltonbusinessonline.com
 maldivesirufushi.hilton.com
 malta.hilton.com
 managementservices.hilton.com
@@ -1561,9 +1568,11 @@ webhfw1.hilton.com
 webhfw2.hilton.com
 webmail.beginglasgow.us-1.hiltonbusinessonline.com
 webmail.broken-algarve.web-11.hiltonbusinessonline.com
+webmail.hiltontravelagents.web-7.hiltonbusinessonline.com
 webmail.static-fractal.web-11.hiltonbusinessonline.com
 webmail.test.web-11.hiltonbusinessonline.com
 webmail.us-1.hiltonbusinessonline.com
+webmail.web-8.hiltonbusinessonline.com
 webpv.hilton.com
 webpv.stg.hilton.com
 webpv.test.hilton.com
@@ -1611,6 +1620,7 @@ www.autocomplete.hilton.com
 www.automobileblog.voip2.hiltonmanage.com
 www.beginglasgow.us-1.hiltonbusinessonline.com
 www.beverlyhilton.web-6.hiltonbusinessonline.com
+www.blvdmarlborough.web-11.hiltonbusinessonline.com
 www.boeiragardenhotelporto.web-11.hiltonbusinessonline.com
 www.boeiragardenhotelporto.web-12.hiltonbusinessonline.com
 www.bogotacorferias.hilton.com
@@ -1635,6 +1645,7 @@ www.cms.greyrestaurant.web-12.hiltonbusinessonline.com
 www.coloncleanse.voip2.hiltonmanage.com
 www.computerrepairs.voip2.hiltonmanage.com
 www.conradalgarve.web-11.hiltonbusinessonline.com
+www.conradalgarve.web-12.hiltonbusinessonline.com
 www.conradalgarve.web-3.hiltonbusinessonline.com
 www.conradbali.web-11.hiltonbusinessonline.com
 www.conradbali.web-4.hiltonbusinessonline.com
@@ -1643,8 +1654,10 @@ www.conradfortlauderdale.web-12.hiltonbusinessonline.com
 www.conradhotels3.hilton.com
 www.conradmaldives.web-11.hiltonbusinessonline.com
 www.conradmiami.us-1.hiltonbusinessonline.com
+www.conradmiami.web-4.hiltonbusinessonline.com
 www.corporate.hilton.com
 www.costamesa.hilton.com
+www.curio.brand.hiltonbusinessonline.com
 www.curiocollection3.hilton.com
 www.daintlreporting.hilton.com
 www.davical.voip2.hiltonmanage.com
@@ -1746,6 +1759,7 @@ www.horasan.voip2.hiltonmanage.com
 www.hotel-origin.hilton.com
 www.hotel.hilton.com
 www.hotelwestminster.web-11.hiltonbusinessonline.com
+www.hotelwestminster.web-12.hiltonbusinessonline.com
 www.hpbekas.voip2.hiltonmanage.com
 www.htsc.hilton.com
 www.icau.voip2.hiltonmanage.com
@@ -1885,6 +1899,7 @@ www.waldorfastoriachicagohotel.web-11.hiltonbusinessonline.com
 www.waldorfastorialasvegas.web-4.hiltonbusinessonline.com
 www.waldorfastoriaorlando.web-11.hiltonbusinessonline.com
 www.waldorfastoriaversailles.web-11.hiltonbusinessonline.com
+www.web-8.hiltonbusinessonline.com
 www.westhotel.web-11.hiltonbusinessonline.com
 www.westhotel.web-6.hiltonbusinessonline.com
 www.westloop.hilton.com
