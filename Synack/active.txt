@@ -10,6 +10,8 @@ api.wa-prod.synack.com
 api.wa-qa.synack.com
 apt.synack.com
 atlantis.synack.com
+auth-demo.synack.com
+auth-internal.synack.com
 auth.synack.com
 bluestake-beta.analytics.synack.com
 bluestake-demo.analytics.synack.com
@@ -136,7 +138,10 @@ notifications.wa-prod.synack.com
 notifications.wa-qa.synack.com
 ns1.gladiolus.synack.com
 ns2.gladiolus.synack.com
+ops-workflows.ha-dev.synack.com
 ops-workflows.ha-qa.synack.com
+ops-workflows.ha-staging.synack.com
+packrat.mainway.synack.com
 pact.synack.com
 platform.ks-demo.synack.com
 platform.ks-dev1.synack.com
@@ -153,9 +158,12 @@ prod.analytics.synack.com
 qa.analytics.synack.com
 resources.synack.com
 s3.synack.com
+scan-management.ha-prod.synack.com
 scan-management.ha-qa.synack.com
 sip.synack.com
 staging.analytics.synack.com
+stripygiraffe-sandbox.zd-beta.synack.com
+stripygiraffe.zd-beta.synack.com
 support.ks-fedprod.synack.com
 support.staging.synack.com
 support.synack.com
@@ -176,7 +184,10 @@ viper.ks-staging.synack.com
 vt.synack.com
 web-edge-iglite-p3-shv-01-fra3.ks-demo.synack.com
 westchester.staging.synack.com
+workflows.ha-dev.synack.com
+workflows.ha-prod.synack.com
 workflows.ha-qa.synack.com
+workflows.ha-staging.synack.com
 www.synack.com
 yellowbeam.ks-demo.synack.com
 yellowbeam.ks-fedprod.synack.com

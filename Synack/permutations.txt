@@ -6,7 +6,9 @@ api.ks-qa.synack.com
 api.ks-staging.synack.com
 api.staging.synack.com
 api.synack.com
+api.wa-prod.synack.com
 api.wa-qa.synack.com
+boss.staging.synack.com
 client.ks-demo.synack.com
 client.ks-dev1.synack.com
 client.ks-fedprod.synack.com
@@ -15,6 +17,7 @@ client.ks-qa.synack.com
 client.ks-staging.synack.com
 client.staging.synack.com
 client.synack.com
+client.wa-prod.synack.com
 client.wa-qa.synack.com
 info.synack.com
 internal.ks-demo.synack.com
@@ -25,6 +28,7 @@ internal.ks-qa.synack.com
 internal.ks-staging.synack.com
 internal.staging.synack.com
 internal.synack.com
+internal.wa-prod.synack.com
 internal.wa-qa.synack.com
 login.ks-demo.synack.com
 login.ks-dev1.synack.com
@@ -34,6 +38,7 @@ login.ks-qa.synack.com
 login.ks-staging.synack.com
 login.staging.synack.com
 login.synack.com
+login.wa-prod.synack.com
 login.wa-qa.synack.com
 mail.synack.com
 prod.analytics.synack.com
