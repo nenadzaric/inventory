@@ -1,0 +1,12 @@
+api-staging.flickr.com
+api.flickr.com
+apiv2.flickr.com
+blog.flickr.com
+flickr.com
+internal-api.flickr.com
+live-appletv.flickr.com
+login-dev.flickr.com
+login.flickr.com
+stage.guce.flickr.com
+staging.flickr.com
+www.flickr.com
