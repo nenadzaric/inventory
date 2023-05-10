@@ -11,10 +11,13 @@ crowdmatch.a.bugcrowd.com
 docs.bugcrowd.com
 documentation.bugcrowd.com
 email.assetinventory.bugcrowd.com
+email.bugs.bugcrowd.com
 email.crowdcontrol.bugcrowd.com
 email.forum.bugcrowd.com
+email.submit.bugcrowd.com
 files.bugcrowd.com
 forum.bugcrowd.com
+gamification.a.bugcrowd.com
 gateway-admin.a.bugcrowd.com
 gateway.a.bugcrowd.com
 go.bugcrowd.com
@@ -23,6 +26,7 @@ gslink.bugcrowd.com
 hodor.a.bugcrowd.com
 hooks.a.bugcrowd.com
 hooks.bugcrowd.com
+hsp.bugcrowd.com
 identity.bugcrowd.com
 itmoah.bugcrowd.com
 levelup.bugcrowd.com
@@ -31,6 +35,7 @@ mailgun.bugcrowd.com
 pages.bugcrowd.com
 payments.bugcrowd.com
 proxilate-internal.a.bugcrowd.com
+proxilate.bugcrowd.com
 rainbow-bridge.bugcrowd.com
 researcherdocs.bugcrowd.com
 stargate.a.bugcrowd.com
