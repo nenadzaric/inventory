@@ -1,0 +1,14 @@
+admin.starlingbank.com
+api.starlingbank.com
+app.starlingbank.com
+developer.starlingbank.com
+engineering-admin.starlingbank.com
+engineering.starlingbank.com
+grafana.starlingbank.com
+media.starlingbank.com
+oauth.starlingbank.com
+payment-api.starlingbank.com
+prometheus.starlingbank.com
+staging.starlingbank.com
+starlingbank.com
+www.starlingbank.com
