@@ -1,4 +1,5 @@
 api.matomo.org
+app-carfromjapan.innocraft.cloud
 blogs.touchize.innocraft.cloud
 builds.matomo.org
 cdn.innocraft.cloud
