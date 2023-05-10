@@ -1,0 +1,9 @@
+bedpost-db.casper.tools
+casper.com
+casper.tools
+dev.casper.com
+docs.casper.tools
+ir.casper.com
+legacy.casper.com
+mail.casper.com
+www.casper.com
