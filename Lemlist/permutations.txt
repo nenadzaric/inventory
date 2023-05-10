@@ -1,0 +1,14 @@
+api.lemlist.com
+app.lemlist.com
+app2.lemlist.com
+blog.lemlist.com
+custom.staging.lemlist.com
+custom2.lemlist.com
+db.lemlist.com
+dev.lemlist.com
+developer.lemlist.com
+lemlist.com
+staging.lemlist.com
+staging1.lemlist.com
+staging2.lemlist.com
+test.lemlist.com
