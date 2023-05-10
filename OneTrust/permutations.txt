@@ -1,0 +1,12 @@
+app.elq.onetrust.com
+app.my.onetrust.com
+app.onetrust.com
+app.wopi.onetrust.com
+cdn.onetrust.com
+cms.my.onetrust.com
+developer.onetrust.com
+info.onetrust.com
+media.my.onetrust.com
+onetrust.com
+test.my.onetrust.com
+web.onetrust.com
