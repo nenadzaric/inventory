@@ -1,0 +1,14 @@
+api.int.napoleongames.be
+cdn.int.napoleongames.be
+content.napoleongames.be
+crmapi-test.napoleongames.be
+dev.web.napoleongames.be
+mail.napoleongames.be
+media.napoleongames.be
+napoleongames.be
+o1.newsletter.napoleongames.be
+promo-api.napoleongames.be
+qa.web.napoleongames.be
+selligent-prod.napoleongames.be
+www.napoleongames.be
+www.sports.napoleongames.be
