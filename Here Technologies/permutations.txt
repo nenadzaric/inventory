@@ -23,6 +23,8 @@ search.sit.hereapi.com
 sit.search.hereapi.com
 subp-router.hereapi.com
 us-east-1.search.hereapi.com
+us-west-2.router.hereapi.com
 us-west-2.search.hereapi.com
 vpn.here.com
 www.developer.here.com
+www.here.com
