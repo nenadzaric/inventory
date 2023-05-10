@@ -5,6 +5,7 @@ careers.naspers.com
 cdn.naspers.com
 dashboardadmin.naspers.com
 data.prosus.com
+dealflowapi.prosus.com
 dmz.naspers.com
 login.naspers.com
 naspers.co
@@ -15,5 +16,7 @@ naspers.us
 naspersventures.com
 prosus.com
 qa.naspers.com
+testanalyticsapi.prosus.com
+testdealflowapi.prosus.com
 www.naspers.com
 www.prosus.com
