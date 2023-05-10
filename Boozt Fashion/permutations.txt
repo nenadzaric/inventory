@@ -1,0 +1,8 @@
+boozt.com
+booztlet.com
+cloud.booztlet.com
+image.email.boozt.com
+image.email.booztlet.com
+o1.sendgrid.boozt.com
+www.booztlet.com
+www.parcel-api.boozt.com
