@@ -1,0 +1,15 @@
+api-proxy.bitfinex.com
+api.bitfinex.com
+api.staging.bitfinex.com
+bitfinex.com
+blog.bitfinex.com
+board.staging.bitfinex.com
+capital-admin.bitfinex.com
+compliance.developers.bitfinex.com
+developers.bitfinex.com
+docs.bitfinex.com
+pay.bitfinex.com
+staging.bitfinex.com
+www.bitfinex.com
+www.marketing.bitfinex.com
+www.staging.bitfinex.com
