@@ -1,0 +1,9 @@
+admin.bitwarden.com
+api.bitwarden.com
+assets.bitwarden.com
+bitwarden.com
+blog.bitwarden.com
+cdn.bitwarden.com
+docs.bitwarden.com
+mail.bitwarden.com
+www.bitwarden.com
