@@ -1,0 +1,8 @@
+admin.nordvpn.com
+client-api.nordvpn.com
+content.nordvpn.com
+core.nordvpn.com
+dns2.public.nordvpn.com
+docs.nordvpn.com
+nordvpn.com
+www.nordvpn.com
