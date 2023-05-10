@@ -1,0 +1,16 @@
+api-ue1az.gotinder.com
+api.gotinder.com
+api.ue1az.gotinder.com
+blog.gotinder.com
+data.gotinder.com
+gotinder.com
+grafana.ue1az.tinderops.net
+prod.datadev1.tinderops.net
+staging.datadev1.tinderops.net
+tech.gotinder.com
+tinder.com
+tinderops.net
+tinderwebstaging.com
+tstaging.com
+tstaging.tools
+www.gotinder.com
