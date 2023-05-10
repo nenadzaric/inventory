@@ -3,6 +3,7 @@ akismet.com
 api.akismet.com
 blog.akismet.com
 blog.intensedebate.com
+cdn.office.akismet.com
 docs.akismet.com
 happy.tools
 intensedebate.com
