@@ -1,0 +1,4 @@
+api.gate.io
+data.gate.io
+gate.io
+www.gate.io
