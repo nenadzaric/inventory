@@ -1,0 +1,14 @@
+admin21-proxy.bluesnap.com
+autodeskcdn.bluesnap.com
+bi-reporting1.bluesnap.com
+bi-reporting2.bluesnap.com
+bluesnap.com
+digitalofficepropay.bluesnap.com
+mail.bluesnap.com
+partnerslocal.bluesnap.com
+pay.bluesnap.com
+pem.market.bluesnap.com
+supportpromotion.bluesnap.com
+www.client.bluesnap.com
+www2.bluesnap.com
+wwwwp.bluesnap.com
