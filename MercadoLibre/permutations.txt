@@ -1,0 +1,13 @@
+blog.mercadolibre.com
+cdn.mercadolibre.com
+chat.admin.mercadolibre.com
+content.mercadolibre.com
+data.mercadolibre.com
+developers-cbt.mercadolibre.com
+internal-api.mercadolibre.com
+ldap.mercadolibre.com
+live.mercadolibre.com
+mercadolibre.com
+mobile.mercadolibre.com
+test-vendedores.mercadolibre.com
+www2.mercadolibre.com
