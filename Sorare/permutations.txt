@@ -1,0 +1,9 @@
+admin.sorare.com
+api.sorare.com
+assets.sorare.com
+backend.api.sorare.com
+k8s.sorare.com
+k8s.us-east-2.sorare.com
+live.sorare.com
+sorare.com
+www.sorare.com
