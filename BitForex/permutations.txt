@@ -1,0 +1,5 @@
+api.bitforex.com
+bitforex.com
+grinproxy.bitforex.com
+mobile.bitforex.com
+www.bitforex.com

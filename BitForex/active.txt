@@ -1,0 +1,15 @@
+api.bitforex.com
+bitforex.com
+capp.bitforex.com
+cn.bitforex.com
+console.bitforex.com
+download.bitforex.com
+event.bitforex.com
+grinproxy.bitforex.com
+help.bitforex.com
+mobile.bitforex.com
+static.bitforex.com
+support.bitforex.com
+test112m.bitforex.com
+track.bitforex.com
+www.bitforex.com
