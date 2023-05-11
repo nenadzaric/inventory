@@ -15,6 +15,7 @@ fwdkim1.hackerone.com
 gsemail.hackerone.com
 gslink.hackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+hackathon-photos.hackerone-user-content.com
 hackathon-photos.us-east-2.hackerone-user-content.com
 hacker101.com
 hackerone-ext-content.com
@@ -26,10 +27,13 @@ levels-b.hacker101.com
 marketing-assets.hackerone-user-content.com
 marketing-assets.us-east-2.hackerone-user-content.com
 mta-sts.hackerone.com
+profile-photos-us-east-2.hackerone-user-content.com
+profile-photos.hackerone-user-content.com
 profile-photos.us-east-2.hackerone-user-content.com
 resources.hackerone.com
 support.hackerone.com
 vpn.hackerone.net
+whatsapp-chatd-msgr-edge-shv-01-mrs2.vpn.hackerone.net
 www.hacker101.com
 www.hackerone.com
 www.hackerone.net
