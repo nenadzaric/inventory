@@ -112,6 +112,8 @@ bid47w7.blog.nubank.com.br
 bid47z0.blog.nubank.com.br
 bid48pa.blog.nubank.com.br
 blocked-bounty-board.blog.nubank.com.br
+blog.nubank.com.br
+bolao.nubank.com.br
 book.blog.nubank.com.br
 botbase.blog.nubank.com.br
 brand.nubank.com.br
@@ -178,6 +180,7 @@ conta.nubank.com.br
 content.nubank.com.br
 contentdelivery04.blog.nubank.com.br
 conteudo.blog.nubank.com.br
+conteudo.lojinha.nubank.com.br
 cos11.blog.nubank.com.br
 cpexamplesbackup-meet-git.blog.nubank.com.br
 cpmonitormain-antiviruspre.blog.nubank.com.br
@@ -231,10 +234,12 @@ devvideov2oceania-mx.blog.nubank.com.br
 digitalpen.blog.nubank.com.br
 distributel.blog.nubank.com.br
 dit.blog.nubank.com.br
+docs.share.nubank.com.br
 downloads-defaultproduction.blog.nubank.com.br
 drum-155-215-233-38.brand.nubank.com.br
 e-dziekanat.blog.nubank.com.br
 edgeray-cloudgaming-shv-01-den4.blog.nubank.com.br
+edisoninst.blog.nubank.com.br
 egr2-194-pda.blog.nubank.com.br
 elasticbeanstalk-login-relay-config-redirect.blog.nubank.com.br
 elasticbeanstalk-pracc.blog.nubank.com.br
@@ -309,6 +314,7 @@ h-135-207-128-93.blog.nubank.com.br
 h-135-207-136-99.blog.nubank.com.br
 h-135-207-14-84.blog.nubank.com.br
 h-135-207-142-65.blog.nubank.com.br
+h-135-207-160-43.international.nubank.com.br
 h-135-207-160-73.blog.nubank.com.br
 h-135-207-171-22.blog.nubank.com.br
 h-135-207-171-38.blog.nubank.com.br
@@ -424,6 +430,7 @@ linear-fa-p-har2.blog.nubank.com.br
 linear-p-har.blog.nubank.com.br
 link.nubank.com.br
 linkmail.blog.nubank.com.br
+lojinha.nubank.com.br
 lotusflare.blog.nubank.com.br
 lqlu7.blog.nubank.com.br
 lucesparaelcamino.blog.nubank.com.br
@@ -433,6 +440,7 @@ macvm02.blog.nubank.com.br
 madebytoya.blog.nubank.com.br
 mail-mokscy3msg.blog.nubank.com.br
 maincistorebackups.blog.nubank.com.br
+mandrill-outbound3.nubank.com.br
 marketing.nubank.com.br
 master-help-helporigin.blog.nubank.com.br
 mercury-75.blog.nubank.com.br
@@ -464,6 +472,7 @@ ns-site.blog.nubank.com.br
 nuapp.nubank.com.br
 nubank.com.br
 nudges.blog.nubank.com.br
+o8.ptr1773.nubank.com.br
 oadam.blog.nubank.com.br
 oag.blog.nubank.com.br
 occ-0-902-90.blog.nubank.com.br
@@ -471,6 +480,7 @@ oceania-inquiry.blog.nubank.com.br
 oceania-jobalerts.blog.nubank.com.br
 odie.blog.nubank.com.br
 oh13sa-x01.blog.nubank.com.br
+omp.marketing.nubank.com.br
 omtr-mps01.blog.nubank.com.br
 ord-full-gw.blog.nubank.com.br
 ossswebcs4.blog.nubank.com.br
@@ -529,17 +539,23 @@ prod-customers.nubank.com.br
 prod-erporigin.blog.nubank.com.br
 prod-fastly-ap-northeast-1.blog.nubank.com.br
 prod-global-auth.nubank.com.br
+prod-s0-feed.nubank.com.br
+prod-s1-billing.nubank.com.br
 prod-s1-feed.nubank.com.br
+prod-s1-shore.nubank.com.br
 prod-s15-customers.blog.nubank.com.br
 prod-s15-piv.blog.nubank.com.br
 prod-s2-feed.nubank.com.br
 prod-s2-sendman.nubank.com.br
+prod-s3-sendman.nubank.com.br
+prod-s5-geo.nubank.com.br
 prodarscentro.blog.nubank.com.br
 prodschn.blog.nubank.com.br
 prodv2container-corporate.blog.nubank.com.br
 prodvipv4minerva.blog.nubank.com.br
 psr-ui.blog.nubank.com.br
 pub-api-chat.blog.nubank.com.br
+pypi.nubank.com.br
 radius.nubank.com.br
 rap-mr11.blog.nubank.com.br
 rcx-yd-asa-1.blog.nubank.com.br
@@ -587,6 +603,7 @@ secure-east-stage-e.blog.nubank.com.br
 sendgrid.nubank.com.br
 sens.blog.nubank.com.br
 sentry-stage.blog.nubank.com.br
+server-99-84-104-46.blog.nubank.com.br
 servicesps.blog.nubank.com.br
 sg11sa-x03.blog.nubank.com.br
 shaahab.blog.nubank.com.br
@@ -701,6 +718,7 @@ tor398-472-grc.blog.nubank.com.br
 tor422-510-pda.blog.nubank.com.br
 tor58-137-pdc.blog.nubank.com.br
 tor59-61-pda.blog.nubank.com.br
+tor6-36-pda.blog.nubank.com.br
 tor66-82-pdd.blog.nubank.com.br
 tor76-86-pda.blog.nubank.com.br
 tor76-92-pdd.blog.nubank.com.br
@@ -718,6 +736,7 @@ tudo.blog.nubank.com.br
 tunnel-develip-git.blog.nubank.com.br
 uklon5-corpclient-vpn1.blog.nubank.com.br
 uncover-api-dev.blog.nubank.com.br
+uncover-blogilates2.brand.nubank.com.br
 uncover-cloudfront.blog.nubank.com.br
 uncover-epargne.blog.nubank.com.br
 uncoverlf.blog.nubank.com.br
@@ -809,6 +828,8 @@ yuanjiang.blog.nubank.com.br
 zendesk1.nubank.com.br
 zendesk2.nubank.com.br
 zendesk3.nubank.com.br
+zendesk4.nubank.com.br
+zta.nubank.com.br
 1mn2.blog.nubank.com.br
 7wj9y.blog.nubank.com.br
 17-121-112-64.blog.nubank.com.br

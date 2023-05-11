@@ -24,6 +24,7 @@ conta.nubank.com.br
 content.nubank.com.br
 conteudo.blog.nubank.com.br
 conteudo.lojinha.nubank.com.br
+denunciargolpes.nubank.com.br
 docs.share.nubank.com.br
 edgecomb-zendesk-staging.nubank.com.br
 email.building.nubank.com.br
