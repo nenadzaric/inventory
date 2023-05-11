@@ -1,0 +1,8 @@
+api.elo.com.br
+cloud.mail.elo.com.br
+elo.com.br
+gtm.elo.com.br
+mail.elo.com.br
+mta2.mail.elo.com.br
+preview.gtm.elo.com.br
+www.eloviagens.elo.com.br

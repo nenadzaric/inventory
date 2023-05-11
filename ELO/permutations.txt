@@ -1,0 +1,10 @@
+api.elo.com.br
+cloud.mail.elo.com.br
+cms.elo.com.br
+dev-api.elo.com.br
+dev.elo.com.br
+elo.com.br
+mail.elo.com.br
+origin.elo.com.br
+qa.elo.com.br
+www.elo.com.br
