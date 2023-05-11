@@ -1,0 +1,17 @@
+admin.wickr.com
+amazon.wickr.com
+enterprise.wickr.com
+fedramp.wickr.com
+finra.wickr.com
+gw-me-prod.wickr.com
+gw-pro-prod.wickr.com
+logs.wickr.com
+messaging-me-prod.wickr.com
+niap.wickr.com
+preprod-amazon.wickr.com
+register.wickr.com
+status.wickr.com
+support.wickr.com
+testing-amazon.wickr.com
+wickr.com
+www.wickr.com
