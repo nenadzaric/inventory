@@ -21,11 +21,13 @@ eos.conclusion.nl
 forward.conclusion.nl
 ftp.conclusion.nl
 imap.conclusion.nl
+inchecken.conclusion.nl
 intranet.conclusion.nl
 learningsupport.conclusion.nl
 legal.conclusion.nl
 lyncdiscover.conclusion.nl
 mail2.conclusion.nl
+medialand.conclusion.nl
 music.conclusion.nl
 my.conclusion.nl
 nike.conclusion.nl
@@ -38,6 +40,7 @@ pm-bounces.conclusion.nl
 pme.conclusion.nl
 sdl.conclusion.nl
 selfservice.conclusion.nl
+selfservicetest.conclusion.nl
 sharepoint.conclusion.nl
 sip.conclusion.nl
 smtp1.conclusion.nl
@@ -49,6 +52,7 @@ syd.conclusion.nl
 tms.conclusion.nl
 voiceconnect.conclusion.nl
 vpn.conclusion.nl
+vpn1.conclusion.nl
 webconf.conclusion.nl
 webmail.conclusion.nl
 werkenbij.conclusion.nl
