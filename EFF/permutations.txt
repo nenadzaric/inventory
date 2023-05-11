@@ -1,0 +1,13 @@
+eff.org
+mta-sts.alpha.eff.org
+mta-sts.eff.org
+mysql.beta.eff.org
+oauth2.alpha.eff.org
+shop.beta.eff.org
+staging.do-cluster.eff.org
+us-west-2.beta.eff.org
+v2.alpha.eff.org
+v2.staging.eff.org
+vpn.eff.org
+wp.staging.eff.org
+www.eff.org
