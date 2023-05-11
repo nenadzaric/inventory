@@ -1,0 +1,11 @@
+alpha.yellow.org
+awesometest.yellow.org
+docs.yellow.org
+forms.yellow.org
+poc.yellow.org
+testnet.yellow.org
+uat-y1337c0k.yellow.org
+www.awesometest.yellow.org
+www.pages.co.ilwww.yellow.org
+www.yellow.org
+yellow.org
