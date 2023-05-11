@@ -1,0 +1,5 @@
+api.narkasa.com
+apidocs.narkasa.com
+core.narkasa.com
+narkasa.com
+www.narkasa.com
