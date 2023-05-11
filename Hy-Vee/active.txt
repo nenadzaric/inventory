@@ -65,9 +65,12 @@ util.hy-vee.com
 videos.hy-vee.com
 vlockermgmt.hy-vee.com
 vpn.hy-vee.com
+weakpic.seasons.hy-vee.com
 webchat.hy-vee.com
+welcometmh.hy-vee.com
 westvoicemail.storecharge.hy-vee.com
 whatsapp-chatd-igd-p42-edge-shv-01-frt3.hy-vee.com
+whatsapp-chatd-msgr-mini-edge-shv-01-bom1.hy-vee.com
 work-39113919.hy-vee.com
 www.celebrate.hy-vee.com
 www.hy-vee.com
