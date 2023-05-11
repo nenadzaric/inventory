@@ -1,0 +1,14 @@
+api.flatfile-2.clickup.com
+api.web.clickup.com
+app.flatfile-2.clickup.com
+blog.clickup.com
+clickup.com
+content.webproduct.clickup.com
+data.webproduct.clickup.com
+dev-api.clickup.com
+dev-forms-cdn.clickup.com
+dev-oauth.clickup.com
+docs.clickup.com
+oauth.clickup.com
+staging.clickup.com
+www.clickup.com
