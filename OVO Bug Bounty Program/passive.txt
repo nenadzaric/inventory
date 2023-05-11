@@ -31,6 +31,7 @@ corp.aws.ovo.id
 cp1.ovo.id
 cp3.ovo.id
 cp6.ovo.id
+cp6.taralite.com
 cybvpn20.ovo.id
 daftar-merchant.ovo.id
 dashboard.ovo.id

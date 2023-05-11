@@ -9,12 +9,14 @@ api.cp1.ovo.id
 api.cp6.ovo.id
 api.ovo.id
 api.taralite.com
+api01.ovo.id
 apigw.ovo.id
 apigw01.aws.ovo.id
 apigw01.cp1.ovo.id
 app-dev.ovo.id
 application.taralite.com
 apply.taralite.com
+asset.ovo.id
 atlantis.taralite.com
 bastion.ovo.id
 bastion.taralite.com
@@ -22,6 +24,7 @@ bifrost.aws.ovo.id
 billpay.ovo.id
 bugbounty.ovo.id
 business.ovo.id
+cb.ovo.id
 cdn01.ovo.id
 commander.ovo.id
 consul01.aws.ovo.id
@@ -36,12 +39,16 @@ developers.taralite.com
 digisign.taralite.com
 dnstest.cp1.ovo.id
 esb.ovo.id
+finserve.ovo.id
+foreman.ovo.id
 funding.taralite.com
 gateway.taralite.com
+go.ovo.id
 grafana.aws.ovo.id
 grafana.ovo.id
 grafana.taralite.com
 graylog.ovo.id
+gtnvpn21.ovo.id
 helpcenter.ovo.id
 hermes.taralite.com
 images.ovo.id
@@ -77,6 +84,7 @@ pos.ovo.id
 postcode.taralite.com
 prod-web.taralite.com
 prometheus.ovo.id
+prometheus.taralite.com
 risk-grwap.cp6.ovo.id
 risk-ui.aws.ovo.id
 risk-ui.cp6.ovo.id
