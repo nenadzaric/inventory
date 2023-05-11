@@ -1,0 +1,5 @@
+aws.zaproxy.org
+cfu.zaproxy.org
+news.zaproxy.org
+www.zaproxy.org
+zaproxy.org
