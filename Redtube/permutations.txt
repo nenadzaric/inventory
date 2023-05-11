@@ -1,6 +1,8 @@
 ads03payment.redtube.com
 api.redtube.com
+bembed-service.redtube.com
 bembed.core.redtube.com
+bembed2020.redtube.com
 blog.redtube.com
 blogo1.redtube.com
 cms.redtube.com
@@ -11,8 +13,10 @@ jp-stage.redtube.com
 redtube.com
 ru-stage.redtube.com
 stage-cms.redtube.com
+stage-feeds.redtube.com
 stage.blog.redtube.com
 stage.cms.redtube.com
 stage.redtube.com
+staticcdn.redtube.com
 www-stage.redtube.com
 www.redtube.com
