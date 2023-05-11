@@ -171,6 +171,7 @@ dominos.my.onetrust.com
 dpd-paris2.my.onetrust.com
 drmartens-privacy.my.onetrust.com
 dropps-privacy.my.onetrust.com
+dxctechnology.my.onetrust.com
 ebooks.onetrust.com
 echelonfit-privacy.my.onetrust.com
 edreamsodigeo-privacy.my.onetrust.com
@@ -215,6 +216,7 @@ goodworldwide-requests.my.onetrust.com
 grafite-privacidade.my.onetrust.com
 grafite.my.onetrust.com
 greatclips-privacy.my.onetrust.com
+greenlocal.my.onetrust.com
 grupodva-privacy.my.onetrust.com
 grupognc-privacy.my.onetrust.com
 grupointegracao-privacidade.my.onetrust.com
@@ -345,6 +347,7 @@ omnicom-privacy-cdn.my.onetrust.com
 omnicom-privacy.my.onetrust.com
 omnicom.my.onetrust.com
 one-privacy.my.onetrust.com
+oneaccess-dev.corp.onetrust.com
 onetrust-boehringer-ingelheim-com-privacy.my.onetrust.com
 onetrust-boehringer-ingelheim-com.my.onetrust.com
 onetrust-uat-boehringer-ingelheim-com-privacy.my.onetrust.com
@@ -559,12 +562,14 @@ www.cgd.my.onetrust.com
 www.directv.my.onetrust.com
 www.docs.onetrust.com
 www.fpc.onetrust.com
+www.greenlocal.my.onetrust.com
 www.highmark.my.onetrust.com
 www.info.onetrust.com
 www.live.jp.onetrust.com
 www.mvw-global-privacy.my.onetrust.com
 www.my.onetrust.com
 www.nexus.onetrust.com
+www.omnicom.my.onetrust.com
 www.onetrust.com
 www.privacypedia.onetrust.com
 www.prudential.my.onetrust.com

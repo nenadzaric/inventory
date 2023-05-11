@@ -1,3 +1,4 @@
+app-eu2.onetrust.com
 app.elq.onetrust.com
 app.my.onetrust.com
 app.onetrust.com
@@ -7,6 +8,10 @@ cms.my.onetrust.com
 developer.onetrust.com
 info.onetrust.com
 media.my.onetrust.com
+my.onetrust.com
 onetrust.com
+qa.my.onetrust.com
 test.my.onetrust.com
 web.onetrust.com
+www.onetrust.com
+www.status-qa.onetrust.com
