@@ -1,4 +1,6 @@
 api.strongdm.com
+api.us-east-2.strongdm.com
+api.us-west-2.strongdm.com
 app.strongdm.com
 app.us-east-2.strongdm.com
 app.us-west-2.strongdm.com
