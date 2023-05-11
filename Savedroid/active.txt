@@ -2,5 +2,6 @@ api.savedroid.com
 autodiscover.savedroid.com
 crypto.savedroid.com
 ico.savedroid.com
+msoid.savedroid.com
 savedroid.com
 www.savedroid.com
