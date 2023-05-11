@@ -7,4 +7,5 @@ muuselabs.com
 my.jooki.rocks
 my.muuselabs.com
 s3.muuselabs.com
+www.jooki.rocks
 www.muuselabs.com
