@@ -1,0 +1,16 @@
+api.newstate.pubg.com
+api.pubg.com
+careers.pubg.com
+content.pubg.com
+dev.pubgesports.com
+developer.pubg.com
+pubg.com
+pubgesports.com
+qa.pubgesports.com
+stage.newstate.pubg.com
+stage.pubgesports.com
+tech.pubg.com
+wp.pubgesports.com
+www.battlegrounds.pubg.com
+www.pubg.com
+www.pubgesports.com
