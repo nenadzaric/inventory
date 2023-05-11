@@ -7,7 +7,9 @@ cyberghost.com
 cyberghostvpn.com
 dev-api.cyberghostvpn.com
 my.cyberghostvpn.com
+payment-adminv2.cyberghostvpn.com
 payment.cyberghostvpn.com
+staging-adminv2.cyberghostvpn.com
 staging-api.cyberghostvpn.com
 v2-api.cyberghostvpn.com
 www.cyberghostvpn.com
