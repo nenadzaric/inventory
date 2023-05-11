@@ -3,6 +3,7 @@ api.fs.trint.com
 api.trint.com
 app.eu.trint.com
 app.trint.com
+assets.fs.trint.com
 beta-api.trint.com
 beta.eu.trint.com
 beta.trint.com
@@ -10,6 +11,7 @@ blog.trint.com
 cdn.fs.trint.com
 cloud.fs.trint.com
 core-api.trint.com
+dev.trint.com
 info.trint.com
 legacy.eu.trint.com
 legacy.trint.com
