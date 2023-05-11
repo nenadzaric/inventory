@@ -2,6 +2,7 @@ access.standard.com
 accesstest.standard.com
 account.standard.com
 accountacc.standard.com
+accportalweb.standard.com
 acp.standard.com
 api.dcx.standard.com
 api.edp.standard.com
@@ -16,6 +17,7 @@ cm.standard.com
 connect.standard.com
 connect2.standard.com
 connection.standard.com
+demo-api.dcx.standard.com
 demo-spa.dcx.standard.com
 demo.standard.com
 demosys.standard.com
@@ -68,12 +70,18 @@ the.standard.com
 uat-api.pas.standard.com
 video.standard.com
 view.message.standard.com
+wa1.accportalweb.standard.com
 wa1.www3.standard.com
+wa2.accportalweb.standard.com
 wa2.www3.standard.com
+wa3.accportalweb.standard.com
 wa3.www3.standard.com
+wa4.accportalweb.standard.com
 wa4.www3.standard.com
 wa5.www3.standard.com
+webdrop.absencereports.standard.com
 workspace.standard.com
+www.accportalweb.standard.com
 www.standard.com
 www.www3.standard.com
 www3.standard.com
