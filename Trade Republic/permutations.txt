@@ -1,0 +1,9 @@
+api.traderepublic.com
+app.traderepublic.com
+beta.app.traderepublic.com
+core-info.traderepublic.com
+engineering.traderepublic.com
+id.corp.traderepublic.com
+info.traderepublic.com
+traderepublic.com
+www.traderepublic.com
