@@ -1,2 +1,12 @@
+affiliatewp.kartpay.com
+cdn-help.kartpay.com
+drupal.bigbuys.kartpay.com
+forum-arimo.kartpay.com
+gitmanager.kartpay.com
+ipcorp.kartpay.com
 kartpay.com
+king.dmz.kartpay.com
+legacy-linode.kartpay.com
 mysql-artizanstore.kartpay.com
+www1-live.kartpay.com
+42410.kartpay.com
