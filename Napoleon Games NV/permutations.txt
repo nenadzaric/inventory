@@ -1,4 +1,5 @@
 api.int.napoleongames.be
+api.napoleongames.be
 cdn.int.napoleongames.be
 content.napoleongames.be
 crmapi-test.napoleongames.be
@@ -10,5 +11,7 @@ o1.newsletter.napoleongames.be
 promo-api.napoleongames.be
 qa.web.napoleongames.be
 selligent-prod.napoleongames.be
+stage.web.napoleongames.be
+staging.lp.napoleongames.be
 www.napoleongames.be
 www.sports.napoleongames.be
