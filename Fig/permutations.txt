@@ -1,0 +1,4 @@
+blog.fig.co
+fig.co
+staging.fig.co
+www.fig.co
