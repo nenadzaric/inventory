@@ -1,0 +1,14 @@
+aisp-staging.tech26.de
+api.tech26.de
+beta-api.tech26.de
+cloud.us-email.n26.com
+data.tech26.de
+docs.n26.com
+image.email.n26.com
+image.us-email.n26.com
+internal-api.tech26.de
+mail.n26.com
+my-mag-es.n26.com
+n26.com
+tech26.de
+www.n26.com
