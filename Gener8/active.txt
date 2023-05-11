@@ -1,0 +1,13 @@
+alertmanager.gener8ads.com
+apollo.gener8ads.com
+assets.gener8ads.com
+cluster.gener8ads.com
+downloads.gener8ads.com
+echo.gener8ads.com
+gener8ads.com
+help.gener8ads.com
+marketing-content.gener8ads.com
+pioneer.gener8ads.com
+prometheus.gener8ads.com
+tabs.gener8ads.com
+web-ui.gener8ads.com
