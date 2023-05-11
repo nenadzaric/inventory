@@ -1,0 +1,11 @@
+accounts-api.lcx.com
+admin.lcx.com
+careers.lcx.com
+defi-api.lcx.com
+exchange-api.lcx.com
+lcx.com
+mm-api.lcx.com
+mm2.lcx.com
+mm3.lcx.com
+shop.lcx.com
+www.lcx.com
