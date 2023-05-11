@@ -51,6 +51,7 @@ construcard.elo.com.br
 convenia.elo.com.br
 copimar.elo.com.br
 corporativobradesco.elo.com.br
+crivo.elo.com.br
 debezium-kafka-qrcode-consumer-service.elo.com.br
 debezium-kafka-qrcode-producer-service.elo.com.br
 desenv.elo.com.br
@@ -175,6 +176,8 @@ loki-nprd-api.elo.com.br
 loki-nprd-lyra.elo.com.br
 loki-prd-api.elo.com.br
 loki-tokenization-dev.elo.com.br
+mail.elo.com.br
+manager.fortify.elo.com.br
 mb1.elo.com.br
 mb2.elo.com.br
 mb3.elo.com.br
@@ -182,12 +185,17 @@ mb5.elo.com.br
 media.elo.com.br
 mediab2b-dev.elo.com.br
 mediab2b-hml.elo.com.br
+mediab2b-prd.elo.com.br
 meu.elo.com.br
 meu2.elo.com.br
 milenarte.elo.com.br
 monitoria.elo.com.br
 monitoriaonline.elo.com.br
 mrtg.elo.com.br
+mta.elo.com.br
+mta.mail.elo.com.br
+mta2.mail.elo.com.br
+mta3.mail.elo.com.br
 mtw8wyh3.elo.com.br
 mx.elo.com.br
 netpoint.elo.com.br
@@ -213,6 +221,7 @@ pop-3.elo.com.br
 portal.elo.com.br
 portalb2b-dev.elo.com.br
 portalb2b-hml.elo.com.br
+portalb2b-prd.elo.com.br
 pppc129.elo.com.br
 pppc135.elo.com.br
 pppc153.elo.com.br
@@ -244,6 +253,7 @@ rabbitmq-emissaolite-prd.elo.com.br
 rabbitmq-hml-api.elo.com.br
 rabbitmq-linkedoffers-hml.elo.com.br
 rabbitmq-tokenization-dev.elo.com.br
+radar-arquitetura.elo.com.br
 refrima.elo.com.br
 remoteaccess.elo.com.br
 saaecaxias.elo.com.br
