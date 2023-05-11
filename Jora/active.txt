@@ -33,6 +33,8 @@ events.jora.com
 fh7txg.algerie.jora.com
 firefly.jora.com
 fr.jora.com
+ge-2-0-1.jora.com
+global-lb.jora.com
 hk.jora.com
 https-universal-teachme-com25.jora.com
 id.jora.com
@@ -53,8 +55,10 @@ ma.jora.com
 mm.jora.com
 mx.jora.com
 my.jora.com
+myattp2w87.jora.com
 mysqllogsauth.employer.jora.com
 nz.jora.com
+ofertas-trabajo.pt.jora.com
 partner-feeds.jora.com
 pe.jora.com
 ph.jora.com
