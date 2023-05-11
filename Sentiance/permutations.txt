@@ -1,0 +1,10 @@
+api.h11.sentiance.com
+api.p9.sentiance.com
+api.sentiance.com
+developer.sentiance.com
+developers.sentiance.com
+docs.sentiance.com
+sentiance.com
+www.sentiance.com
+www.staging3.sentiance.com
+www2.announcements.sentiance.com
