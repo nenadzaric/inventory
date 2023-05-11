@@ -11,8 +11,11 @@ casper.com
 casper.tools
 click.mail.casper.com
 config.casper.tools
+consent.casper.com
 dev.casper.com
+dm02dbadm01-ilom.duo-sandbox.casper.tools
 docs.casper.tools
+drknbuell.casper.tools
 e0b5.casper.tools
 edge.casper.tools
 email.casper.com
@@ -20,7 +23,11 @@ enterpriseenrollment.casper.com
 enterpriseregistration.casper.com
 gcpcustomers-db1-logsauth-mirror-my-oceania.jupyter.casper.tools
 gpmstip-dr.casper.com
+gsxapi2-new-tmp-prn.casper.tools
+h-135-197-231-5.casper.tools
+h-135-207-178-22.duo-sandbox.casper.tools
 help.casper.com
+host-214-18-230-30.casper.tools
 image.mail.casper.com
 internal-mulesoft.casper.com
 ipv4-c004-sjc004-dev-ix.casper.tools
@@ -48,6 +55,7 @@ refer.casper.com
 research.casper.com
 reststop.casper.com
 rts.casper.tools
+service7-dhe.jupyterhub.casper.tools
 sftp.casper.tools
 spa.casper.com
 staging.casper.com
@@ -66,3 +74,4 @@ wrair-141-236-194-59.casper.com
 www.casper.com
 www6b.config.casper.tools
 1pass-scim.casper.tools
+155-9-187-6.duo-sandbox.casper.tools
