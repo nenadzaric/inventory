@@ -115,6 +115,7 @@ ru.easyprojects.net
 sesciences.go.easyprojects.net
 shadowinvestigationsltd.go.easyprojects.net
 sklepyviola.go.easyprojects.net
+spraynet.go.easyprojects.net
 stage.easyprojects.net
 staging.easyprojects.net
 static.go.easyprojects.net

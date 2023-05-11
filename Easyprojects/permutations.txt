@@ -1,7 +1,14 @@
 api.easyprojects.net
 blog.easyprojects.net
+cloud.staging.easyprojects.net
 easyprojects.net
+internal.staging.easyprojects.net
+ldap.go.easyprojects.net
+local.go.easyprojects.net
 mail.easyprojects.net
+oauth.go.easyprojects.net
+raw.staging.easyprojects.net
+role.go.easyprojects.net
 stage.easyprojects.net
 www.api.easyprojects.net
 www.easyprojects.net
