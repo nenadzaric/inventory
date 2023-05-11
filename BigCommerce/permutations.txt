@@ -1,4 +1,5 @@
 api.bigcommerce.com
+atlantis.corp.bigcommerce.net
 bigcommerce.com
 bigcommerce.net
 careers.bigcommerce.com
