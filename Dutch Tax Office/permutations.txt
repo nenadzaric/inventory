@@ -1,0 +1,10 @@
+api.belastingdienst.nl
+belastingdienst.nl
+beta.belastingdienst.nl
+mail.bapi.belastingdienst.nl
+mail.bapicft.belastingdienst.nl
+mta-sts.belastingdienst.nl
+proxy.socint.belastingdienst.nl
+stats.belastingdienst.nl
+www.belastingdienst.nl
+www.werken.belastingdienst.nl
