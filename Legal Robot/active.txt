@@ -1,0 +1,12 @@
+avatar.legalrobot-test.com
+bw.legalrobot.com
+files.legalrobot-test.com
+files.legalrobot.com
+fonts.legalrobot.com
+legalrobot-test.com
+legalrobot.com
+mail.legalrobot.com
+s.legalrobot.com
+scan.legalrobot-test.com
+static.legalrobot-test.com
+www.legalrobot.com
