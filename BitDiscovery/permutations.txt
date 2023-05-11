@@ -1,6 +1,14 @@
+backend.staging.bitdiscovery.com
 bitdiscovery.com
 blog.bitdiscovery.com
+blogs.staging.bitdiscovery.com
+db.stage2.bitdiscovery.com
 dev.bitdiscovery.com
 lab.live.bitdiscovery.com
+mysql-synopsys.bitdiscovery.com
+oauth.stage2.bitdiscovery.com
+oauth2.staging.bitdiscovery.com
+prometheus.staging.bitdiscovery.com
 tech.live.bitdiscovery.com
+us-east-2.stage2.bitdiscovery.com
 www.bitdiscovery.com
