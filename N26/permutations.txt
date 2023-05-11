@@ -1,5 +1,6 @@
 aisp-staging.tech26.de
 api.tech26.de
+app.n26.com
 beta-api.tech26.de
 cloud.us-email.n26.com
 data.tech26.de

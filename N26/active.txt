@@ -12,6 +12,7 @@ cbs.tech26.de
 cc.tech26.de
 ch.tech26.de
 click.email.n26.com
+click.us-email.n26.com
 cloud.us-email.n26.com
 cmd.tech26.de
 cobalt.tech26.de
@@ -26,6 +27,7 @@ esign-staging.tech26.de
 fpt.n26.com
 fpt.tech26.de
 get.n26.com
+harrison.vsaq.tech26.de
 houston.tech26.de
 image.email.n26.com
 image.us-email.n26.com
@@ -47,6 +49,7 @@ mta.us-email.n26.com
 my.n26.com
 my26.mag-fr.n26.com
 n26.com
+n26uk.tz2-mambu-preproduction-uk.tech26.de
 n26uk.tz2-mambu-sandbox-uk.tech26.de
 n26uk.tz2-mambu-uk.tech26.de
 neon.tech26.de
@@ -69,6 +72,7 @@ research.tech26.de
 sapi.tech26.de
 saving.tech26.de
 sc-collector.tech26.de
+scc.tech26.de
 sch.tech26.de
 spc.n26.com
 stats-dns.tech26.de
@@ -77,6 +81,7 @@ support.n26.com
 tantalum.tech26.de
 tech26.de
 temp-artemusicayespectaculo.xs2a.tech26.de
+todaytip.tech26.de
 tpp.tech26.de
 tps.tech26.de
 translator.tech26.de
@@ -88,12 +93,14 @@ us-email.n26.com
 vault.tech26.de
 view.email.n26.com
 view.us-email.n26.com
+vsaq.tech26.de
 vsaqlight.tech26.de
 wa-sdsmt.mag-es.n26.com
 warsaw.tech26.de
 wc-api-lb02.xs2a.tech26.de
 web2052.tech26.de
 web735.tech26.de
+webconfwww.vsaq.tech26.de
 wikilabs-develip-git.api.tech26.de
 wk249-91.mag-it.n26.com
 work-48391221.n26.com
