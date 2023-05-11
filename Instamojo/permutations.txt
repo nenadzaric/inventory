@@ -1,0 +1,17 @@
+admin.instamojo.com
+api.instamojo.com
+apidocs.instamojo.com
+app.instamojo.com
+blog.instamojo.com
+developers.instamojo.com
+footprints-staging.instamojo.com
+gateway-admin-staging.instamojo.com
+gateway-api-staging.instamojo.com
+instamojo.com
+mail.instamojo.com
+media.instamojo.com
+partner.instamojo.com
+staging.instamojo.com
+test.instamojo.com
+www.instamojo.com
+www2.instamojo.com
