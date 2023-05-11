@@ -1,3 +1,4 @@
+account-stage.ubnt.com
 admin.sec.miui.com
 administrator.go.ubnt.com
 api.dev-go.ubnt.com
@@ -6,6 +7,7 @@ api.ubnt.com
 app.miui.com
 atlas.ui.com
 beta.unifi.ui.com
+blog.dev-go.ubnt.com
 blog.go.ubnt.com
 blog.ubnt.com
 blog.ui.com
@@ -28,6 +30,7 @@ dev.store.ui.com
 dev.ubnt.com
 dev.ui.com
 dev.unifi.ubnt.com
+dl-origin.ubnt.com
 docs.ubnt.com
 drupal.go.ubnt.com
 faq.svc.ui.com
@@ -51,11 +54,13 @@ monitor.stg.ui.com
 monitor.ui.com
 origin.go.ubnt.com
 origin.ui.com
+pay.dev-go.ubnt.com
 private.ui.com
 prod.ui.com
 proxy.sec.miui.com
 server.ui.com
 service.miui.com
+staging.dev-go.ubnt.com
 stats.miui.com
 stats.ui.com
 tech.ui.com
@@ -66,6 +71,7 @@ ui.com
 unifi-access.ui.com
 unifi-stage.ubnt.com
 unifi.dev.ui.com
+us-east-1.go.ubnt.com
 vpn.corp.ubnt.com
 vpn.go.ubnt.com
 vpn.svc.ubnt.com
