@@ -1,4 +1,5 @@
 api.oneplus.cn
+api.oneplus.net
 api.oneplusbbs.com
 blog.oneplus.com
 cloud.h2os.com
@@ -21,6 +22,7 @@ oxygenos.com
 pay.oneplus.com
 search.oneplus.cn
 search.oneplus.com
+service.oneplus.cn
 storage.oneplus.cn
 www.h2os.com
 www.oneplus.cn

@@ -12,6 +12,7 @@ aftersales.oneplus.com
 analytics.oneplus.cn
 api.oneplus.cn
 api.oneplus.net
+api.oneplusbbs.com
 api1.oneplus.cn
 app-category-api.1plus.io
 app-category-sync.1plus.io
@@ -36,6 +37,7 @@ bvsgetterhm3pg8nn4043j6g0.r0.rulegodosoft.sinba-bvs1hmscmpg8nn404scmj6g0.oneplus
 career.oneplus.cn
 cf-cdn.1plus.io
 cf.1plus.io
+chat-cname.oneplus.cn
 cheers.oneplus.cn
 cheers.test1.oneplus.cn
 click.oneplus.cn
@@ -46,6 +48,7 @@ click1.oneplus.net
 click2.oneplus.cn
 click2.oneplus.net
 clip-onelab.1plus.io
+cloud-cname.oneplus.cn
 cloud.h2os.com
 cloud.oneplus.com
 cloud.oneplus.in
@@ -98,6 +101,7 @@ gaudi.oneplus.com
 go.oneplus.com
 google.com-junsms-test-com-june-umj.combucknortheast-bucket.oneplusbbs.com
 google.com-scheduledtasks.signed.apiaccountingwwwengine.blog.c.onepluscorp.cn
+gsp.oneplus.cn
 gsp.oneplus.net
 guide.oneplus.com
 gupshup.1plus.io
@@ -113,6 +117,7 @@ image01-in.oneplus.net
 image01.oneplus.cn
 image01.oneplus.net
 imagegray.oneplus.cn
+imagegray.oneplus.net
 images02.wire.communitj4rwww-de.emailg.onepluscorp.cn
 imap.oneplus.cn
 infield.oneplus.net
@@ -198,6 +203,7 @@ opengtest15.test.oneplus.cn
 orms.oneplus.net
 ormsapi.oneplus.net
 os-thirdapi.oneplus.in
+osx.oneplus.cn
 otaafsc-cost.h2os.com
 otaafsg-cost.h2os.com
 otac.h2os.com
@@ -232,6 +238,7 @@ pr.oneplus.cn
 pr.oneplus.com
 preview.corp.oneplus.in
 pwsco.h2os.com
+rdns.oneplus.net
 rdns2-zstest-repayacbusive-finion-8.43210zyxwvutsrq.service.now.comjsjfeel.ader.h2os.com
 replyapi.oneplusbbs.com
 restes.mosu.oneplus.cn
@@ -260,6 +267,7 @@ servifyuat.oneplus.in
 sgtm-in.oneplus.in
 sgtm-na.oneplus.com
 shotimage.oneplus.net
+shoton.oneplus.net
 shotonimage.oneplus.net
 sl2.wire.community-lun-ftn9eadmt1-pareaallet-8ty.h2os.com
 smartacademy.oneplus.net
@@ -294,6 +302,7 @@ test-zen.1plus.io
 testvpn.oneplus.cn
 thedrop.oneplus.com
 tian2.wire.comm.2.oneplusbbs.com
+tiopewrophoaw.oneplus.cn
 trade-in.oneplus.com
 training.oneplus.cn
 training.oneplus.net
@@ -603,6 +612,7 @@ ytcos.now.com.ppccgo9.sweb96staging.cn.grc1000-taxcaipiao.h2os.com
 ytcos.r0.ruleus-east-2.prod.amux.support.awjuniper.joey.h2os.com
 yun.test.oneplus.cn
 zen-room.1plus.io
+zen.1plus.io
 1-nginx-poland-mof-kubectl-2comapril.oneplusbbs.com
 1plus.io
 1ppcctimes.oneplusbbs.com
