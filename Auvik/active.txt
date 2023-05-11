@@ -400,6 +400,7 @@ appsgit.stage.auvik.com
 appstore-upgrade.stage.auvik.com
 aprendiendo.stage.auvik.com
 aps-stage.stage.auvik.com
+apt.my.auvik.com
 apt.stage.auvik.com
 aquaalt.stage.auvik.com
 arccos.stage.auvik.com
@@ -518,6 +519,7 @@ attc.stage.auvik.com
 attnaeastpx4.stage.auvik.com
 attnaeasttcs2.stage.auvik.com
 attnawestpx33.stage.auvik.com
+au1.my.auvik.com
 audio-manager.stage.auvik.com
 auenclave.stage.auvik.com
 auk9.stage.auvik.com
@@ -535,6 +537,7 @@ auth-miembros-tunnel-mx.stage.auvik.com
 auth-monitor-cmsdb1-origin.stage.auvik.com
 auth-new-training.stage.auvik.com
 auth-private-previewjiratunnel-mx.stage.auvik.com
+auth-sandbox.dev.auvik.com
 auth-statauth-mirror-my-oceania.stage.auvik.com
 auth-system-confluencebetav1-confluence-repositoryerpalt.stage.auvik.com
 auth-video-ftpmirror-my-oceania.stage.auvik.com
@@ -647,6 +650,7 @@ bas4-1-edg.stage.auvik.com
 bas4-4-sta.stage.auvik.com
 bas8-1-gq1.stage.auvik.com
 bas8-2-con.stage.auvik.com
+bastion.daily.auvik.com
 batdongsan.stage.auvik.com
 bc0-3-5-7.stage.auvik.com
 bc1qr39.stage.auvik.com
@@ -1030,6 +1034,7 @@ cache-upgradelabs-develip-git.stage.auvik.com
 cache-videonew-oceania.stage.auvik.com
 cache-west.stage.auvik.com
 cache-www.stage.auvik.com
+cache3-outside-a.daily.auvik.com
 cacheaccessgateway-67-62.stage.auvik.com
 cacheaiyokuseiyoku.stage.auvik.com
 cachealpha-portal.stage.auvik.com
@@ -1317,6 +1322,7 @@ confluence-cachedomain.stage.auvik.com
 confluence-cloudstart-clients.stage.auvik.com
 confluence-data-stagingdefaultproduction.stage.auvik.com
 confluence-development.stage.auvik.com
+confluence-docusign.daily.auvik.com
 confluence-liveaccept-domain.stage.auvik.com
 confluence-proddownloadstoragemx.stage.auvik.com
 confluence-repositoryerpalt.stage.auvik.com
@@ -1455,6 +1461,7 @@ cyanidation.stage.auvik.com
 cycletowork.stage.auvik.com
 cyclops-staging.stage.auvik.com
 d-card.stage.auvik.com
+d.daily.auvik.com
 d03xhttp110y.stage.auvik.com
 d03xproxy107y.stage.auvik.com
 d04xnd02.stage.auvik.com
@@ -1465,6 +1472,7 @@ d1.stage.auvik.com
 d2-spint.stage.auvik.com
 d23smtp1.stage.auvik.com
 d3-pmgt.stage.auvik.com
+d34zsfgmefzmvn.daily.auvik.com
 d6ocem01vo.stage.auvik.com
 daemon.stage.auvik.com
 daf-internal.stage.auvik.com
@@ -1657,6 +1665,7 @@ demointernal-slave.stage.auvik.com
 demolabs.stage.auvik.com
 demome.stage.auvik.com
 demomy.stage.auvik.com
+demosystem-minerva-clients-stats-corp.stage.auvik.com
 demoupdate-oceania-mx.stage.auvik.com
 demoupdatecustomersmiembros.stage.auvik.com
 demov3-connect-accept-archivecorp.stage.auvik.com
@@ -1824,6 +1833,7 @@ dss-db-vm2.stage.auvik.com
 dssqa2-m.stage.auvik.com
 dssqa5-m.stage.auvik.com
 dt-twc-serv.stage.auvik.com
+dtserv1.my.auvik.com
 duch.stage.auvik.com
 dummy-227-81.stage.auvik.com
 duo.stage.auvik.com
@@ -1855,6 +1865,7 @@ edge-cg-rtc-shv-02-hkg4.stage.auvik.com
 edge-fwdproxy-5-bgp-01-bru2.stage.auvik.com
 edge-fwdproxy-5-bgp-01-lhr8.stage.auvik.com
 edge-mcdn.stage.auvik.com
+edge-mqtt-latest-shv-01-fco2.stage.auvik.com
 edge2.stage.auvik.com
 edge31.stage.auvik.com
 edgeproxy-irl1.stage.auvik.com
@@ -2058,6 +2069,7 @@ eu-west-1.stage.auvik.com
 eu.stage.auvik.com
 eu0.stage.auvik.com
 eu1.my.auvik.com
+eu2.my.auvik.com
 eucontroller-sql.stage.auvik.com
 eugauthor.stage.auvik.com
 eugenyshultz.stage.auvik.com
@@ -3003,6 +3015,7 @@ imgcrm-dns.stage.auvik.com
 imgshare.stage.auvik.com
 impelsys.stage.auvik.com
 imperialities.stage.auvik.com
+impops-po-01.stage.auvik.com
 in-7.stage.auvik.com
 in-d2s.stage.auvik.com
 in-ghae-b.stage.auvik.com
@@ -3366,6 +3379,7 @@ ksyun-live.stage.auvik.com
 kuleuven.stage.auvik.com
 kuma.stage.auvik.com
 kuntoutusta.stage.auvik.com
+kurosemc.stage.auvik.com
 kxtlavle2z.stage.auvik.com
 kywd.stage.auvik.com
 la-vpn.stage.auvik.com
@@ -3574,6 +3588,7 @@ masteralpha-intranetpostgresmx.stage.auvik.com
 masterrings.stage.auvik.com
 masterstreaming.stage.auvik.com
 matrix-mb2-pri-mbaws.stage.auvik.com
+matrix.stage.auvik.com
 matrixl-pri-azams.stage.auvik.com
 matteociofi0.stage.auvik.com
 mawarqodiriyah.stage.auvik.com
@@ -3898,6 +3913,7 @@ o20.stage.auvik.com
 o26.stage.auvik.com
 o79.rb.auvik.com
 oath-ldap-dev.stage.auvik.com
+obiwanqa.stage.auvik.com
 oboglobal.stage.auvik.com
 occ-0-116-27.stage.auvik.com
 occ-0-32-38.stage.auvik.com
@@ -3924,6 +3940,7 @@ ogilvy.stage.auvik.com
 oh12sa-p01.stage.auvik.com
 oh31sa-c04.stage.auvik.com
 ok4ok17sds-noam.stage.auvik.com
+okt.auvik.com
 okta.stage.auvik.com
 old-secure-clients-stats-corp.stage.auvik.com
 omni.stage.auvik.com
@@ -4041,6 +4058,7 @@ p02-fmipweb.stage.auvik.com
 p02-imap.stage.auvik.com
 p02-iwmb5.stage.auvik.com
 p02-notesws.stage.auvik.com
+p02-quota.stage.auvik.com
 p03-iwmb7.stage.auvik.com
 p04-btmmdns.stage.auvik.com
 p04-fmfmail.stage.auvik.com
@@ -4276,6 +4294,7 @@ poland-intl.stage.auvik.com
 policiasyvigilantes.stage.auvik.com
 policies.stage.auvik.com
 polk-46-nbb9h7z.stage.auvik.com
+pom.stage.auvik.com
 porta.stage.auvik.com
 portalalthelpdesk.stage.auvik.com
 porthos.stage.auvik.com
@@ -4389,6 +4408,7 @@ prod-backup-temp-exchangedns.stage.auvik.com
 prod-confluenceengineering.stage.auvik.com
 prod-corpmaster-backups-www-test.stage.auvik.com
 prod-customersmeta-db2-corp.stage.auvik.com
+prod-datassostreaming.stage.auvik.com
 prod-dev-stage-start-clients.stage.auvik.com
 prod-egr4-260-pda.stage.auvik.com
 prod-eventsgit.stage.auvik.com
@@ -4440,6 +4460,7 @@ prometheus-2.stage.auvik.com
 prometheus-mariya.stage.auvik.com
 promotion-dal10.stage.auvik.com
 promotions.stage.auvik.com
+propertyfinder.ideas.auvik.com
 proteo.stage.auvik.com
 prototype.stage.auvik.com
 provas.stage.auvik.com
@@ -4799,6 +4820,7 @@ seninbankan.stage.auvik.com
 sententious.stage.auvik.com
 sentry-stage.stage.auvik.com
 sepulchralize.stage.auvik.com
+series.daily.auvik.com
 server-o8.stage.auvik.com
 service-erpalt.stage.auvik.com
 service-nk11-a.stage.auvik.com
@@ -4806,6 +4828,7 @@ service-paymentsstorage.stage.auvik.com
 service-secure2.stage.auvik.com
 servidor.stage.auvik.com
 setup.stage.auvik.com
+sev-lab-ld01.stage.auvik.com
 sevlab-data1b.stage.auvik.com
 sevlab-oamp.stage.auvik.com
 sewamenyewaislam.stage.auvik.com
@@ -4920,6 +4943,7 @@ speedtest-backend.stage.auvik.com
 spiritworld-qa.stage.auvik.com
 splenoparectama.stage.auvik.com
 splunklic.stage.auvik.com
+spn.daily.auvik.com
 spn.my.auvik.com
 spn.stage.auvik.com
 spn1-1-seb.stage.auvik.com
@@ -5014,6 +5038,7 @@ stage2du28.stage.auvik.com
 stage2du36.stage.auvik.com
 stage2du47.stage.auvik.com
 stage2du80.stage.auvik.com
+stage2du90.daily.auvik.com
 stage2pph01.stage.auvik.com
 staging-acc-log-b2bsystem.stage.auvik.com
 staging-admin.stage.auvik.com
@@ -5138,6 +5163,7 @@ store-024-pv.stage.auvik.com
 store-032-ci.stage.auvik.com
 store-033-qs.stage.auvik.com
 store.auvik.com
+store.stage.auvik.com
 storeapi.stage.auvik.com
 storeslaveconfig.stage.auvik.com
 storezone01.stage.auvik.com
@@ -5487,6 +5513,7 @@ tor21-45-grc.stage.auvik.com
 tor21-85-pdc.stage.auvik.com
 tor210-282-grc.stage.auvik.com
 tor213-285-grc.stage.auvik.com
+tor215-62-pdc.stage.auvik.com
 tor216-256-grc.stage.auvik.com
 tor216-265-pdc.stage.auvik.com
 tor217-408-pda.stage.auvik.com
@@ -5517,6 +5544,7 @@ tor233-324-pda.stage.auvik.com
 tor234-291-pdb.stage.auvik.com
 tor238-248-pda.stage.auvik.com
 tor238-254-pda.stage.auvik.com
+tor239-269-pda.stage.auvik.com
 tor239-296-pda.stage.auvik.com
 tor24-40-pdc.stage.auvik.com
 tor240-202-pdb.stage.auvik.com
@@ -5856,6 +5884,7 @@ uhilhpbg4.stage.auvik.com
 uhs01zlpcp1a.stage.auvik.com
 uif.stage.auvik.com
 uk.stage.auvik.com
+uk1.stage.auvik.com
 ukelsf51.stage.auvik.com
 ukenc1.stage.auvik.com
 ukenclave.stage.auvik.com
@@ -5876,6 +5905,7 @@ uncover-fashionablefurnishings.stage.auvik.com
 uncover-irs.stage.auvik.com
 uncover-saml.stage.auvik.com
 uncoveranswerpack.stage.auvik.com
+uncoverdmb.stage.auvik.com
 uncovereshop.stage.auvik.com
 uncovergrupoexito.stage.auvik.com
 uncoverman-dev.stage.auvik.com
@@ -5953,6 +5983,7 @@ upgradetempen-users.stage.auvik.com
 upgradeusers-intranet-csdockerintra-backups-www-test.stage.auvik.com
 upgradev3v3.stage.auvik.com
 upgradewikibucketjenkinsweb0-b2bmy-oceania.stage.auvik.com
+upload-accessnode-nanotechnet2.daily.auvik.com
 upload-archive.stage.auvik.com
 upload-blogqaproxy-vpn.stage.auvik.com
 upload-cache-static.stage.auvik.com
@@ -6029,7 +6060,9 @@ us-dc3-blurfproxy.stage.auvik.com
 us-repo.stage.auvik.com
 us03-vsr.stage.auvik.com
 us1.my.auvik.com
+us1.stage.auvik.com
 us2.my.auvik.com
+us3.my.auvik.com
 us4.my.auvik.com
 uscaenclave.stage.auvik.com
 usculxsnt02v.stage.auvik.com
@@ -6506,6 +6539,7 @@ web9.stage.auvik.com
 web96.stage.auvik.com
 webaccess-elasticbeanstalk-chef-temp-devenv-oceania-exchangedns.stage.auvik.com
 webadmin-devopstemp-exchangedns.stage.auvik.com
+webbaltlife.my.auvik.com
 webbetacdn.stage.auvik.com
 webcenters.stage.auvik.com
 webchefapi-account-helpdeskcorporate.stage.auvik.com
@@ -6632,6 +6666,7 @@ www-mete.stage.auvik.com
 www-rmit-vn-sit-etccollege.stage.auvik.com
 www-tandfonline-com.stage.auvik.com
 www.auvik.com
+www.my.auvik.com
 www0master-backups-www-test.stage.auvik.com
 www1-cmsdb1-origin.stage.auvik.com
 www1assets-defaultproduction.stage.auvik.com
@@ -6793,6 +6828,7 @@ zz1.stage.auvik.com
 17-121-120-91.stage.auvik.com
 17-121-120-96.stage.auvik.com
 17-121-121-27.stage.auvik.com
+17-121-121-31.stage.auvik.com
 17-121-121-40.stage.auvik.com
 17-121-121-49.stage.auvik.com
 17-121-121-63.stage.auvik.com
