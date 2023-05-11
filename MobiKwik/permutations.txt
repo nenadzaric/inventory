@@ -1,5 +1,6 @@
 admin.mobikwik.com
 app-beta2.mobikwik.com
+appapi.wp.mobikwik.com
 artifactory.logs.mobikwik.com
 beta1.access.mobikwik.com
 blog.mobikwik.com
@@ -8,10 +9,15 @@ dashboard.mobikwik.com
 ir-staging.mobikwik.com
 ir.mobikwik.com
 mail.mobikwik.com
+mcareers.mobikwik.com
 mobikwik.com
 rechargeforum.administrator.mobikwik.com
 stage-app-beta.mobikwik.com
+staging-origin.mobikwik.com
 staging-pay.mobikwik.com
 staging.mobikwik.com
+t.forum.mobikwik.com
 vpn.mobikwik.com
 ww-internal.mobikwik.com
+www-shop.mobikwik.com
+wwwwp.mobikwik.com
