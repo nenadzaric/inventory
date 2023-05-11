@@ -11,6 +11,7 @@ cust1.lemlist.com
 cust2.lemlist.com
 custom.lemlist.com
 custom.staging.lemlist.com
+custom.staging1.lemlist.com
 custom2.lemlist.com
 db.lemlist.com
 developer.lemlist.com
