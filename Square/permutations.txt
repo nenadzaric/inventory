@@ -1,0 +1,14 @@
+api.iad1.squareup.com
+api.squareup.com
+blog.squareup.com
+developer.squareup.com
+developers.squareup.com
+docs.corp.squareup.com
+docs.squareup.com
+market.squareup.com
+square.com
+squareup.com
+vpn.corp.squareup.com
+vpn.iad1.squareup.com
+vpn.nrt1.squareup.com
+vpn.squareup.com
