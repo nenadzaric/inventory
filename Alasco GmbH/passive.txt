@@ -73,6 +73,7 @@ login.staging.alasco.de
 login.staging.alasco.rocks
 lp.alasco.de
 metabase.internal.alasco.rocks
+metatest.internal.alasco.rocks
 o1.n.alasco.de
 prod.alasco.rocks
 sandbox.alasco.de
