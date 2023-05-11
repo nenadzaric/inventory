@@ -1,0 +1,15 @@
+build.nextcloud.com
+cloud1.nextcloud.com
+collabora-test.nextcloud.com
+conf.nextcloud.com
+docs.nextcloud.com
+ldap.nextcloud.com
+mail.nextcloud.com
+nextcloud.com
+nextcloud.talk
+s1.nextcloud.com
+s3.nextcloud.com
+staging.cloud.nextcloud.com
+staging.collabora.nextcloud.com
+staging.nextcloud.com
+www.nextcloud.com
