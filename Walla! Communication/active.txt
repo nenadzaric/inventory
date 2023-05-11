@@ -61,6 +61,7 @@ dev37.walla.co.il
 dominos.walla.co.il
 drum-155-215-8-40.school.walla.co.il
 dt.walla.co.il
+dtv.walla.co.il
 e.walla.co.il
 elasticbeanstalkweb-eu.school.walla.co.il
 elections.walla.co.il
@@ -81,6 +82,7 @@ fix.mazaltov.walla.co.il
 fnjf12-1.school.walla.co.il
 food.walla.co.il
 forums.walla.co.il
+friends.walla.co.il
 fun.walla.co.il
 gamez.walla.co.il
 gaming.walla.co.il
@@ -97,7 +99,9 @@ ha2-vl-126-bas-2-prd.school.walla.co.il
 hanukkah.walla.co.il
 hapardes.mazaltov.walla.co.il
 healthylife.walla.co.il
+help.walla.co.il
 holidays.walla.co.il
+home.walla.co.il
 i.walla.co.il
 img.mazaltov.walla.co.il
 internalmanager.school.walla.co.il
@@ -119,10 +123,13 @@ mail.walla.co.il
 man.walla.co.il
 map.walla.co.il
 maps.walla.co.il
+marketing.walla.co.il
 mazaltov.walla.co.il
 messaging.walla.co.il
+metro.walla.co.il
 milkyway.walla.co.il
 mivdak.walla.co.il
+mm.walla.co.il
 mm5.school.walla.co.il
 mobile.walla.co.il
 movies.walla.co.il
@@ -142,6 +149,7 @@ phx-origin-posprivate-api.school.walla.co.il
 pitaya.mazaltov.walla.co.il
 planenmacher.school.walla.co.il
 play.walla.co.il
+plus.walla.co.il
 poseidon.walla.co.il
 pride.walla.co.il
 proddebug.school.walla.co.il
@@ -154,6 +162,8 @@ rsw28-1-rtm.school.walla.co.il
 run.walla.co.il
 salvador.mazaltov.walla.co.il
 school.walla.co.il
+search.walla.co.il
+seniors.walla.co.il
 shnaiderbruk.mazaltov.walla.co.il
 silvivivi.mazaltov.walla.co.il
 slb1-74-pda.school.walla.co.il
@@ -199,6 +209,7 @@ vod.walla.co.il
 vpn-config-production.school.walla.co.il
 walla.co.il
 wallamobile.walla.co.il
+weather.walla.co.il
 webx2proxy73host.school.walla.co.il
 wedon.mazaltov.walla.co.il
 widget.walla.co.il
