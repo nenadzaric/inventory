@@ -1,3 +1,4 @@
+api-sam.caffeine.tv
 api-sam.development.caffeine.tv
 api-sam.staging.caffeine.tv
 api.caffeine.tv
@@ -12,6 +13,7 @@ atlantis.caffeine.tv
 atlantis.staging.caffeine.tv
 beacon-dev.rtcdn.caffeine.tv
 beta.caffeine.tv
+broadcaster-admin.caffeine.tv
 broadcaster-admin.staging.caffeine.tv
 brt.caffeine.tv
 build.caffeine.tv
@@ -25,6 +27,7 @@ cpp.caffeine.tv
 digital-item-editor.caffeine.tv
 docs.caffeine.tv
 email150.caffeine.tv
+engineering-library.caffeine.tv
 enterpriseenrollment.caffeine.tv
 enterpriseregistration.caffeine.tv
 events.caffeine.tv
@@ -87,6 +90,7 @@ fremont-staging.rtcdn.caffeine.tv
 fremontv3.rtcdn.caffeine.tv
 help.caffeine.tv
 hls.caffeine.tv
+hls.dt.caffeine.tv
 http-www-bing-com-5-1.rtcdn.caffeine.tv
 images.caffeine.tv
 images.staging.caffeine.tv
@@ -118,6 +122,7 @@ rtcdn.caffeine.tv
 samwise.staging.caffeine.tv
 scim.caffeine.tv
 sftp.caffeine.tv
+snappy-images.caffeine.tv
 snappy.caffeine.tv
 social-feed.staging.caffeine.tv
 ssa.caffeine.tv
@@ -127,17 +132,21 @@ tma.caffeine.tv
 tomnook.staging.caffeine.tv
 useast1.rtcdn.caffeine.tv
 uswest2.rtcdn.caffeine.tv
+v-cf.caffeine.tv
 v-cf.development.caffeine.tv
 v-cf.staging.caffeine.tv
+video-cf.caffeine.tv
 video-cf.development.caffeine.tv
 video-cf.staging.caffeine.tv
 warsztatvw.rtcdn.caffeine.tv
+wcztbo9u.caffeine.tv
 wdc03-prd-kfk-01c.preview.caffeine.tv
 web192415.rtcdn.caffeine.tv
 webcheckout.devel.caffeine.tv
 webtrader.caffeine.tv
 wegw.new-www.caffeine.tv
 welsh.caffeine.tv
+wiki-2018v2.caffeine.tv
 wiki.caffeine.tv
 wikiapplex3dc01.rtcdn.caffeine.tv
 work-25733585.caffeine.tv

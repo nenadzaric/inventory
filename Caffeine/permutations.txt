@@ -13,6 +13,7 @@ caffeine.tv
 chromecast.staging.caffeine.tv
 community-dashboard.staging.caffeine.tv
 content-guide-editor.staging.caffeine.tv
+cpp.staging.caffeine.tv
 docs.caffeine.tv
 rtcdn.caffeine.tv
 static.staging.caffeine.tv
