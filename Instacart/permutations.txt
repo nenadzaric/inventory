@@ -19,6 +19,7 @@ build.edge.instacart.com
 careers.edge.instacart.com
 careers.instacart.com
 cms1.edge.instacart.com
+compute.edge.instacart.com
 conf.edge.instacart.com
 dashboard.instacart.com
 dev.edge.instacart.com
@@ -29,6 +30,7 @@ edge2.instacart.com
 edge3.instacart.com
 enterprise-api.instacart.com
 eu-central-1.edge.instacart.com
+eu-east-1.edge.instacart.com
 instacart.com
 instacart.tools
 legacy.edge.instacart.com
@@ -39,6 +41,7 @@ login.pbis-cf.instacart.com
 login.sandbox.instacart.tools
 logs.edge.instacart.com
 manager.edge.instacart.com
+market.edge.instacart.com
 mobile.edge.instacart.com
 mssql.edge.instacart.com
 netlify.edge.instacart.com
