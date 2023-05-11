@@ -1,4 +1,5 @@
 backup.reveantivirus.com
+bid47ne.service.reveantivirus.com
 campaign.reveantivirus.com
 connect.reveantivirus.com
 cpanel.info.reveantivirus.com
@@ -7,11 +8,13 @@ cpcalendars.endpointcloud.reveantivirus.com
 cpcalendars.info.reveantivirus.com
 cpcalendars.reveantivirus.com
 cpcontacts.info.reveantivirus.com
+cpcontacts.reveantivirus.com
 crm.reveantivirus.com
 endpointcloud.reveantivirus.com
 ftp.info.reveantivirus.com
 ftp.reveantivirus.com
 info.reveantivirus.com
+mail.endpointcloud.reveantivirus.com
 mail.info.reveantivirus.com
 mail.reveantivirus.com
 myaccount.reveantivirus.com
@@ -19,6 +22,7 @@ partner.reveantivirus.com
 reveantivirus.com
 service.reveantivirus.com
 update.reveantivirus.com
+webdisk.endpointcloud.reveantivirus.com
 webdisk.info.reveantivirus.com
 webdisk.reveantivirus.com
 webmail.info.reveantivirus.com
