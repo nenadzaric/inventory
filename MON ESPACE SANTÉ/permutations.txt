@@ -1,0 +1,9 @@
+cms.developer.monespacesante.fr
+cms.monespacesante.fr
+cms.preprod.monespacesante.fr
+cms.preprod2.monespacesante.fr
+monespacesante.fr
+preprod2.monespacesante.fr
+www.developer.monespacesante.fr
+www.pe1.monespacesante.fr
+www.preprod2.monespacesante.fr
