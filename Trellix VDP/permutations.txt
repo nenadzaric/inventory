@@ -23,6 +23,7 @@ qa.telemetry.trellix.com
 shop.trellix.com
 skyhighsecurity.com
 stage.telemetry.trellix.com
+staging.auth.trellix.com
 staging.insights.trellix.com
 staging.xdr.trellix.com
 trellix.com
