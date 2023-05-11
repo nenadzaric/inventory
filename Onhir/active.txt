@@ -1,0 +1,5 @@
+adfs.onhir.gov
+autodiscover.onhir.gov
+mail.onhir.gov
+onhir.gov
+www.onhir.gov
