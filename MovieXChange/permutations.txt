@@ -1,0 +1,11 @@
+api-qa.moviexchange.com
+api-staging.moviexchange.com
+film-cdn-dev.moviexchange.com
+film-cdn-staging.moviexchange.com
+film-cdn.moviexchange.com
+film-qa.moviexchange.com
+film-staging.moviexchange.com
+moviexchange.com
+staging-auth.moviexchange.com
+staging-licensing.moviexchange.com
+www.moviexchange.com
