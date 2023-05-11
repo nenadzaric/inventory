@@ -91,6 +91,7 @@ bid47go.dev.elementor.com
 bid47h5.dev.elementor.com
 bid48qi.dev.elementor.com
 bmcswitzerland.dev.elementor.com
+bucket-beta-monitorenglish-storage.dev05.elementor.com
 bucket-iobin.dev.elementor.com
 cache-data-proxy-vpn.dev.elementor.com
 cacheauthsslvpnhelpdesk.dev.elementor.com
@@ -127,6 +128,7 @@ data-configserviceint.dev.elementor.com
 database-sql.dev.elementor.com
 datacontroller.dev.elementor.com
 datacorporate-new-corp.dev.elementor.com
+datadevweb.nettrk.elementor.com
 datalogger.dev.elementor.com
 db.dev.elementor.com
 db1default.dev.elementor.com
@@ -144,6 +146,7 @@ demoeventauth.dev.elementor.com
 det-4-1-2.dev.elementor.com
 dev-liveaccept-domain.dev.elementor.com
 dev-skills-academy.dev.elementor.com
+developermail-start-clients.defiant.elementor.com
 develuploadspanel.dev.elementor.com
 devscp-shop.dev.elementor.com
 dhd-v0.dev.elementor.com
@@ -162,6 +165,7 @@ elm-198-30.dev.elementor.com
 embor.dev.elementor.com
 emeagfx.dev.elementor.com
 enbigota.dev.elementor.com
+engineering-2427718g18.elementor.com
 engineeringbackupconfig.dev.elementor.com
 engineeringhive.dev.elementor.com
 error-internalregister.dev.elementor.com
@@ -170,7 +174,9 @@ error-prod-bid459w.dev.elementor.com
 error-tunneldb2-corp.dev.elementor.com
 error-v2oceania-mx.dev.elementor.com
 errordeveloper-site.dev.elementor.com
+errorhosting-loginaccept-domain.demo.elementor.com
 errorv2monitoring-support-corp.dev.elementor.com
+eshop-category-rank.0010.elementor.com
 eudatabase.dev.elementor.com
 eurwbn01.dev.elementor.com
 everythingdb03-dca1.dev.elementor.com
@@ -188,6 +194,7 @@ fred-loya-insurance.dev.elementor.com
 fribp9mr1--ssm2s.dev.elementor.com
 froedtert.dev.elementor.com
 fspm-77-71.dev.elementor.com
+fullaudioquranmajidshzhusainbs.elementor.com
 gcp-config-netsvnpostgresgit.dev.elementor.com
 gcp-logstemp-storage.dev.elementor.com
 gedizdh.dev.elementor.com
@@ -225,6 +232,7 @@ h-135-207-183-73.dev.elementor.com
 h-135-207-183-98.dev.elementor.com
 h-135-207-19-55.dev.elementor.com
 h-135-207-2-46.dev.elementor.com
+h-135-207-223-37.dev.elementor.com
 h-135-207-240-63.dev.elementor.com
 h-135-207-246-69.dev.elementor.com
 h-135-207-254-29.dev.elementor.com
@@ -255,6 +263,7 @@ internal-docker-oceania.dev.elementor.com
 internal-gatewaysignup.dev.elementor.com
 internal-systempostgresgit.dev.elementor.com
 iosys.dev.elementor.com
+ip-147-98.defiant.elementor.com
 ipv4-c002-szb002-telekommalaysia-isp.dev.elementor.com
 ipv4-c004-was001-ix.dev.elementor.com
 ipv4-c043-hkg001-ix.dev.elementor.com
@@ -265,6 +274,7 @@ ipv4-c329-atl001-ix.dev.elementor.com
 ipv6-c111-iah001-ix.dev.elementor.com
 isaruba.dev.elementor.com
 jdmellberg.dev.elementor.com
+jenkins-debugger.elementor.com
 jenkins-engineeringprivate-metasql.dev.elementor.com
 jenkins-prod.dev.elementor.com
 jenkins-relaysql.dev.elementor.com
@@ -276,6 +286,7 @@ jrss-215-70-65-75.dev.elementor.com
 jrss-215-72-0-86.dev.elementor.com
 jrss-215-73-161-78.dev.elementor.com
 jrss-215-73-221-0.dev.elementor.com
+lapp63.defiant.elementor.com
 launchpad.dev.elementor.com
 lax.dev.elementor.com
 lef15-1-grc.dev.elementor.com
@@ -350,6 +361,7 @@ pidev.dev.elementor.com
 pix.elementor.com
 pmeserver.dev.elementor.com
 pocket.dev.elementor.com
+postman-trackjiratunnel-mx.defiant.elementor.com
 preferences-system-s3-repositoryerpalt.dev.elementor.com
 preferencesaccountmeet-git.dev.elementor.com
 preferencesalphaalpha.dev.elementor.com
@@ -392,6 +404,7 @@ s48-backup.dev.elementor.com
 salieri.dev.elementor.com
 sec.dev.elementor.com
 service04.dev.elementor.com
+sg34a00ls-test-ipv6-vip.server.elementor.com
 siebel-prod7.dev.elementor.com
 signupinfomediaconfig-helpdesk.dev.elementor.com
 siteops-develop.dev.elementor.com
@@ -458,6 +471,7 @@ tor61-89-grc.dev.elementor.com
 tor65-78-pdb.dev.elementor.com
 tor68-96-grc.dev.elementor.com
 tor76-156-pdc.dev.elementor.com
+tor87-102-pdb.defiant.elementor.com
 tor94-125-pdb.dev.elementor.com
 trk.elementor.com
 uccelab-vdms.dev.elementor.com
@@ -465,6 +479,8 @@ uncover-waves.dev.elementor.com
 updateassetsassetsapp.dev.elementor.com
 updatevps.dev.elementor.com
 upgradeteam.dev.elementor.com
+upgradevpn2021linkoceania-exchangedns.elementor.com
+upload-ftpmirror-my-oceania.defiant.elementor.com
 uploadbackup-temp-exchangedns.dev.elementor.com
 uploadjenkinsconfluence-streamingassets-postmanbackups-www-test.dev.elementor.com
 uploads-paginapessoal.dev.elementor.com
@@ -500,6 +516,7 @@ v4v3gcp.dev.elementor.com
 verification.dev.elementor.com
 video-assetstunnelslaveconfig.dev.elementor.com
 videoredirect-user-cache-lbclients.dev.elementor.com
+videos-c-5.elementor.com
 vip-cistorebackups-www-test.dev.elementor.com
 vipalphaalt.dev.elementor.com
 vippaintballtarget.dev.elementor.com
@@ -517,6 +534,7 @@ watxtem01-ext.dev.elementor.com
 web-baltlife.dev.elementor.com
 web-v3mrelay.dev.elementor.com
 web50.dev.elementor.com
+web58.demo.elementor.com
 webinfoplus.dev.elementor.com
 websigomchef.dev.elementor.com
 whiteconsumer.dev.elementor.com
@@ -529,6 +547,7 @@ you-tv-player.dev.elementor.com
 zarobki.dev.elementor.com
 zenika.dev.elementor.com
 zinc-vc.dev.elementor.com
+7wkce.defiant.elementor.com
 7wkek.dev.elementor.com
 17-121-113-61.dev.elementor.com
 17-121-114-67.dev.elementor.com
