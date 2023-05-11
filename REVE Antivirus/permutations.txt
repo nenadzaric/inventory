@@ -1,0 +1,11 @@
+cpanel.info.reveantivirus.com
+cpcalendars.info.reveantivirus.com
+cpcontacts.info.reveantivirus.com
+info.reveantivirus.com
+mail.info.reveantivirus.com
+mail.reveantivirus.com
+partner.reveantivirus.com
+reveantivirus.com
+webmail.info.reveantivirus.com
+whm.info.reveantivirus.com
+www.endpointcloud.reveantivirus.com
