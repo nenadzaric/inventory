@@ -1,5 +1,6 @@
 api-stage.intigriti.com
 api.intigriti.com
+app-stage.intigriti.com
 app.intigriti.com
 blog.intigriti.com
 careers.intigriti.com
