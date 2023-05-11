@@ -1,0 +1,12 @@
+aims360.com
+api.aims360.com
+easyshopapi.aims360.com
+mail.news.aims360.com
+my.aims360.com
+pay.aims360.com
+web.aims360.com
+www.aims360.com
+www.cloud.aims360.com
+www.help.aims360.com
+www.my.aims360.com
+www.news.aims360.com
