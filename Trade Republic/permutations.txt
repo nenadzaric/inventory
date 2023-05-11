@@ -1,5 +1,6 @@
 api.traderepublic.com
 app.traderepublic.com
+assets.traderepublic.com
 beta.app.traderepublic.com
 core-info.traderepublic.com
 engineering.traderepublic.com
