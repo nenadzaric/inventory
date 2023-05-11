@@ -5,8 +5,10 @@ login.tutanota.com
 mail.test.tutanota.de
 mail.tutanota.com
 mail.tutanota.de
+mta-sts.test.keemail.me
 mta-sts.test.tutanota.com
 mta-sts.test.tutanota.de
+mta-sts.tuta.io
 mta-sts.tutanota.com
 mta-sts.tutanota.de
 pay.test.tutanota.com

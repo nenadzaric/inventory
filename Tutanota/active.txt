@@ -6,6 +6,7 @@ mail.test.tutanota.de
 mail.tutanota.com
 mail.tutanota.de
 mta-sts.keemail.me
+mta-sts.test.keemail.me
 mta-sts.test.tutanota.com
 mta-sts.test.tutanota.de
 mta-sts.tuta.io
