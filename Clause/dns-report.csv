@@ -1,0 +1,15 @@
+new,host,a,mx,soa,ns,txt,caa,status_code,cdn,cdn-name,cname,aaaa
+[x],admin.clausestaging.com,"52.35.112.94, 54.244.24.252",,"ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",,,,NOERROR,,,,
+[x],api.us-west-2.clausestaging.com,"35.166.230.25, 52.88.140.144",,"ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",,,,NOERROR,,,,
+[x],blog.clausestaging.com,"13.225.78.100, 13.225.78.125, 13.225.78.88, 13.225.78.28",,"ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",,,,NOERROR,True,cloudfront,,
+[x],callback.clausestaging.com,"44.238.65.52, 34.211.124.254",,"ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",,,,NOERROR,,,,
+[x],callbacks.clausestaging.com,"13.32.27.45, 13.32.27.62, 13.32.27.8, 13.32.27.14",,"ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",,,,NOERROR,True,cloudfront,,
+[x],clausestaging.com,"18.172.153.32, 18.172.153.79, 18.172.153.71, 18.172.153.34",inbound-smtp.us-west-2.amazonaws.com,"ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com","ns-1074.awsdns-06.org, ns-128.awsdns-16.com, ns-579.awsdns-08.net, ns-1702.awsdns-20.co.uk",v=spf1 -all,amazon.com,NOERROR,True,cloudfront,,
+[x],core-ui.clausestaging.com,,,"ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",,,,NOERROR,True,cloudfront,,
+[x],docusign-callback.clausestaging.com,54.144.128.85,,,,,,NOERROR,,,,
+[x],get.clausestaging.com,205.201.140.137,,"internal.akadns.net, hostmaster.akamai.com",,,,NOERROR,,,"us18-ae851adb-8cf0074fca045ba81651ad9ea.pages.mailchi.mp, terminator.capstone.com.akadns.net",
+[x],hub.clausestaging.com,,,"ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",,,,NOERROR,True,cloudfront,,
+[x],login.clausestaging.com,"104.18.103.2, 104.18.102.2",,"kolton.ns.cloudflare.com, dns.cloudflare.com",,,"digicert.com, letsencrypt.org",NOERROR,True,cloudflare,staging-clause-cd-tekqmlymzm05bg5h.edge.tenants.auth0.com,"2606:4700::6812:6702, 2606:4700::6812:6602"
+[x],svc-helper-api.clausestaging.com,"44.229.30.141, 44.237.248.116",,"ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",,,,NOERROR,,,,
+[x],tasks.clausestaging.com,"52.11.6.147, 44.236.247.119",,"ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",,,,NOERROR,,,,
+[x],www.clausestaging.com,"143.204.89.33, 143.204.89.78, 143.204.89.94, 143.204.89.123",,"ns-128.awsdns-16.com, awsdns-hostmaster.amazon.com",,,,NOERROR,True,cloudfront,,

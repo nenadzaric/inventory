@@ -1,0 +1,14 @@
+admin.clausestaging.com
+api.clausestaging.com
+api.us-west-2.clausestaging.com
+blog.clausestaging.com
+callback.clausestaging.com
+callbacks.clausestaging.com
+clausestaging.com
+core-ui.clausestaging.com
+get.clausestaging.com
+hub.clausestaging.com
+login.clausestaging.com
+svc-helper-api.clausestaging.com
+tasks.clausestaging.com
+www.clausestaging.com
