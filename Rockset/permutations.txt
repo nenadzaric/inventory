@@ -1,0 +1,11 @@
+api.use1a1.rockset.com
+api.usw2a1.rockset.com
+console.dev.rockset.com
+dev.rockset.com
+docs.dev.rockset.com
+docs.rockset.com
+prometheus.rockset.com
+prometheus.use1a1.rockset.com
+prometheus.usw2a1.rockset.com
+rockset.com
+www.rockset.com
