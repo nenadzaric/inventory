@@ -15,6 +15,7 @@ au.opencitiesplanner.bentley.com
 auth.bentley.com
 autodiscover.bentley.com
 autodiscover.info.bentley.com
+backup1.bentley.com
 bentley.com
 builds.bentley.com
 cn.bentley.com
@@ -56,6 +57,7 @@ edl.bentley.com
 education-api.bentley.com
 education.bentley.com
 ei.bentley.com
+enews.bentley.com
 engage.bentley.com
 enterpriseenrollment.bentley.com
 enterpriseregistration.bentley.com
@@ -99,6 +101,7 @@ mx5.bentley.com
 mx6.bentley.com
 news.bentley.com
 news3.bentley.com
+nl.bentley.com
 ns1.bentley.com
 ns2.bentley.com
 octopus.bentley.com
@@ -106,6 +109,7 @@ opencitiesplanner.bentley.com
 origin-communities.bentley.com
 osm.opencitiesplanner.bentley.com
 overwatch.bentley.com
+partner-portal.bentley.com
 partner.cm.bentley.com
 pdf.pwdm.bentley.com
 pdf.qa-pwdm.bentley.com
@@ -123,6 +127,7 @@ pt.bentley.com
 publishing.bentley.com
 purchasing.bentley.com
 pwcm-au-primary.cm.bentley.com
+pwcm-na-primary.cm.bentley.com
 pwdm.bentley.com
 qa-api.bentley.com
 qa-developer.bentley.com
@@ -136,6 +141,7 @@ registration.bentley.com
 reporting.bentley.com
 review-eus.itwin.bentley.com
 review-sea.itwin.bentley.com
+review.itwin.bentley.com
 salesloft.bentley.com
 sam.bentley.com
 sceventlistener-eus.pwdm.bentley.com
@@ -147,6 +153,7 @@ services.bentley.com
 sftp.bentley.com
 sit.cm.bentley.com
 sslvpn.bentley.com
+staging-blog.bentley.com
 static.bentley.com
 status.bentley.com
 store.bentley.com
@@ -168,6 +175,8 @@ web-services.bentley.com
 web.bentley.com
 weblogin.bentley.com
 webservices.bentley.com
+www.bentley.com
+www.ebook.bentley.com
 xmpp.bentley.com
 yearbook.bentley.com
 yii.bentley.com
