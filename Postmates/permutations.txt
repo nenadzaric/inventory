@@ -1,0 +1,12 @@
+api-stage.postmates.com
+api-v2.postmates.com
+api.postmates.com
+beta.postmates.com
+blog.postmates.com
+careers.postmates.com
+developer.postmates.com
+image.messages.postmates.com
+partner.postmates.com
+postmates.com
+web.postmates.com
+www.postmates.com
