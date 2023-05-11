@@ -1,3 +1,4 @@
+docs.insolar.io
 enterprise.insolar.io
 insolar.io
 test.insolar.io
