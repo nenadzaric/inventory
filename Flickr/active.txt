@@ -26,6 +26,7 @@ help-dev.flickr.com
 help.flickr.com
 hermes.flickr.com
 hero.flickr.com
+identity-api.flickr.com
 identity.flickr.com
 internal-api.flickr.com
 links.flickr.com
@@ -33,6 +34,8 @@ live-embedr.flickr.com
 login-dev.flickr.com
 login.flickr.com
 m.flickr.com
+photos1.flickr.com
+photos12.flickr.com
 photos2.flickr.com
 photos5.flickr.com
 real.api.flickr.com
@@ -42,5 +45,8 @@ t.flickr.com
 test-professorx.flickr.com
 trunk.guce.flickr.com
 up.flickr.com
+webmailrelay.photos.flickr.com
+whs-01.photos1.flickr.com
 widgets.flickr.com
+wiki-postman-meet-clients.comwww.flickr.com
 www.flickr.com
