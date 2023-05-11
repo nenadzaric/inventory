@@ -12,4 +12,5 @@ static.companyhub.com
 status.companyhub.com
 t.companyhub.com
 web53.boemalte.companyhub.com
+ws-direct.sebastianphilipp.companyhub.com
 www.companyhub.com
