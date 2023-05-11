@@ -1,0 +1,16 @@
+api.cnt.traveloka.com
+api.ctv.traveloka.com
+api.gtr.traveloka.com
+api.pay.traveloka.com
+api.pts.traveloka.com
+api.trp.traveloka.com
+api.txt.traveloka.com
+api.xpe.traveloka.com
+beta.xxt.traveloka.com
+blog.traveloka.com
+dashboard.ath.traveloka.com
+internal.xxt.traveloka.com
+mail.traveloka.com
+partner.traveloka.com
+traveloka.com
+www.traveloka.com
