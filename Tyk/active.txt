@@ -322,6 +322,7 @@ avis-is.cloud.tyk.io
 avnet.cloud.tyk.io
 awibldtmp.cloud.tyk.io
 aws-assets-defaultproduction.cloud.tyk.io
+aws-euw1.cloud.tyk.io
 aws-fms2.cloud.tyk.io
 awsbeta.cloud.tyk.io
 awscmh4.cloud.tyk.io
@@ -753,7 +754,9 @@ consumerism.cloud.tyk.io
 containeracc.cloud.tyk.io
 containerorigin.cloud.tyk.io
 content.tyk.io
+controller-aws-apse1.cloud-ara.tyk.io
 controller-aws-euc1.cloud-ara.tyk.io
+controller-aws-euw2.cloud-ara.tyk.io
 controller-aws-use1.cloud-ara.tyk.io
 controller-aws-usw2.cloud-ara.tyk.io
 controller1.cloud.tyk.io
@@ -2369,6 +2372,7 @@ psdigital.cloud.tyk.io
 ptldynamic.cloud.tyk.io
 ptn34.cloud.tyk.io
 pub-api-android-ro.cloud.tyk.io
+pub-ingress-aws-euw2.cloud-ara.tyk.io
 pub-ingress-aws-use1.cloud-ara.tyk.io
 pub-ingress-aws-use1.cloud.tyk.io
 pub-tap.cloud.tyk.io
@@ -2425,6 +2429,7 @@ reapitngnumbers.cloud.tyk.io
 recap-vita-product-lb.cloud.tyk.io
 recooked.cloud.tyk.io
 redirect-apiaccess.cloud.tyk.io
+redirect-cacheoceania-mx.cloud.tyk.io
 redirect-deployrepository-postgresmx.cloud.tyk.io
 redirect-elasticbeanstalkcdnuser.cloud.tyk.io
 redirect-jenkinsdbms-opsdefaultproduction.cloud.tyk.io
