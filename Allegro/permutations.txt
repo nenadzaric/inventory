@@ -1,1 +1,4 @@
 allegrosandbox.pl
+czmy.allegrosandbox.pl
+private.allegroimg.allegrosandbox.pl
+storage-affpl.allegrosandbox.pl
