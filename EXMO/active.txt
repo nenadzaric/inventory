@@ -18,5 +18,6 @@ saveukraine.exmo.com
 sg.exmo.com
 support.exmo.com
 support.exmo.me
+ws-api.exmo.com
 www.exmo.com
 www.exmo.me
