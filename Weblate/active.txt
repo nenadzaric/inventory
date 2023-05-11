@@ -1,0 +1,14 @@
+benjamin.weblate.org
+care.weblate.org
+demo.weblate.org
+docs.weblate.org
+helm.weblate.org
+hg.weblate.org
+hosted.weblate.org
+nextcloud.weblate.org
+s.weblate.org
+sentry.weblate.org
+status.weblate.org
+support.weblate.org
+weblate.org
+www.weblate.org
