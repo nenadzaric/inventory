@@ -1,0 +1,8 @@
+api.opensea.io
+blog-v2.opensea.io
+blog.opensea.io
+developers.opensea.io
+docs.opensea.io
+opensea.io
+testnets-api.opensea.io
+www.opensea.io
