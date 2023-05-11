@@ -1,0 +1,9 @@
+api.yatra.com
+ir.yatra.com
+lab.yatra.com
+mobile.yatra.com
+origin-corptrav.yatra.com
+pay.yatra.com
+payment.yatra.com
+www.tech.yatra.com
+yatra.com
