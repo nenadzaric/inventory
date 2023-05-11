@@ -1,0 +1,9 @@
+api.fem-eng.forescout.com
+api.fem-stage-inc.forescout.com
+api.fem.forescout.com
+api.forescout.com
+docs.forescout.com
+forescout.com
+forescoutcloud.net
+mail.forescout.com
+www.forescout.com
