@@ -1,0 +1,13 @@
+api.uat.vlerick.com
+clearpasstest.vlerick.com
+cloud.email.vlerick.com
+dev.uat.vlerick.com
+dev.vlerick.com
+image.email.vlerick.com
+login.vlerick.com
+public.vlerick.com
+service.vlerick.com
+uat-public.vlerick.com
+uatwww.vlerick.com
+vlerick.com
+www.vlerick.com
