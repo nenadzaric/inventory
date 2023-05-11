@@ -1,3 +1,5 @@
+api-futures.coinstore.com
+api.coinstore.com
 cms.coinstore.com
 coinstore.com
 conf.coinstore.com

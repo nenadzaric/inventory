@@ -1,12 +1,15 @@
 api.coinstore.com
+assetsmetalbclients.futures-x.coinstore.com
 autodiscover.coinstore.com
 cms.coinstore.com
 coinstore.com
 conf.coinstore.com
 futures.coinstore.com
 h5.coinstore.com
+http-uk-ask-com-9.coinstore.com
 imap.coinstore.com
 live.coinstore.com
+operation.coinstore.com
 partner-cente.coinstore.com
 partner.coinstore.com
 pop3.coinstore.com
@@ -18,3 +21,4 @@ ws-futures.coinstore.com
 ws.coinstore.com
 wwdyzmq2b.h5.coinstore.com
 www.coinstore.com
+973now.coinstore.com
