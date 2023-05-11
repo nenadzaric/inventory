@@ -1,0 +1,13 @@
+admin.email.msd.com
+api-test.merck.com
+api.merck.com
+cloud.merck.com
+login.msd.com
+mail.merck.com
+mail.msd.com
+merck.com
+msd.com
+search.merck.com
+wp.merck.com
+www.merck.com
+www.msd.com
