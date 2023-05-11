@@ -1,0 +1,16 @@
+api.moneytree.jp
+api2.moneytree.jp
+app-staging.getmoneytree.com
+app.getmoneytree.com
+assets-staging.moneytree.jp
+assets.getmoneytree.com
+assets.moneytree.jp
+dashboard.getmoneytree.com
+docs.link.getmoneytree.com
+faq.getmoneytree.com
+getmoneytree.com
+link-staging.getmoneytree.com
+moneytree.jp
+o1.send.moneytree.jp
+www.getmoneytree.com
+www.moneytree.jp
