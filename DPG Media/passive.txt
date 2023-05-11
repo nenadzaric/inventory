@@ -93,6 +93,7 @@ privacy.dpgmedia.be
 privacy.dpgmedia.nl
 privacyrechten.dpgmedia.be
 privacyrechten.dpgmedia.nl
+profielen.dpgmedia.nl
 publicatie-onlinerouwbericht.dpgmedia.nl
 reserveerbij.dpgmedia.be
 sales-ip.dpgmedia.be
