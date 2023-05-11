@@ -8,6 +8,7 @@ careers.zerodha.com
 cashier.zerodha.com
 console.zerodha.com
 developers.kite.trade
+discuss.zerodha.com
 edge-latest-shv-01-lht6.kite.trade
 feedback.zerodha.com
 kite.trade
@@ -30,6 +31,8 @@ stocks.zerodha.com
 streak.zerodha.com
 support.zerodha.com
 trade.zerodha.com
+warako.websocket.kite.trade
+watson-talent.notary.zerodha.com
 webmail31a.streak.zerodha.com
 websocket.kite.trade
 wikiweb01backup.bo2.zerodha.com
