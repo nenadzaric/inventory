@@ -522,6 +522,7 @@ o5crjvs9y6g.d5.eff.org
 oauth.alpha.eff.org
 obs7.eff.org
 observatory.eff.org
+observatory1.eff.org
 observatory6.eff.org
 observatory7.eff.org
 oc-prod.eff.org
@@ -659,6 +660,8 @@ smokeping1.int.eff.org
 smtp.alpha.eff.org
 smtp.eff.org
 social.alpha.eff.org
+spf1.eff.org
+spf2.eff.org
 sq.max-np.dev.eff.org
 squiggy-np.dev.eff.org
 squiggy-www.dev.eff.org
@@ -764,6 +767,7 @@ warny0f6uhi.d5.eff.org
 wb7nqyatzohr.d5.eff.org
 web.alpha.eff.org
 web2.eff.org
+web3.eff.org
 web5.eff.org
 web6.eff.org
 webdev.d5.eff.org
