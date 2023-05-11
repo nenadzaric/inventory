@@ -2,6 +2,7 @@ asset.winni.in
 assets.winni.in
 assetsbetatemp-exchangedns.mail.winni.in
 backup-gcp.winni.in
+baskerpictures.winni.in
 blog.winni.in
 cust.winni.in
 dmxalb.winni.in

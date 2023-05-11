@@ -1,0 +1,13 @@
+new,host,a,soa,status_code,aaaa,cname,mx,txt,cdn,cdn-name,caa
+,assets.winni.in,"23.53.43.16, 23.53.43.81","n0dscb.akamaiedge.net, hostmaster.akamai.com",NOERROR,"2a02:26f0:ab00::214:8e58, 2a02:26f0:ab00::214:8e4a","assets.winni.in.edgekey.net, e89670.dscb.akamaiedge.net",,,,,
+,blog.winni.in,13.127.131.77,"ns-285.awsdns-35.com, awsdns-hostmaster.amazon.com",NOERROR,,,,,,,
+,blogassets.winni.in,"13.32.121.118, 13.32.121.39, 13.32.121.83, 13.32.121.85","ns-285.awsdns-35.com, awsdns-hostmaster.amazon.com",NOERROR,,,,,True,cloudfront,
+,cust.winni.in,13.233.107.224,"ns-285.awsdns-35.com, awsdns-hostmaster.amazon.com",NOERROR,,,,,,,
+,dmxalb.winni.in,178.250.1.11,"ns23.criteo.com, dns.criteo.com",NOERROR,2a02:2638:3::c,"dnsdelegation.io, gum.criteo.com, gum.nl3.vip.prod.criteo.com",,,,,digicert.com
+,staging2.winni.in,"13.234.142.78, 13.234.1.67","ns-285.awsdns-35.com, awsdns-hostmaster.amazon.com",NOERROR,,,,,,,
+,staging3.winni.in,"13.234.1.67, 13.234.142.78","ns-285.awsdns-35.com, awsdns-hostmaster.amazon.com",NOERROR,,,,,,,
+,www.winni.in,"2.19.124.135, 2.19.124.141","n0dsca.akamaiedge.net, hostmaster.akamai.com",NOERROR,"2a02:26f0:3500:18::1724:a284, 2a02:26f0:3500:18::1724:a299","www.winni.in.edgekey.net, e89670.dsca.akamaiedge.net",,,,,
+,zendesk1.winni.in,"162.159.128.7, 162.159.138.6","ns-1213.awsdns-23.org, awsdns-hostmaster.amazon.com",NOERROR,,mail1.zendesk.com,mail.zendesk.com,v=spf1 include:_netblocks.zdsys.com ~all,True,cloudflare,
+,zendesk2.winni.in,"162.159.138.6, 162.159.128.7","ns-1213.awsdns-23.org, awsdns-hostmaster.amazon.com",NOERROR,,mail2.zendesk.com,mail.zendesk.com,v=spf1 include:_netblocks.zdsys.com ~all,True,cloudflare,
+,zendesk3.winni.in,"162.159.138.6, 162.159.128.7","ns-1213.awsdns-23.org, awsdns-hostmaster.amazon.com",NOERROR,,mail3.zendesk.com,mail.zendesk.com,v=spf1 include:_netblocks.zdsys.com ~all,True,cloudflare,
+,zendesk4.winni.in,"162.159.138.6, 162.159.128.7","ns-1213.awsdns-23.org, awsdns-hostmaster.amazon.com",NOERROR,,mail4.zendesk.com,mail.zendesk.com,,True,cloudflare,
