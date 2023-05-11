@@ -17,6 +17,7 @@ files.starlingbank.com
 grafana.starlingbank.com
 green.starlingbank.com
 help.starlingbank.com
+international.starlingbank.com
 looker.starlingbank.com
 media.starlingbank.com
 oauth.starlingbank.com

@@ -2,6 +2,7 @@ api-openbanking-sandbox.starlingbank.com
 api-sandbox.starlingbank.com
 api.starlingbank.com
 app.starlingbank.com
+aws.starlingbank.com
 blue.starlingbank.com
 cics.starlingbank.com
 community.starlingbank.com
@@ -33,5 +34,6 @@ token-api-sandbox.starlingbank.com
 tooling.starlingbank.com
 updates.starlingbank.com
 womenseurofantasyfootball.starlingbank.com
+www.cics.starlingbank.com
 www.community.starlingbank.com
 www.starlingbank.com
