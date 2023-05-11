@@ -6,11 +6,15 @@ api.cosmos.shapeshift.com
 api.dogecoin.shapeshift.com
 api.ethereum.shapeshift.com
 api.litecoin.shapeshift.com
+api.optimism.shapeshift.com
 api.osmosis.shapeshift.com
 api.thorchain.shapeshift.com
+app.shapeshift.com
+beta.shapeshift.com
 docs.shapeshift.com
 forum.shapeshift.com
 live.shapeshift.com
 private.shapeshift.com
 prod.shapeshift.com
 shapeshift.com
+www.shapeshift.com
