@@ -1,0 +1,10 @@
+api.usa.canon.com
+app.cfs.canon.com
+canon.com
+shop.ciis.canon.com
+shop.csa.canon.com
+shop.usa.canon.com
+www.cits.canon.com
+www.cla.canon.com
+www.csa.canon.com
+www.cusa.canon.com
