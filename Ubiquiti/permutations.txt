@@ -6,7 +6,9 @@ api.ubnt.com
 app.miui.com
 atlas.ui.com
 beta.unifi.ui.com
+blog.go.ubnt.com
 blog.ubnt.com
+blog.ui.com
 careers.dev.ui.com
 careers.stg.ui.com
 careers.tw.ui.com
@@ -37,6 +39,7 @@ info.sec.miui.com
 ir.ubnt.com
 ir.ui.com
 ldap.corp.ubnt.com
+ldap.go.ubnt.com
 local.ui.com
 mail.miui.com
 mail.ubnt.com
@@ -46,6 +49,7 @@ mobile.ui.com
 monitor.dev.ui.com
 monitor.stg.ui.com
 monitor.ui.com
+origin.go.ubnt.com
 origin.ui.com
 private.ui.com
 prod.ui.com
@@ -56,6 +60,7 @@ stats.miui.com
 stats.ui.com
 tech.ui.com
 test.ui.com
+tw.blog.ui.com
 ubnt.com
 ui.com
 unifi-access.ui.com
@@ -64,6 +69,7 @@ unifi.dev.ui.com
 vpn.corp.ubnt.com
 vpn.go.ubnt.com
 vpn.svc.ubnt.com
+wordpress.go.ubnt.com
 www.dev.ui.com
 www.miui.com
 www.stg.ui.com

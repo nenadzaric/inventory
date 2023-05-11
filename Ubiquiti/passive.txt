@@ -350,6 +350,7 @@ b67457e7-4041-4912-bde1-54baf1354fab.unifi-hosting.ui.com
 b69a08b4-a244-49c9-a6f6-79ada182cf30.unifi-hosting.ui.com
 b6f3ca23-8664-41a7-946f-1aaf098d6680.unifi-hosting.ui.com
 b701a3d9-830d-48a9-ab2a-d20e000ed4d8.unifi-hosting.ui.com
+b7093416-8d4c-4fdb-8b23-c796514c2ac1.unifi-hosting.ui.com
 b7b8c4a8-9507-435c-b0c3-ad582b584947.unifi-hosting.ui.com
 b7bb2a61-6500-4d84-926e-9eef1ffdbbd1.unifi-hosting.ui.com
 b7c7d75c-8057-42bc-9e27-c57033e42b23.unifi-hosting.ui.com
@@ -383,6 +384,7 @@ bce64a2f-95f9-4f18-a806-f5fdeb54f6b1.unifi-hosting.ui.com
 bd.sec.miui.com
 bd9e7ca0-426d-4963-8b55-2fa6158b8b33.unifi-hosting.ui.com
 bdb021ff-7d20-4ca8-b50e-f73f1d76d621.unifi-hosting.ui.com
+be480daa-e514-4b25-9d33-38853835137a.unifi-hosting.ui.com
 be79d6da-dfa6-4949-a79a-94b793bb8100.unifi-hosting.ui.com
 be845013-5cce-4215-a257-6c69460dc57f.unifi-hosting.ui.com
 beehive.in.intl.miui.com
@@ -949,6 +951,7 @@ f34db19c-96b4-430e-90f0-9dd25e7940b4.unifi-hosting.ui.com
 f3edf2e6-c5ec-491e-a477-5e13cbf0ec77.unifi-hosting.ui.com
 f401b78e-3361-4881-84cf-62c9c0d36f00.unifi-hosting.ui.com
 f405659d-35f6-438d-8ef5-bd87cd58f7d0.unifi-hosting.ui.com
+f4668ff1-8cdc-482b-8078-c59744444666.unifi-hosting.ui.com
 f4a7bdaa-c80f-4674-947f-9d7319e1bfc8.unifi-hosting.ui.com
 f5cd1421-042b-4698-b828-fabe92d509f2.unifi-hosting.ui.com
 f5db8246-6678-479a-9ff8-5e00d989a569.unifi-hosting.ui.com
@@ -1653,6 +1656,13 @@ sdn.ubnt.com
 sdw.uid.dev.svc.ui.com
 search.browser.miui.com
 search.mcc.miui.com
+seats-ui-components-35.ecomm-test-aks.alaskaair.com
+seats-ui-components-38.ecomm-test-aks.alaskaair.com
+seats-ui-components-42.ecomm-test-aks.alaskaair.com
+seats-ui-components-44.ecomm-test-aks.alaskaair.com
+seats-ui-components-48.ecomm-test-aks.alaskaair.com
+seats-ui-components-67.ecomm-test-aks.alaskaair.com
+seats-ui-components.ecomm-test-aks.alaskaair.com
 sec.intl.miui.com
 sec.miui.com
 security.blog.ui.com
@@ -1922,6 +1932,7 @@ training3.ubnt.com
 trainingdev.ubnt.com
 trainingest-api.blog.ui.com
 trainingv3.ubnt.com
+transacciones-nequi-combdigitallogin.jimdosite.com
 transfer.sec.miui.com
 translate.miui.com
 translate.ubnt.com
@@ -1967,6 +1978,7 @@ ucrm.ui.com
 udm.ui.com
 ufv4.ubnt.com
 ui-components.dev.svc.ui.com
+ui-components.lob.com
 ui-pay.dev.svc.ui.com
 ui-pay.dev.ui.com
 ui.blog.ui.com
@@ -2237,6 +2249,7 @@ www.auth.ff.avast.sec.miui.com
 www.auto.miui.com
 www.avatar.bbs.miui.com
 www.azgov.ui.com
+www.bbs.28tui.com.e.dnspod.cn
 www.bigota.d.miui.com
 www.blog.dev.ui.com
 www.blog.ui.com
@@ -2629,6 +2642,7 @@ zzzz.ubnt.com
 20-www.ubnt.com
 021fb253-8083-4155-9ac4-b07a8a8b54d2.unifi-hosting.ui.com
 21.blog.ui.com
+21d7aa71-45ec-4052-804b-fe96a8faf566.unifi-hosting.ui.com
 22e82bae-47cb-4f46-a2cf-5dda0e5ef928.unifi-hosting.ui.com
 22f17527-c5d3-4f82-a493-67d880b1e8e1.unifi-hosting.ui.com
 22fcde28-3a32-4619-94a4-6546f6cdf981.unifi-hosting.ui.com
@@ -2710,6 +2724,7 @@ zzzz.ubnt.com
 80a48143-30c8-41c3-afd3-71389b086fe2.unifi-hosting.ui.com
 81dc5484-11eb-4d1e-bb37-5ad92c2b1a29.unifi-hosting.stg.ui.com
 82e4db8c-50b3-48fd-8800-69ad25fa2c31.unifi-hosting.ui.com
+82e82164-e2a9-4a17-97e8-72e5a0c8e06b.unifi-hosting.ui.com
 83a11937-35f2-458a-b591-44b0693549c0.unifi-hosting.ui.com
 83f74dd9-a3da-499b-ad3a-06d14a6e4d11.unifi-hosting.ui.com
 84a29a98-d030-4c52-badd-74f9a7153f7c.unifi-hosting.ui.com
