@@ -35,4 +35,6 @@ uxbridge.irccloud.com
 vault.int.irccloud.com
 vpn.ec2-us-west-1.irccloud.com
 vpn.ec2-us-west-2.irccloud.com
+ww1.int.irccloud.com
 www.irccloud.com
+www0-v2.int.irccloud.com
