@@ -1,0 +1,7 @@
+api.coin98.com
+beta.coin98.com
+blog.coin98.com
+coin98.com
+docs.coin98.com
+storage.coin98.com
+www.coin98.com
