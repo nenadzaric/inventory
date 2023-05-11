@@ -1,0 +1,5 @@
+api-proxy.pexels.com
+api-server.pexels.com
+download-staging.pexels.com
+pexels.com
+staging.pexels.com
