@@ -1,0 +1,9 @@
+beta.opendata.cbs.nl
+cbs.nl
+cdn.cbs.nl
+content.cbs.nl
+login.databestanden.cbs.nl
+test.cerberus.cbs.nl
+test.status.cbs.nl
+testlogin.cbs.nl
+www-test.cbs.nl
