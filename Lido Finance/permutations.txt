@@ -1,3 +1,4 @@
+api-fees-monitoring.lido.fi
 blog.lido.fi
 careers.lido.fi
 docs.kusama.lido.fi

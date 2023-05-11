@@ -35,6 +35,7 @@ sol-api-pub.lido.fi
 solana.lido.fi
 stake.lido.fi
 stake.testnet.lido.fi
+staking-modules.lido.fi
 static.lido.fi
 status.lido.fi
 terra.lido.fi
