@@ -1,0 +1,8 @@
+admin.nextiva.com
+api.be.nextiva.com
+api.nextiva.com
+assets.nextiva.com
+nextiva.com
+nextos.com
+partner.nextiva.com
+staging.nextiva.com
