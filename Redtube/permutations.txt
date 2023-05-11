@@ -5,13 +5,18 @@ bembed.core.redtube.com
 bembed2020.redtube.com
 blog.redtube.com
 blogo1.redtube.com
+chatstorage.redtube.com
 cms.redtube.com
 core-61.redtube.com
+de-stage.redtube.com
 eng-com.redtube.com
 ir.ads03.redtube.com
 jp-stage.redtube.com
+premiummonitor.redtube.com
 redtube.com
+ru-login.redtube.com
 ru-stage.redtube.com
+shopify.ads03.redtube.com
 stage-cms.redtube.com
 stage-feeds.redtube.com
 stage.blog.redtube.com
@@ -19,4 +24,5 @@ stage.cms.redtube.com
 stage.redtube.com
 staticcdn.redtube.com
 www-stage.redtube.com
+www.de.redtube.com
 www.redtube.com
