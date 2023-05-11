@@ -28,6 +28,7 @@ cb.ovo.id
 cdn01.ovo.id
 commander.ovo.id
 consul01.aws.ovo.id
+cybvpn20.ovo.id
 dashboard.ovo.id
 delivery.hello.ovo.id
 dev-admin.taralite.com
@@ -49,8 +50,10 @@ grafana.ovo.id
 grafana.taralite.com
 graylog.ovo.id
 gtnvpn21.ovo.id
+gtnvpn22.ovo.id
 helpcenter.ovo.id
 hermes.taralite.com
+homedeliveryacc.taralite.com
 images.ovo.id
 insurance.ovo.id
 insurance.taralite.com
@@ -120,6 +123,7 @@ verification.aws.ovo.id
 wallet.ovo.id
 web-cmsaccess-cpexamplesbackup-meet-git.dev-web.taralite.com
 webview.ovo.id
+webwww.taralite.com
 www.ovo.id
 www.taralite.com
 xtramile.ovo.id

@@ -10,11 +10,13 @@ apigw-admin.ovo.id
 asset.ovo.id
 auth.dev.taralite.com
 dashboard.ovo.id
+dev-admin.taralite.com
 dev-application.taralite.com
 dev-web.taralite.com
 dev.taralite.com
 developer.taralite.com
 developers.taralite.com
+grafana.aws.ovo.id
 grafana.ovo.id
 grafana.taralite.com
 logs.dev.taralite.com
