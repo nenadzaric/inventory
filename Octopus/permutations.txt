@@ -1,0 +1,8 @@
+api.billing.octopus.com
+atlas.octopus.com
+docs.octopus.com
+octopus.com
+shop.octopus.com
+stripe.billing.octopus.com
+www.octopus.com
+www.preprod.octopus.com
