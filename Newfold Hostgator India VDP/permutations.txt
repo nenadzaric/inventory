@@ -21,10 +21,13 @@ corp.md-in-62.hostgator.in
 dashboard.md-in-62.hostgator.in
 data.md-in-62.hostgator.in
 dev.md-in-62.hostgator.in
+dev.support.hostgator.in
 developer.md-in-62.hostgator.in
 developers.md-in-62.hostgator.in
 dmz.md-in-62.hostgator.in
 drupal.md-in-62.hostgator.in
+engineering.md-in-62.hostgator.in
+eu-east-1.md-in-62.hostgator.in
 faq.md-in-62.hostgator.in
 gibo1.hostgator.in
 gibo10.hostgator.in
@@ -32,11 +35,14 @@ gibo18.hostgator.in
 gibo2.hostgator.in
 gibo3.hostgator.in
 gibo4.hostgator.in
+gibo5.hostgator.in
 gibo6.hostgator.in
+gibo7.hostgator.in
 gibo8.hostgator.in
 gibo9.hostgator.in
 gibologin.hostgator.in
 hostgator.in
+image.hostgator.in
 image.md-in-62.hostgator.in
 internal.md-in-62.hostgator.in
 k8s.md-in-62.hostgator.in
@@ -55,6 +61,7 @@ my.hostgator.in
 o1.email.hostgator.in
 o1.md-in-62.hostgator.in
 oauth2.md-in-62.hostgator.in
+origin.md-in-62.hostgator.in
 partner.md-in-62.hostgator.in
 private.md-in-62.hostgator.in
 prometheus.md-in-62.hostgator.in
@@ -80,6 +87,7 @@ vps17.hostgator.in
 vps18.hostgator.in
 vps19.hostgator.in
 wordpress.md-in-62.hostgator.in
+www.affiliates.hostgator.in
 www.blog.hostgator.in
 www.forums.hostgator.in
 www.hostgator.in
