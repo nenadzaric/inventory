@@ -1,0 +1,17 @@
+new,host,a,aaaa,soa,status_code,cdn,cdn-name
+[x],acs.thecoalition.com,"104.18.14.96, 104.18.15.96","2606:4700::6812:f60, 2606:4700::6812:e60","abby.ns.cloudflare.com, dns.cloudflare.com",NOERROR,True,cloudflare
+[x],admin-tools.thecoalition.com,"104.18.14.96, 104.18.15.96","2606:4700::6812:f60, 2606:4700::6812:e60","abby.ns.cloudflare.com, dns.cloudflare.com",NOERROR,True,cloudflare
+[x],ap.thecoalition.com,"104.18.15.96, 104.18.14.96","2606:4700::6812:e60, 2606:4700::6812:f60","abby.ns.cloudflare.com, dns.cloudflare.com",NOERROR,True,cloudflare
+[x],bb.thecoalition.com,"104.18.14.96, 104.18.15.96","2606:4700::6812:f60, 2606:4700::6812:e60","abby.ns.cloudflare.com, dns.cloudflare.com",NOERROR,True,cloudflare
+[x],blog.thecoalition.com,"104.18.15.96, 104.18.14.96","2606:4700::6812:f60, 2606:4700::6812:e60","abby.ns.cloudflare.com, dns.cloudflare.com",NOERROR,True,cloudflare
+[x],demo-api.thecoalition.com,"104.18.14.96, 104.18.15.96","2606:4700::6812:e60, 2606:4700::6812:f60","abby.ns.cloudflare.com, dns.cloudflare.com",NOERROR,True,cloudflare
+[x],demo-internal.thecoalition.com,"104.18.14.96, 104.18.15.96","2606:4700::6812:f60, 2606:4700::6812:e60","abby.ns.cloudflare.com, dns.cloudflare.com",NOERROR,True,cloudflare
+[x],docs.thecoalition.com,"104.18.14.96, 104.18.15.96","2606:4700::6812:f60, 2606:4700::6812:e60","abby.ns.cloudflare.com, dns.cloudflare.com",NOERROR,True,cloudflare
+[x],email-service.thecoalition.com,"104.18.15.96, 104.18.14.96","2606:4700::6812:e60, 2606:4700::6812:f60","abby.ns.cloudflare.com, dns.cloudflare.com",NOERROR,True,cloudflare
+[x],files.thecoalition.com,"104.18.15.96, 104.18.14.96","2606:4700::6812:f60, 2606:4700::6812:e60","abby.ns.cloudflare.com, dns.cloudflare.com",NOERROR,True,cloudflare
+[x],graphql.thecoalition.com,"104.18.15.96, 104.18.14.96","2606:4700::6812:f60, 2606:4700::6812:e60","abby.ns.cloudflare.com, dns.cloudflare.com",NOERROR,True,cloudflare
+[x],help.thecoalition.com,"104.18.15.96, 104.18.14.96","2606:4700::6812:f60, 2606:4700::6812:e60","abby.ns.cloudflare.com, dns.cloudflare.com",NOERROR,True,cloudflare
+[x],internal.thecoalition.com,"104.18.14.96, 104.18.15.96","2606:4700::6812:e60, 2606:4700::6812:f60","abby.ns.cloudflare.com, dns.cloudflare.com",NOERROR,True,cloudflare
+[x],platform.thecoalition.com,"104.18.15.96, 104.18.14.96","2606:4700::6812:e60, 2606:4700::6812:f60","abby.ns.cloudflare.com, dns.cloudflare.com",NOERROR,True,cloudflare
+[x],staging-platform.thecoalition.com,,,,NOERROR,,
+[x],work-99897783.thecoalition.com,54.144.128.85,,,NOERROR,,
