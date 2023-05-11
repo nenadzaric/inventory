@@ -1,4 +1,5 @@
 assets.gener8ads.com
+dd.staging.gener8ads.com
 email-assets.gener8ads.com
 gener8ads.com
 grafana.gener8ads.com
