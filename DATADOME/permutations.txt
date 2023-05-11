@@ -6,13 +6,17 @@ datadome.co
 db.datadome.co
 dev-app.datadome.co
 dev-db.datadome.co
+dev.datadome.co
 docs.datadome.co
 grafana.datadome.co
 ldap.datadome.co
+mail.datadome.co
 o1.mail.datadome.co
 origin.datadome.co
 prod-app.datadome.co
 prometheus.datadome.co
+prometheus.tooling.datadome.co
+test.datadome.co
 www.datadome.co
 www.dev-corporate-website.datadome.co
 www.dev.datadome.co

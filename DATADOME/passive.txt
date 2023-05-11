@@ -1,5 +1,6 @@
 api-alb-ap-east-1.datadome.co
 api-alb-ap-southeast-1.datadome.co
+api-alb-us-east-1.datadome.co
 api-alb-us-west-1.datadome.co
 api-alb-us-west-2.datadome.co
 api-ap-east-1.datadome.co
@@ -133,6 +134,7 @@ img.newsletter.datadome.co
 influxdb.datadome.co
 info.datadome.co
 internal.datadome.co
+jk-test.sdbx-sre.datadome.co
 jk.datadome.co
 js-cf.datadome.co
 js.datadome.co
@@ -179,6 +181,7 @@ sdbx-engine.datadome.co
 sdbx-sre.datadome.co
 second-test.datadome.co
 sonar-sandbox.datadome.co
+spf1.datadome.co
 spy-backend.sdbx-sre.datadome.co
 spy-backend.tooling.datadome.co
 spy.datadome.co
