@@ -7,4 +7,5 @@ faq.hackenproof.com
 grafana-dev.hackenproof.com
 hackenproof.com
 stg-legacy.hackenproof.com
+stg.mta-sts.hackenproof.com
 www.hackenproof.com
