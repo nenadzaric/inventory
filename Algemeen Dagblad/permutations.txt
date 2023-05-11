@@ -1,4 +1,5 @@
 acc.ad.nl
+acc.kcc.ad.nl
 acc.voordeel.ad.nl
 acc.webwinkel.ad.nl
 ad.nl
@@ -15,6 +16,7 @@ conf.valtaf.ad.nl
 content.valtaf.ad.nl
 core.valtaf.ad.nl
 dashboard.valtaf.ad.nl
+data.ad.nl
 db.valtaf.ad.nl
 developers.valtaf.ad.nl
 dmz.valtaf.ad.nl
@@ -24,7 +26,9 @@ eu-central-1.valtaf.ad.nl
 forum.valtaf.ad.nl
 ir.valtaf.ad.nl
 lab.valtaf.ad.nl
+live.ad.nl
 live.valtaf.ad.nl
+local.kcc.ad.nl
 local.valtaf.ad.nl
 local.webwinkel.ad.nl
 login.ad.nl
@@ -50,3 +54,4 @@ vpn.valtaf.ad.nl
 web.ad.nl
 wordpress.valtaf.ad.nl
 wp.valtaf.ad.nl
+www.ad.nl
