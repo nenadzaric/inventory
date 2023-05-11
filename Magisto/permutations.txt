@@ -3,5 +3,6 @@ delta.cdn.magisto.com
 docs.magisto.com
 magisto.com
 prometheus.magisto.com
+stage.test.magisto.com
 staging.magisto.com
 www.magisto.com

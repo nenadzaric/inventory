@@ -134,6 +134,8 @@ url3344.app.magisto.com
 videofyapp.magisto.com
 vimeo-b.magisto.com
 vimeo.magisto.com
+vimeoent.dev.magisto.com
+vimeoent.magisto.com
 wordpress.magisto.com
 wtest1.magisto.com
 wtest2.magisto.com
