@@ -2477,6 +2477,7 @@ cwmslab-admin.cms.gov
 cwmslab-media.cms.gov
 cwoutcomes.acf.hhs.gov
 cwrp-helpdesk.cfsrportal.acf.hhs.gov
+cya.hhs.gov
 cyberawareness.hhs.gov
 cyclo.dpd.cdc.gov
 d1csp002.hhs.gov
@@ -2658,6 +2659,7 @@ dev-api.ccxp.backends.cms.gov
 dev-api.finder.backends.cms.gov
 dev-api.mcc.backends.cms.gov
 dev-api.mct.backends.cms.gov
+dev-api.pdc.backends.cms.gov
 dev-apstarc.acl.gov
 dev-cdcmediastream.cdc.gov
 dev-cdcmediastream.glb.cdc.gov
@@ -7414,6 +7416,7 @@ procurementforecast.hhs.gov
 prod-api.bi.backends.cms.gov
 prod-api.finder.backends.cms.gov
 prod-api.mcc.backends.cms.gov
+prod-api.pdc.backends.cms.gov
 prod-aspr.hhs.gov
 prod-asprgis.hhs.gov
 prod-asprphotos.hhs.gov
@@ -8291,6 +8294,7 @@ sg.vdc.midas.cms.gov
 sgeneed.nlm.nih.gov
 sgeneed6.nlm.nih.gov
 sgeportal.od.nih.gov
+sghtnidillr.acl.gov
 sgmap.nidcr.nih.gov
 sgrc.hhs.gov
 share-b12-aq31-ltm2.net.nih.gov
@@ -8595,6 +8599,7 @@ staffintranet.od.nih.gov
 staffstaging.foh.hhs.gov
 stage-admin-surgeongeneral.cloud.hhs.gov
 stage-api.digitalmedia.hhs.gov
+stage-api.pdc.backends.cms.gov
 stage-breach-admin.cloud.hhs.gov
 stage-cmsmanager.digitalmedia.hhs.gov
 stage-digitalmedia.hhs.gov
@@ -9500,6 +9505,7 @@ vcsve1.csr.nih.gov
 vcsve2.csr.nih.gov
 vdc.midas.cms.gov
 vdi.cms.gov
+vdi.hhs.gov
 vdi.nih.gov
 vdildap.cms.gov
 vdiotp.cms.gov
