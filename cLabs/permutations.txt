@@ -1,0 +1,13 @@
+api.transfer.celo.org
+api.transferanalytics.celo.org
+blog.celo.org
+celo.org
+dev.celo.org
+developers.celo.org
+docs.celo.org
+forum.celo.org
+staging.celo.org
+stats.celo.org
+www.celo.org
+www.dev.celo.org
+www.docs.celo.org
