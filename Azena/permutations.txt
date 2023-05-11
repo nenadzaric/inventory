@@ -1,0 +1,6 @@
+api.console.azena.com
+artifacts.developer.azena.com
+azena.com
+developer.azena.com
+docs.azena.com
+media.azena.com
