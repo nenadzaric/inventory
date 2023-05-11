@@ -1,0 +1,15 @@
+new,host,a,soa,status_code,cdn,cdn-name,mx,ns,txt
+[x],de.eslint.org,"34.159.168.235, 34.141.28.239","dns1.p04.nsone.net, hostmaster.nsone.net",NOERROR,True,google,,,
+[x],docs.eslint.org,"35.198.80.163, 34.159.75.132","dns1.p04.nsone.net, hostmaster.nsone.net",NOERROR,True,google,,,
+[x],es.eslint.org,"34.141.103.251, 34.141.72.9","dns1.p04.nsone.net, hostmaster.nsone.net",NOERROR,,,,,
+[x],eslint.org,"34.159.168.235, 34.141.11.154","dns1.p04.nsone.net, hostmaster.nsone.net",NOERROR,True,google,"aspmx.l.google.com, alt3.aspmx.l.google.com, alt2.aspmx.l.google.com, alt4.aspmx.l.google.com, alt1.aspmx.l.google.com","dns1.p04.nsone.net, dns4.p04.nsone.net, dns2.p04.nsone.net, dns3.p04.nsone.net","v=spf1 include:spf.improvmx.com ~all, google-site-verification=oKVXXUUEHqMBD-TTYSoV0ehQR40BwaIfeqY60DXlOGc"
+[x],fr.eslint.org,"35.198.80.163, 34.141.72.9","dns1.p04.nsone.net, hostmaster.nsone.net",NOERROR,True,google,,,
+[x],ja.eslint.org,"18.213.222.111, 54.161.234.33","dns1.p04.nsone.net, hostmaster.nsone.net",NOERROR,True,google,,,
+[x],jenkins.eslint.org,198.199.92.220,"dns1.p04.nsone.net, hostmaster.nsone.net",NOERROR,,,,,
+[x],new.cn.eslint.org,"34.141.11.154, 35.156.224.161","dns1.p04.nsone.net, hostmaster.nsone.net",NOERROR,True,google,,,
+[x],new.eslint.org,"35.156.224.161, 34.159.168.235","dns1.p04.nsone.net, hostmaster.nsone.net",NOERROR,True,google,,,
+[x],play.eslint.org,"18.192.231.252, 34.159.25.198","dns1.p04.nsone.net, hostmaster.nsone.net",NOERROR,True,google,,,
+[x],pt-br.eslint.org,"34.141.48.9, 34.159.25.198","dns1.p04.nsone.net, hostmaster.nsone.net",NOERROR,,,,,
+[x],www.eslint.org,"104.196.30.220, 34.73.83.172","dns1.p04.nsone.net, hostmaster.nsone.net",NOERROR,,,,,
+[x],zh-hans.docs.eslint.org,"34.148.79.160, 34.148.147.18","dns1.p04.nsone.net, hostmaster.nsone.net",NOERROR,True,google,,,
+[x],zh-hans.eslint.org,"34.168.247.115, 34.83.23.240","dns1.p04.nsone.net, hostmaster.nsone.net",NOERROR,True,google,,,
