@@ -1,4 +1,5 @@
 api-proxy.bitfinex.com
+api-pub.staging.bitfinex.com
 api.bitfinex.com
 api.staging.bitfinex.com
 bitfinex.com
