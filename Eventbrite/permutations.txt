@@ -3,3 +3,6 @@ admin.eventbrite.nl
 assets.eventbrite.com
 eventbrite.com
 eventbrite.nl
+final-aascend2018.eventbrite.com
+mobile-abe-flex-pass.eventbrite.com
+mta-sts.aberdeendevelopers.eventbrite.com

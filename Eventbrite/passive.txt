@@ -75,6 +75,7 @@ greenpeacenl.eventbrite.nl
 hackerx-istanbul-fullstack-apr2023-employer.eventbrite.com
 hackerx-kansascity-apr-2023-fs-dev.eventbrite.com
 hackerx-montreal-may2023-fullstack-employer.eventbrite.com
+hackerx-nyc-mar-2023-fs-dev.eventbrite.com
 hackerx-portland-apr23-emp.eventbrite.com
 hackerx-prague-backend-datascience-may2023-employer.eventbrite.com
 htgtsummit.eventbrite.nl
