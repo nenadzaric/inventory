@@ -8,11 +8,16 @@ cuv-prod.app
 cuvva.co
 cuvva.com
 feedback.cuvva.com
+fraudsquad.cuvva.com
+https-abs-twimg-com-4.cuvva.com
+links.cuvva.com
+magic.cuvva.com
 ops.cuvva.com
 static.cuvva.com
 status.cuvva.com
 support.cuvva.co
 support.cuvva.com
+underwriter.partner.cuvva.com
 underwriter.prod.cuv-prod.app
 www.cuvva.co
 www.cuvva.com
