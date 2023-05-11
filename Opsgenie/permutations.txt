@@ -4,6 +4,7 @@ api.eu.opsgenie.com
 api.opsgenie.com
 app.eu.opsgenie.com
 app.opsgenie.com
+asset.app-backup.opsgenie.com
 blog.eu.opsgenie.com
 blog.opsgenie.com
 blogs.app.opsgenie.com
