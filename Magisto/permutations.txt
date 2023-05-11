@@ -1,0 +1,7 @@
+api.magisto.com
+delta.cdn.magisto.com
+docs.magisto.com
+magisto.com
+prometheus.magisto.com
+staging.magisto.com
+www.magisto.com
