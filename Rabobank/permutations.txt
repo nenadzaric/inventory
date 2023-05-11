@@ -1,6 +1,10 @@
 api.digitalbrazil.rabobank.com
 api.rabobank.nl
+careers.rabobank.com
+client.cloudbrdev.rabobank.com
+client.cloudbrsit.rabobank.com
 client.cloudbruat.rabobank.com
+client.rabobank.com
 dashboard.omnikassa.rabobank.nl
 data.rabobank.com
 dev.acorn.rabobank.com
@@ -15,6 +19,7 @@ oauth.rabobank.nl
 public.rabobank.com
 rabobank.com
 rabobank.nl
+search.rabobank.com
 stats.rabobank.com
 stats.rabobank.nl
 test.acorn.rabobank.com
