@@ -7,6 +7,7 @@ download.bitforex.com
 event.bitforex.com
 grinproxy.bitforex.com
 help.bitforex.com
+m.bitforex.com
 mobile.bitforex.com
 static.bitforex.com
 support.bitforex.com
