@@ -8,7 +8,9 @@ devtest.arlo.com
 devtest1.arlo.com
 image.e.arlo.com
 log-dev.arlo.com
+my.arlo.com
 oauth.arlo.com
+oms-staging.arlo.com
 qa.arlo.com
 shop-dev.arlo.com
 spruce-dev.arlo.com
@@ -17,5 +19,7 @@ staging.store.arlo.com
 test.ar.arlo.com
 test.messaging.arlo.com
 ukshop-qa.arlo.com
+ukshopdev.arlo.com
 ukshopqa.arlo.com
+www.arlo.com
 www.ukshop.arlo.com
