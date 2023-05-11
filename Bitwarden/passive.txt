@@ -44,6 +44,7 @@ staging-website.bitwarden.com
 start.bitwarden.com
 status.bitwarden.com
 support.bitwarden.com
+test.bitwarden.com
 vault.bitwarden.com
 web-vault.bitwarden.com
 www.bitwarden.com
