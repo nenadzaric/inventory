@@ -11,4 +11,6 @@ hub.clausestaging.com
 login.clausestaging.com
 svc-helper-api.clausestaging.com
 tasks.clausestaging.com
+university.clausestaging.com
+v1-userslive.admin.clausestaging.com
 www.clausestaging.com
