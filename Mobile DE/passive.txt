@@ -67,6 +67,7 @@ e2e2-mein.ortelmobile.de
 e2e2-sim-karte-aktivierung.ortelmobile.de
 e2e2.info.ortelmobile.de
 e2e2.permissions.ortelmobile.de
+eforcmobile-dev.cso.att.com
 eitsmobile-dev.merck.com
 esra.www-test.tqmobile.dev.unikrn.com
 etamobile-dev.ual.com
@@ -105,6 +106,7 @@ heromobile-dev-01.zynga.com
 hessen.www-test.tqmobile.dev.unikrn.com
 hicham-alumniwww-test.tqmobile.dev.soundtrap.com
 home.mobile.de
+hrmobile.dev.att.com
 id-sandbox.mobile.de
 id-staging.mobile.de
 id.mobile.de
@@ -264,6 +266,7 @@ test.ortelmobile.de
 ticker.mobile.de
 tqmobile.dev.unikrn.com
 tracking.mobile.de
+tspacemobile.dev.att.com
 umfrage.mobile.de
 umnik.www-test.tqmobile.dev.soundtrap.com
 umst.mobile.de
