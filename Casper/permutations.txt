@@ -2,6 +2,7 @@ bedpost-db.casper.tools
 blog-staging.casper.com
 casper.com
 casper.tools
+configassets.casper.tools
 dev.casper.com
 docs.casper.tools
 image.mail.casper.com

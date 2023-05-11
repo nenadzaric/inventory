@@ -1,3 +1,4 @@
+access-chefold.casper.tools
 arcade.casper.com
 artifactory.casper.tools
 b2b.casper.com
@@ -12,6 +13,7 @@ click.mail.casper.com
 config.casper.tools
 dev.casper.com
 docs.casper.tools
+e0b5.casper.tools
 edge.casper.tools
 email.casper.com
 enterpriseenrollment.casper.com
@@ -21,6 +23,7 @@ gpmstip-dr.casper.com
 help.casper.com
 image.mail.casper.com
 internal-mulesoft.casper.com
+ipv4-c004-sjc004-dev-ix.casper.tools
 ir.casper.com
 legacy.casper.com
 localhost.mail.casper.com
@@ -53,9 +56,13 @@ stores.casper.com
 storybook.casper.tools
 suppliers.casper.com
 transfer.casper.tools
+uk-stores.casper.com
+validity.casper.com
 vcl.casper.tools
 view.mail.casper.com
+wdc-p-vprxy-01a.mail.casper.com
 welcome.casper.com
 wrair-141-236-194-59.casper.com
 www.casper.com
+www6b.config.casper.tools
 1pass-scim.casper.tools
