@@ -1,3 +1,5 @@
+ads-adserver.jora.com
+ads-adtracker.jora.com
 ads.jora.com
 ae.jora.com
 api-dev.employer.jora.com
@@ -18,6 +20,7 @@ cl.jora.com
 co.jora.com
 deploy.jora.xyz
 dev-employer-legacy.jora.com
+dev-employer.jora.com
 dip172.jora.com
 dz.jora.com
 e.local.jora.com
@@ -52,10 +55,12 @@ mx.jora.com
 my.jora.com
 mysqllogsauth.employer.jora.com
 nz.jora.com
+partner-feeds.jora.com
 pe.jora.com
 ph.jora.com
 pk.jora.com
 prism.jora.com
+production-firefly.jora.com
 pt.jora.com
 qa.jora.com
 sg.jora.com
@@ -68,6 +73,10 @@ us.jora.com
 usw1.jora.com
 ve.jora.com
 vn.jora.com
+web200.jora.com
+wolves.jora.com
+work-31278126.jora.xyz
+wsd-wml.jora.com
 www-test-preprod.jora.com
 www.jora.com
 za.jora.com
