@@ -1,0 +1,16 @@
+acc.messaging.devolksbank.nl
+ami-acc.devolksbank.nl
+asnbank.nl
+blgwonen.nl
+content.goedgeld.asnbank.nl
+data.asnbank.nl
+data.blgwonen.nl
+data.devolksbank.nl
+data.regiobank.nl
+developer.devolksbank.nl
+devolksbank.nl
+mail.asnbank.nl
+mobile.devolksbank.nl
+regiobank.nl
+www.asnbank.nl
+www.devolksbank.nl
