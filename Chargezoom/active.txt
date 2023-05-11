@@ -90,6 +90,8 @@ alphapostgresql-my-oceania.hp.payportal.net
 alphatemptemp-publicproxyslaveconfig.hp.payportal.net
 alt-app-extranet.hp.payportal.net
 altsftp.hp.payportal.net
+am21stg-tuscany.payportal.net
+amft-msc.payportal.net
 amsacta.hp.payportal.net
 analytics-service.hp.payportal.net
 analyticsbc.hp.payportal.net
@@ -136,6 +138,7 @@ archivelms.hp.payportal.net
 askbrianwood.hp.payportal.net
 aspera.hp.payportal.net
 asrs.hp.payportal.net
+assets-a92ccb5b-lp-omega.payportal.net
 assets-preferenceselasticbeanstalk-b2b-update.hp.payportal.net
 assetsatlc-lab.hp.payportal.net
 assetscustomers-preferences-connect-dns.hp.payportal.net
@@ -143,6 +146,7 @@ assetsi.hp.payportal.net
 assetsinfrastatus.hp.payportal.net
 assetsv3.hp.payportal.net
 asu.hp.payportal.net
+ata.payportal.net
 atl-p-iamdb-01a.hp.payportal.net
 atl-p-rdfsv-01b.hp.payportal.net
 atl-prd-aidb-01b.hp.payportal.net
@@ -207,6 +211,7 @@ beta-b-api5.hp.payportal.net
 beta-backyard3.hp.payportal.net
 beta-gcpapichef-uploaddoc.hp.payportal.net
 beta-jivesoftware.hp.payportal.net
+beta-michaelscottscudder.payportal.net
 beta-th.hp.payportal.net
 betacp-dev.hp.payportal.net
 betacsacc-db2-corp.hp.payportal.net
@@ -442,6 +447,7 @@ db2corporatemysqlbackups.hp.payportal.net
 db90.hp.payportal.net
 dbms-chefm.hp.payportal.net
 dbms-controller-static-exchangedns.hp.payportal.net
+dbms-faq.payportal.net
 dbms-trackuploadspanel.hp.payportal.net
 dbmsclz9uj87.hp.payportal.net
 dbmsgo.hp.payportal.net
@@ -504,6 +510,7 @@ drum-155-215-146-45.hp.payportal.net
 ds-covid19.hp.payportal.net
 dss-db-vm2.hp.payportal.net
 dssqa9-m.hp.payportal.net
+dummy-229-38.payportal.net
 e-tst2.hp.payportal.net
 e23esmtp03.hp.payportal.net
 easyvista.hp.payportal.net
@@ -514,6 +521,7 @@ ec2.hp.payportal.net
 edge-fwdproxy-2-bgp-01-sju1.hp.payportal.net
 edge-mws-shv-01-sjc3.hp.payportal.net
 edge-secure-shv-01-lis1.hp.payportal.net
+edge-synthetic-e2e-shv-01-den4.payportal.net
 edge-tcp-tunnel-fbonly-shv-01-lcy1.hp.payportal.net
 edgeproxy-irl1.hp.payportal.net
 editionrecords.hp.payportal.net
@@ -522,6 +530,7 @@ eds-sfdc-pw17.hp.payportal.net
 efarcheryeducation.hp.payportal.net
 eforall.hp.payportal.net
 ege-1-3-6.hp.payportal.net
+egr8-196-pda.simplytime.payportal.net
 ei-pmgt.hp.payportal.net
 elasticbeanstalk-devwpdoc-corporate.hp.payportal.net
 elasticbeanstalk-numnoms.hp.payportal.net
@@ -746,6 +755,7 @@ h-135-207-35-46.hp.payportal.net
 h-135-207-35-52.hp.payportal.net
 h-135-207-38-42.hp.payportal.net
 h-135-207-39-91.hp.payportal.net
+h-135-207-4-254.payportal.net
 h-135-207-41-13.hp.payportal.net
 h-135-207-48-121.payportal.net
 h-135-207-49-38.hp.payportal.net
@@ -816,6 +826,7 @@ integrationhelporigin.hp.payportal.net
 intensive.hp.payportal.net
 internal-uploadnew-helporigin.hp.payportal.net
 internalbetaacc.hp.payportal.net
+internaldemo-securebeta-acceptatie.payportal.net
 internalinternal-alphaconfig.hp.payportal.net
 internalvideov1.hp.payportal.net
 interplan.hp.payportal.net
@@ -889,6 +900,7 @@ jump.hp.payportal.net
 kafka-manager.hp.payportal.net
 kandoor.hp.payportal.net
 kfuk-kfum.hp.payportal.net
+kibana-automation.simplytime.payportal.net
 kibana-experiments.hp.payportal.net
 kingofazian.hp.payportal.net
 kingstonmuseums.hp.payportal.net
@@ -947,6 +959,7 @@ manhattan.hp.payportal.net
 marquois.hp.payportal.net
 master.hp.payportal.net
 matborsen.hp.payportal.net
+mcmaster.payportal.net
 mdcedu.hp.payportal.net
 media-cpt1-1.hp.payportal.net
 media-den4-1.hp.payportal.net
@@ -969,6 +982,7 @@ minervaproxyslaveconfig.hp.payportal.net
 mingeneration.hp.payportal.net
 minhafolha.hp.payportal.net
 mirror-test.hp.payportal.net
+mkmdcyz067074.payportal.net
 mlse.hp.payportal.net
 mm.hp.payportal.net
 mobileapi.hp.payportal.net
@@ -1063,7 +1077,10 @@ p03-iwres3.hp.payportal.net
 p03.hp.payportal.net
 p05-smtp.hp.payportal.net
 p06-conduit.hp.payportal.net
+p08-contentws.payportal.net
 p09-iwres.hp.payportal.net
+p114-streams-china.payportal.net
+p119-iwmb5.payportal.net
 p121-ckdatabasews.hp.payportal.net
 p124-iwmb0.hp.payportal.net
 p14-iwres.hp.payportal.net
@@ -1174,6 +1191,7 @@ prod-oceaniajiratunnel-mx.hp.payportal.net
 prod-origin.hp.payportal.net
 prod-system-root-devopsorigin.hp.payportal.net
 prod-usersprivate-meet-temp-examplestunnel-mx.hp.payportal.net
+prod-v4-payments.payportal.net
 prodalpha.hp.payportal.net
 prodapi-apiapps.hp.payportal.net
 prodengdbapi.hp.payportal.net
@@ -1207,6 +1225,7 @@ ra2-0-2-4.hp.payportal.net
 racing.hp.payportal.net
 ras.hp.payportal.net
 ratsuitengri.hp.payportal.net
+rds01.payportal.net
 reallyuseful.hp.payportal.net
 redirect-container.hp.payportal.net
 redirectapiextranet-m.hp.payportal.net
@@ -1224,6 +1243,7 @@ research-strategy.hp.payportal.net
 resicinga.hp.payportal.net
 restaurant.hp.payportal.net
 ret-3-1-5.hp.payportal.net
+retailme.payportal.net
 rets.hp.payportal.net
 revereps.hp.payportal.net
 rge-0-2-3.hp.payportal.net
@@ -1262,6 +1282,7 @@ s3-elasticbeanstalk-gcppublic.hp.payportal.net
 s3-minervaproxyslaveconfig.hp.payportal.net
 s3-sharecsimgshare.hp.payportal.net
 s3alpha.hp.payportal.net
+s3backupengineering-dbms.payportal.net
 s3e-1-1-1.hp.payportal.net
 s3edge.hp.payportal.net
 s3loginbackup.hp.payportal.net
@@ -1336,6 +1357,7 @@ spsmtp01.hp.payportal.net
 sqlservermediaconfig-helpdesk.hp.payportal.net
 sr-b-1-vlan-18.hp.payportal.net
 st-ihs.hp.payportal.net
+st10701001.payportal.net
 st14p04ls-gsps11-st14-pod04-r01.hp.payportal.net
 st14p11ls-gsp58-st14-pod11-r01.hp.payportal.net
 stag46.hp.payportal.net
@@ -1754,6 +1776,7 @@ web-st1-wwft-01.hp.payportal.net
 web-trackingsupport-corp.hp.payportal.net
 web-vpn-extranetclients.hp.payportal.net
 web01-max.hp.payportal.net
+web233.payportal.net
 web40.hp.payportal.net
 web41.hp.payportal.net
 web83.hp.payportal.net
@@ -1788,6 +1811,7 @@ wikistatauth.hp.payportal.net
 wikiuser.hp.payportal.net
 wikiv1-mailrelay.hp.payportal.net
 windows-vista-service-pack-2.hp.payportal.net
+wingsonline.payportal.net
 wishlist.hp.payportal.net
 ws.hp.payportal.net
 wug.hp.payportal.net
@@ -1916,3 +1940,6 @@ ziyouxieye.hp.payportal.net
 158-7-252-60.hp.payportal.net
 429d.hp.payportal.net
 602b.hp.payportal.net
+2018-wikiapi.payportal.net
+2021dbms.payportal.net
+3068656g6.payportal.net

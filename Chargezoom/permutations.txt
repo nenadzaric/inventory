@@ -1,3 +1,4 @@
+api.payportal.net
 h-135-207-53-219drupal.payportal.net
 payportal.net
 qa-cpanel.payportal.net
