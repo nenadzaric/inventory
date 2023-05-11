@@ -4,4 +4,10 @@ crypto.savedroid.com
 ico.savedroid.com
 msoid.savedroid.com
 savedroid.com
+w27p-1-5.savedroid.com
+webmail10b.api.savedroid.com
+webtest.api.savedroid.com
+wiki-origin-app-ab45.savedroid.com
+ws-comms-63.savedroid.com
+www-orgstoreqalive.dashboard.savedroid.com
 www.savedroid.com
