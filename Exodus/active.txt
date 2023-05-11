@@ -40,6 +40,8 @@ hedera.a.exodus.io
 help.exodus.com
 help.exodus.io
 litecoin.a.exodus.io
+marley-p.exodus.io
+metadata.exodus.com
 metadata.exodus.io
 neo-mag.a.exodus.io
 oauth.exodus.io
@@ -56,7 +58,9 @@ referrals.a.exodus.io
 referrals.exodus.com
 ripple.a.exodus.io
 server.exodus.io
+simulation.a.exodus.io
 solana-qn-d.a.exodus.io
+solana.a.exodus.io
 substrate-api-sidecar.a.exodus.io
 support-helpers.a.exodus.io
 support-lt.exodus.com
@@ -67,8 +71,10 @@ tezos.a.exodus.io
 updates.exodus.com
 updates.exodus.io
 vet.a.exodus.io
+web-dapps.a.exodus.io
 web3.a.exodus.io
 www.exodus.com
 www.exodus.io
+xmr.a.exodus.io
 zcash.a.exodus.io
 zilliqa.a.exodus.io
