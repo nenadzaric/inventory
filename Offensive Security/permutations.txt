@@ -1,0 +1,12 @@
+api.offensive-security.com
+atlas.kali.org
+backtrack-linux.org
+backup.kali.org
+exploit-db.com
+forums.docs.kali.org
+kali.org
+manager.docs.kali.org
+offensive-security.com
+staging.docs.kali.org
+www.kali.org
+www.offensive-security.com
