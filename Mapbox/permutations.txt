@@ -3,6 +3,7 @@ api.mapbox.com
 api.tiles.mapbox.com
 atlas.mapbox.com
 blog.mapbox.com
+docs.mapbox.com
 info.mapbox.com
 mapbox.com
 prod.mapbox.com
