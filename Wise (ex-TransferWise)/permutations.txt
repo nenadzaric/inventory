@@ -1,4 +1,5 @@
 api.transferwise.com
+api.wise.com
 tech.transferwise.com
 transferwise.com
 wise.com
