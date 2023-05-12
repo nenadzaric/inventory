@@ -1,3 +1,4 @@
+access.vercel.zapier.com
 admin.vercel.zapier.com
 app.vercel.zapier.com
 asset.vercel.zapier.com
@@ -6,12 +7,17 @@ cdn.zapier.com
 client.vercel.zapier.com
 conf.vercel.zapier.com
 data.zapier.com
+dev.vercel.zapier.com
 developer.zapier.com
 docs.api.zapier.com
 docs.vercel.zapier.com
 engineering.zapier.com
 eu-east-1.vercel.zapier.com
 faq.vercel.zapier.com
+grafana.vercel.zapier.com
+internal.tables.zapier.com
+ir.vercel.zapier.com
+logs.vercel.zapier.com
 media.zapier.com
 mobile.vercel.zapier.com
 mta-sts.zapier.com
@@ -31,7 +37,9 @@ stage.vercel.zapier.com
 stripe.vercel.zapier.com
 tech.vercel.zapier.com
 test.vercel.zapier.com
+us-east-2.vercel.zapier.com
 v2.vercel.zapier.com
+wp.vercel.zapier.com
 www.vercel.zapier.com
 www.zapier.com
 zapier.com
