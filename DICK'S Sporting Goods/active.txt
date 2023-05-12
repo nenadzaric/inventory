@@ -14,6 +14,7 @@ application.golfgalaxy.com
 arcadia-wi-school.vrst.com
 architecture.pages.dcsg.com
 as2.dcsg.com
+ausulsoawlsm32.vrst.com
 autodiscover.dcsg.com
 availability.dickssportinggoods.com
 beta.dickssportinggoods.com
@@ -30,6 +31,7 @@ click.golfgalaxy.com
 cloud.vpn.dcsg.com
 cmm.dickssportinggoods.com
 confluenceint.dcsg.com
+contactcenter.dcsg.com
 contactcenter.vpn.dcsg.com
 csc.vpn.dcsg.com
 dallas.vpn.dcsg.com
@@ -63,6 +65,7 @@ engineering.pages.dcsg.com
 enterpriseenrollment.dcsg.com
 fieldandstreamshop.com
 fit.dickssportinggoods.com
+flexplm.dcsg.com
 ftp.dcsg.com
 ftp2.dcsg.com
 gamma.dickssportinggoods.com
@@ -71,7 +74,11 @@ global.vpn.dcsg.com
 goinggoinggone.com
 golfgalaxy.com
 green.dcsg.com
+guam-gfebs.vrst.com
 h-135-197-236-40.vrst.com
+h-135-197-236-64.vrst.com
+h-135-207-170-45.dcsg.com
+h-135-207-7-42.prprprod.dcsg.com
 host126.vrst.com
 hosted.golfgalaxy.com
 hybrid.dcsg.com
@@ -84,6 +91,7 @@ inclusion.dickssportinggoods.com
 index.dickssportinggoods.com
 innovation.dickssportinggoods.com
 ip0-6-3616-1009.vrst.com
+ipv4-c328-dfw001-ix.vrst.com
 iq.vrst.com
 ir.dickssportinggoods.com
 jabber.dcsg.com
@@ -95,6 +103,7 @@ kirby.dcsg.com
 launch.dickssportinggoods.com
 launch.golfgalaxy.com
 lee-132-159-244-0.goinggoinggone.com
+lessons.golfgalaxy.com
 lessons.qa.dcsg.com
 lessonsapi.golfgalaxy.com
 lessonsapi.qa.dcsg.com
@@ -119,6 +128,7 @@ meta.dickssportinggoods.com
 meta.fieldandstreamshop.com
 meta.golfgalaxy.com
 metrics.calia.com
+metrics.dickssportinggoods.com
 metrics.fieldandstreamshop.com
 metrics.goinggoinggone.com
 metrics.golfgalaxy.com
@@ -150,12 +160,16 @@ mycloud.dcsg.com
 mycloudclient.dcsg.com
 myhr.dcsg.com
 myhrext.dcsg.com
+myhrqa.dcsg.com
 myhruat.dcsg.com
 mymeeting.dcsg.com
 mymobileconfig.dcsg.com
 myw2.dcsg.com
+nersuryschool.vrst.com
 notifications.dcsg.com
 notifications.fieldandstreamshop.com
+notifications.golfgalaxy.com
+notifications.publiclands.com
 ool.dcsg.com
 origin-gateway.dcsg.com
 origin-m.fieldandstreamshop.com
@@ -167,6 +181,7 @@ origin-www2.fieldandstreamshop.com
 origin-www2.golfgalaxy.com
 origin.golfgalaxy.com
 p117-feedbackws.vrst.com
+p218-contentws-china.vrst.com
 pages.dcsg.com
 payments-docs.pages.dcsg.com
 payments.dickssportinggoods.com
@@ -181,6 +196,7 @@ preview.golfgalaxy.com
 preview.publiclands.com
 preview.vrst.com
 pricing.dickssportinggoods.com
+protips.dickssportinggoods.com
 publiclands.com
 qa-jira.dcsg.com
 re-docs.pages.dcsg.com
@@ -193,6 +209,7 @@ scene7.dickssportinggoods.com
 scene7.fieldandstreamshop.com
 scene7.golfgalaxy.com
 sceng.pages.dcsg.com
+searchws.golfgalaxy.com
 secure.golfgalaxy.com
 securemail.dcsg.com
 sip.dcsg.com
@@ -208,6 +225,7 @@ sso.fieldandstreamshop.com
 sso.golfgalaxy.com
 sso.publiclands.com
 stash.dcsg.com
+stash2.dcsg.com
 stores.dickssportinggoods.com
 stores.fieldandstreamshop.com
 stores.golfgalaxy.com
@@ -216,6 +234,7 @@ sts.dcsg.com
 sts2.dcsg.com
 sub-97-141-197.vrst.com
 svn.dcsg.com
+system-vippreferences.vrst.com
 t.dickssportinggoods.com
 t.fieldandstreamshop.com
 t.golfgalaxy.com
@@ -235,7 +254,9 @@ vrst.com
 vto.dcsg.com
 vto.qa.dcsg.com
 wapp06.calia.com
+web460.golfgalaxy.com
 webmail.dcsg.com
+wsg-jfk-01p-drac.dcsg.com
 www.calia.com
 www.dickssportinggoods.com
 www.fieldandstreamshop.com
