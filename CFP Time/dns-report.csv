@@ -1,0 +1,13 @@
+new,host,a,cname,soa,status_code,aaaa,cdn,cdn-name
+[x],253awww.cfptime.org,178.62.50.207,www.cfptime.org,"ajay.ns.cloudflare.com, dns.cloudflare.com",NOERROR,,,
+[x],3awww.cfptime.org,178.62.50.207,www.cfptime.org,"ajay.ns.cloudflare.com, dns.cloudflare.com",NOERROR,,,
+[x],alphapreferences-appse.cfptime.org,,www.cfptime.org,"ajay.ns.cloudflare.com, dns.cloudflare.com",NOERROR,,,
+[x],beta.cfptime.org,"188.114.96.3, 188.114.97.3",,"ajay.ns.cloudflare.com, dns.cloudflare.com",NOERROR,"2a06:98c1:3120::3, 2a06:98c1:3121::3",True,cloudflare
+[x],cache-webserviceslabshelporigin.3awww.cfptime.org,178.62.50.207,www.cfptime.org,"ajay.ns.cloudflare.com, dns.cloudflare.com",NOERROR,,,
+[x],fspm-78-19.cfptime.org,178.62.50.207,www.cfptime.org,"ajay.ns.cloudflare.com, dns.cloudflare.com",NOERROR,,,
+[x],host-155-19-75-9.cfptime.org,178.62.50.207,www.cfptime.org,"ajay.ns.cloudflare.com, dns.cloudflare.com",NOERROR,,,
+[x],nodevpn.3awww.cfptime.org,178.62.50.207,www.cfptime.org,"ajay.ns.cloudflare.com, dns.cloudflare.com",NOERROR,,,
+[x],preview-cmcc.3awww.cfptime.org,178.62.50.207,www.cfptime.org,"ajay.ns.cloudflare.com, dns.cloudflare.com",NOERROR,,,
+[x],sync600004-3.cfptime.org,178.62.50.207,www.cfptime.org,"ajay.ns.cloudflare.com, dns.cloudflare.com",NOERROR,,,
+[x],www.cfptime.org,"188.114.96.0, 188.114.97.0",,"ajay.ns.cloudflare.com, dns.cloudflare.com",NOERROR,"2a06:98c1:3120::, 2a06:98c1:3121::",True,cloudflare
+[x],zetta-internal.cfptime.org,178.62.50.207,www.cfptime.org,"ajay.ns.cloudflare.com, dns.cloudflare.com",NOERROR,,,
