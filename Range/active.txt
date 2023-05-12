@@ -24,6 +24,7 @@ range.co
 rt.range.co
 seg-api.range.co
 seg-cdn.range.co
+wallets.ptr5640.range.co
 www-1-0.range.co
 www.range.co
 zoom.range.co
