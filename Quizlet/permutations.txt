@@ -1,5 +1,8 @@
+accountmy.quizlet.com
 compute-edge-z-p4-shv-02-gru2.quizlet.com
+content.m.quizlet.com
 dev-review.quizlet.com
+edge-z-p4-shv-02-gru22024.quizlet.com
 email.mssql.quizlet.com
 enoauth.quizlet.com
 final-account.quizlet.com
@@ -10,7 +13,9 @@ k8s-lifecycle.quizlet.com
 lifecyclecorp.quizlet.com
 log.email.quizlet.com
 m-qa.quizlet.com
+m-shopify.quizlet.com
 mail.quizlet.com
+manager-try.quizlet.com
 mobile-newsletter.quizlet.com
 newsletterpayment.quizlet.com
 o1.send.quizlet.com
@@ -20,5 +25,7 @@ s7.quizlet.com
 search-ghs.quizlet.com
 share-dev.quizlet.com
 share-search.quizlet.com
+staging.quizlet.com
 try.www.quizlet.com
 try2020.quizlet.com
+web2k8s.quizlet.com
