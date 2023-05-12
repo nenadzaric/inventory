@@ -1,13 +1,16 @@
+a2.bluejeans.com
 a3.bluejeans.com
 a4.bluejeans.com
 a6.bluejeans.com
 api.a.bluejeans.com
 api.bluejeans.com
+beltdashboard.bluejeans.com
 bluejeans.com
 corpvpn.bluejeans.com
 dev-wp.bluejeans.com
 docs.a.bluejeans.com
 docs.bluejeans.com
+huddle-assets.bluejeans.com
 huddle-beta.bluejeans.com
 huddle-logs.bluejeans.com
 indigo-api-stage.bluejeans.com
@@ -21,5 +24,6 @@ stage-videomeet-lync.mta-sts.bluejeans.com
 tech.www.bluejeans.com
 us-east-1.a.bluejeans.com
 us-west-2.a.bluejeans.com
+www-a.bluejeans.com
 www-dev.bluejeans.com
 www.bluejeans.com
