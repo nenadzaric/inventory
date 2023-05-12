@@ -1,11 +1,17 @@
+ads.partner.traveloka.com
 api.cnt.traveloka.com
 api.ctv.traveloka.com
+api.fpr.traveloka.com
 api.gtr.traveloka.com
 api.pay.traveloka.com
 api.pts.traveloka.com
 api.trp.traveloka.com
 api.txt.traveloka.com
+api.ugc.traveloka.com
+api.usr.traveloka.com
 api.xpe.traveloka.com
+api.xxt.traveloka.com
+app.txt.traveloka.com
 beta.xxt.traveloka.com
 blog.traveloka.com
 dashboard.ath.traveloka.com
@@ -14,3 +20,4 @@ mail.traveloka.com
 partner.traveloka.com
 traveloka.com
 www.traveloka.com
+www.web.traveloka.com
