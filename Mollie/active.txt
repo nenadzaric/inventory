@@ -5,7 +5,9 @@ assets.docs.mollie.com
 assets.mollie.com
 beta.mollie.com
 blog.mollie.com
+bounces.mollie.com
 case-management.mollie.com
+cdn.merchantdashboard.mollie.com
 cdn.website.mollie.com
 click.email.mollie.com
 cloud.api.mollie.com
@@ -30,6 +32,7 @@ marketing.mollie.com
 mollie.com
 my.mollie.com
 mygfsaslut.mollie.com
+pages.email.mollie.com
 partners.mollie.com
 pay.mollie.com
 paymentlink.mollie.com
@@ -42,6 +45,7 @@ tagmanager.mollie.com
 view.email.mollie.com
 wdg1-alt.mollie.com
 website.mollie.com
+www.beta.mollie.com
 www.mollie.com
 www.paymentlink.mollie.com
 zendesk1.mollie.com
