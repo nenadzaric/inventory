@@ -1,5 +1,6 @@
 -22998.cloudways.com
 -0ok.cloudways.com
+00-1-okta-mfa-ackswagger--acc08idsautodiscoverpermutations-ii.cloudways.com
 00000-okta-idpmgmt.active.prf02-crw.cloudways.com
 _.-141-251.cloudways.com
 _.-2be.cloudways.com
@@ -193,6 +194,7 @@ zyfqaxfzuk.cloudways.com
 3asupport.cloudways.com
 3awww.cloudways.com
 3d-evolution.frwww.cloudways.com
+04-1-okta-mfa-jenkins--acc-histoglobe.cloudways.com
 037topcovid19.cloudways.com
 57.e0.9bc0.ip4.static.cloudways.com
 253aapi.cloudways.com
