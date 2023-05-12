@@ -1,0 +1,14 @@
+access.usaa.com
+api.usaa.com
+beta.usaa.com
+content.usaa.com
+emedia.usaa.com
+s1.utv.usaa.com
+s1.utvqa.usaa.com
+stage.mall.usaa.com
+test-service2.usaa.com
+usaa.com
+utvqa.usaa.com
+www.mytotalrewards.usaa.com
+www.partners.usaa.com
+www.usaa.com
