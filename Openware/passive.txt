@@ -4,6 +4,7 @@ docs.yellow.org
 forms.yellow.org
 poc.yellow.org
 testnet.yellow.org
+tmp.yellow.org
 uat-y1337c0k.yellow.org
 www.awesometest.yellow.org
 www.pages.co.ilwww.yellow.org

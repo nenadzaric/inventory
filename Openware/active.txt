@@ -4,6 +4,7 @@ forms.yellow.org
 fra02-prd-ldcont-01a.www.yellow.org
 homedepot-ca.yellow.org
 testnet.yellow.org
+uat-y1337c0k.yellow.org
 web84.www.yellow.org
 webdbmshelpdeskcorporate.poc.yellow.org
 www.testnet.yellow.org
