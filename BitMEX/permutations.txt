@@ -1,0 +1,17 @@
+api.analytics.bitmex.com
+api.direct.bitmex.com
+api.testnet.bitmex.com
+beta.bitmex.com
+beta.testnet.bitmex.com
+bitmex.com
+blog.bitmex.com
+blog2.bitmex.com
+cdn.analytics.bitmex.com
+live.bitmex.com
+live.testnet.bitmex.com
+o1.m.bitmex.com
+public-testnet.bitmex.com
+public.bitmex.com
+testnet2.bitmex.com
+www.bitmex.com
+www.services.bitmex.com
