@@ -11,6 +11,7 @@ glassdoor.app
 glassdoor.com
 image.email.glassdoor.com
 mail.glassdoor.com
+mail7.glassdoor.com
 mail8.content.glassdoor.com
 mail8.glassdoor.com
 mail9.content.glassdoor.com
@@ -19,5 +20,7 @@ media.glassdoor.com
 o1.mail8.glassdoor.com
 partner-api-stage.glassdoor.com
 partner-api.glassdoor.com
+qa.glassdoor.com
 stage.glassdoor.com
 vpn.glassdoor.com
+www.glassdoor.com

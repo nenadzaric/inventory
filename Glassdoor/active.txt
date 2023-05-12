@@ -9,6 +9,7 @@ apply.glassdoor.com
 ar.glassdoor.com
 assets-qa.glassdoor.com
 assets.glassdoor.com
+at.glassdoor.com
 au.glassdoor.com
 be.glassdoor.com
 br.glassdoor.com
@@ -46,6 +47,7 @@ image.email.glassdoor.com
 images.glassdoor.com
 in.glassdoor.com
 insights.glassdoor.com
+internalnew-europe-us.mail.glassdoor.com
 it.glassdoor.com
 jira-stage.glassdoor.com
 jira.glassdoor.com
@@ -67,6 +69,7 @@ media.glassdoor.com
 mfa.glassdoor.com
 mkto.glassdoor.com
 mta.email.glassdoor.com
+mta2.email.glassdoor.com
 mx.glassdoor.com
 nl.glassdoor.com
 nz.glassdoor.com
@@ -85,11 +88,13 @@ o8.mail8.glassdoor.com
 o9.mail8.glassdoor.com
 omp.mail.glassdoor.com
 or.glassdoor.com
+pages.email.glassdoor.com
 partner-api.glassdoor.com
 pmp.glassdoor.com
 qa.glassdoor.com
 resources.glassdoor.com
 resume.glassdoor.com
+rsw62.email.glassdoor.com
 scim.glassdoor.com
 sentry.glassdoor.com
 servicedesk.glassdoor.com
@@ -98,6 +103,7 @@ sitemaps.glassdoor.com
 stage-help.glassdoor.com
 stage.glassdoor.com
 stage2.glassdoor.com
+stash.glassdoor.com
 static-qa.glassdoor.com
 static-stage.glassdoor.com
 static.glassdoor.com
@@ -114,6 +120,7 @@ use.glassdoor.com
 view.email.glassdoor.com
 voip.glassdoor.com
 vpn.glassdoor.com
+webmail.glassdoor.com
 wiki.glassdoor.com
 www-qa.glassdoor.com
 www-stage.glassdoor.com
