@@ -67,6 +67,7 @@ indexer.ethereum.shapeshift.com
 indexer.litecoin.shapeshift.com
 indexer.optimism.shapeshift.com
 indexer.thorchain.shapeshift.com
+juice.shapeshift.com
 live.shapeshift.com
 maintenance.shapeshift.com
 markets.shapeshift.com
