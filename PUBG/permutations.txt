@@ -4,6 +4,7 @@ careers.pubg.com
 content.pubg.com
 dev.pubgesports.com
 developer.pubg.com
+live.newstate.pubg.com
 pubg.com
 pubgesports.com
 qa.pubgesports.com
