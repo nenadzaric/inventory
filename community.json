@@ -7,6 +7,16 @@
         ],
         "wildcard_filters": [],
         "url": "https://bugcrowd.com/fis"
+      },
+      {
+        "name": "ClubHouse",
+        "domains": [
+          "clubhouse.com",
+          "clubhouseapi.com",
+          "joinclubhouse.com"
+        ],
+        "wildcard_filters": [],
+        "url": "https://hackerone.com/clubhouse"
       }
     ]
   }
