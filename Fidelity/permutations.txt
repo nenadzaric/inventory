@@ -7,11 +7,15 @@ careers.fidelity.com
 cloud.fidelity.com
 db.fidelity.com
 developer.fidelity.com
+developer.retail.fidelity.com
 fidelity.com
 institutionalmedia.fidelity.com
 login.fidelity.com
+login.retail.fidelity.com
 media.fidelity.com
 mobile.fidelity.com
+origin.capitalmarketsdev.fidelity.com
+origin.fidelityinstitutionaldev.fidelity.com
 search.fidelity.com
 websolution.access.fidelity.com
 wp.fidelity.com
