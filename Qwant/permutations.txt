@@ -1,0 +1,4 @@
+blog.qwant.com
+private-developers.qwant.com
+qwant.com
+www.qwant.com
