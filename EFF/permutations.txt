@@ -10,6 +10,7 @@ d6.staging.eff.org
 eff.org
 eng.d5.eff.org
 final.beta.eff.org
+gitlab.eff.org
 info.d5.eff.org
 internal.alpha.eff.org
 lab.alpha.eff.org
