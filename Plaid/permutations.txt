@@ -1,0 +1,13 @@
+api.dashboard.plaid.com
+api.my-commits.plaid.com
+api.my-development.plaid.com
+blog.plaid.com
+cdn.plaid.com
+dashboarddb.plaid.com
+docs.plaid.com
+mail.plaid.com
+my.plaid.com
+plaid.com
+production-private.plaid.com
+production2.plaid.com
+www.plaid.com
