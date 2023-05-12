@@ -1,3 +1,4 @@
+about.staging.gitlab.com
 asset.design.gitlab.com
 blog.gitlab.com
 careers.design-staging.gitlab.com
@@ -18,5 +19,8 @@ registry.staging.gitlab.com
 search.advisories.gitlab.com
 shop.gitlab.com
 shopify.design.gitlab.com
+staging.gitlab.com
 stats.gitlab.com
 test.pre.gitlab.com
+www.about.gitlab.com
+www.gitlab.com

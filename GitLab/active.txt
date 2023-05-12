@@ -32,6 +32,7 @@ api-internal.staging.gitlab.com
 api-private.design-staging.gitlab.com
 apiccrpi.design-staging.gitlab.com
 app.gitter.im
+aptly.gitlab.com
 archives.docs.gitlab.com
 ares.design-staging.gitlab.com
 assets-consumerelectronics.design-staging.gitlab.com
@@ -57,6 +58,7 @@ backupaccountsgiju.design-staging.gitlab.com
 backupcache-engineering-ww0.design-staging.gitlab.com
 backupmirror.design-staging.gitlab.com
 badges.gitter.im
+badges.staging.gitter.im
 bc1qr2q.design-staging.gitlab.com
 bcg3bj.design-staging.gitlab.com
 bcg3bt.design-staging.gitlab.com
@@ -177,18 +179,21 @@ devmedia-erpalt.design-staging.gitlab.com
 djremik.design-staging.gitlab.com
 dlvoice-dallas.design-staging.gitlab.com
 dns-acceptatie-china.design-staging.gitlab.com
+doc.gitlab.com
 docs-dev.gitlab.com
 docs.gitlab.com
 downloads-apiproduction.design-staging.gitlab.com
 dqcentraldevvarun.design-staging.gitlab.com
 duckling-preview.design-staging.gitlab.com
 dx-floater.design-staging.gitlab.com
+easytempo.community.gitlab.com
 ee.gitlab.com
 eforall.design-staging.gitlab.com
 elasticbeanstalk-accountjira-beta-origin.design-staging.gitlab.com
 elasticbeanstalk-exampledockerintra-backups-www-test.design-staging.gitlab.com
 elasticbeanstalk-vip-example-domain.design-staging.gitlab.com
 electronicsblog.design-staging.gitlab.com
+email.customers.gitlab.com
 email.gitlab.com
 emule.design-staging.gitlab.com
 enable.gitlab.com
@@ -219,6 +224,7 @@ ftru4-2.design-staging.gitlab.com
 galleryc4l7.design-staging.gitlab.com
 ganderteeth.design-staging.gitlab.com
 garlington.design-staging.gitlab.com
+gcp-circleting85.design-staging.gitlab.com
 gcp-redirectalphaarchivetemp-examplestunnel-mx.design-staging.gitlab.com
 gcppreferenceserp.design-staging.gitlab.com
 gcpsystemassets.design-staging.gitlab.com
@@ -244,6 +250,7 @@ gsps11-st14-oz1-rr.design-staging.gitlab.com
 h-135-197-193-34.design-staging.gitlab.com
 h-135-197-231-70.design-staging.gitlab.com
 h-135-207-10-71.design-staging.gitlab.com
+h-135-207-10-93.design-staging.gitlab.com
 h-135-207-102-74.design-staging.gitlab.com
 h-135-207-128-40.design-staging.gitlab.com
 h-135-207-13-98.design-staging.gitlab.com
@@ -335,6 +342,7 @@ mywdc03-prd-lbal-01b.gitter.im
 napicsart.design-staging.gitlab.com
 next.gitlab.com
 next.staging.gitlab.com
+observe.gitlab.com
 observe.staging.gitlab.com
 on-it.design-staging.gitlab.com
 online.design-staging.gitlab.com
@@ -383,6 +391,7 @@ prod-kh.design-staging.gitlab.com
 prod-systempostgresgit.design-staging.gitlab.com
 prodvideodev-portal.design-staging.gitlab.com
 prometheus.staging-ref.gitlab.com
+provas.community.gitlab.com
 ps5.design-staging.gitlab.com
 qivivo.design-staging.gitlab.com
 redirect-dev-cs-crm-dns.design-staging.gitlab.com
@@ -425,6 +434,7 @@ socure.design-staging.gitlab.com
 spn4-2-tba.design-staging.gitlab.com
 sr-b-1-vlan-13.design-staging.gitlab.com
 sslvpnclients.design-staging.gitlab.com
+sslvpnrouter-jiratunnel-mx.design-staging.gitlab.com
 stage-qc.design-staging.gitlab.com
 stage2du94.design-staging.gitlab.com
 staging-ref.gitlab.com
@@ -499,6 +509,7 @@ tor89-165-pda.design-staging.gitlab.com
 tor95-126-pdb.design-staging.gitlab.com
 tor97-178-pda.design-staging.gitlab.com
 totetool.design-staging.gitlab.com
+translate.gitlab.com
 trellegi.design-staging.gitlab.com
 trello.design-staging.gitlab.com
 tsyssolution.design-staging.gitlab.com
@@ -561,6 +572,7 @@ web-statuspartner.design-staging.gitlab.com
 webdatareset.design-staging.gitlab.com
 webforum.gitlab.com
 weblgelements.design-staging.gitlab.com
+webmail14c.about.gitlab.com
 webmail20b.design-staging.gitlab.com
 wellcare.design-staging.gitlab.com
 wf0.staging-ref.gitlab.com
@@ -575,6 +587,7 @@ www.about.gitlab.com
 www.gitlab.com
 www.shop.gitlab.com
 www01v2.design-staging.gitlab.com
+www2-dev.design-staging.gitlab.com
 wwwvietnam-hqda-239-52.design-staging.gitlab.com
 wwww.design-staging.gitlab.com
 wyql.design-staging.gitlab.com
@@ -588,6 +601,7 @@ zabbix.design-staging.gitlab.com
 zendesk1.gitlab.com
 zendesk2.gitlab.com
 zendesk3.gitlab.com
+zendesk4.gitlab.com
 7wkc4.design-staging.gitlab.com
 17-121-112-30.design-staging.gitlab.com
 17-121-112-61.design-staging.gitlab.com
