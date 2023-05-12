@@ -22,12 +22,16 @@ lp.alasco.de
 maintenance.alasco.de
 metabase.alasco.rocks
 metabase.internal.alasco.rocks
+o1.n.alasco.de
+partner-devtest-dal12.l.alasco.de
+preferencesdoccontainer-corporate.sandbox.alasco.de
 rabbitmq.alasco.de
 rabbitmq.alasco.rocks
 static-staging.alasco.rocks
 static.alasco.de
 support.alasco.de
 web-internalaltproduction.login.alasco.de
+webpostmandatabase-officebackups-domain.get.alasco.de
 webpublicww.login.alasco.rocks
 wiki-private-metasql.hello.alasco.de
 wp-accept-domain.api.alasco.de
