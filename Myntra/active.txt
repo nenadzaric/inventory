@@ -22,6 +22,7 @@ orca.myntra.com
 partnerapi.myntra.com
 partnerportal.myntra.com
 pps.myntra.com
+s3-dnsbeta-origin.registry.myntra.com
 searchsite.cdn.myntra.com
 secure.myntra.com
 sip.myntra.com
