@@ -1902,6 +1902,7 @@ med-web20-v01.ocio.monash.edu
 med-web21-v01.ocio.monash.edu
 med-web22-v01.ocio.monash.edu
 med-web28-v02.ocio.monash.edu
+med-xplor.ocio.monash.edu
 med.bpd.monash.edu
 med.monash.edu
 medcat.erc.monash.edu
@@ -1929,6 +1930,7 @@ metalexplorer.erc.monash.edu
 metasys.bpd.monash.edu
 metchall-rdp.med.monash.edu
 metchall.med.monash.edu
+metdcrep-01.mpc.monash.edu
 metis-dev-paw.apps.monash.edu
 metis-dev.apps.monash.edu
 metis-paw.apps.monash.edu
@@ -3007,6 +3009,7 @@ rstudio1.erc.monash.edu
 rstudioconnect-dev.monash.edu
 rstudioconnect.monash.edu
 rstudiopilot.erc.monash.edu
+rumble.monash.edu
 s-cah-mwallace.infotech.monash.edu
 sae-er-02.ocio.monash.edu
 safehaven.erc.monash.edu
@@ -3314,6 +3317,7 @@ storefront.monash.edu
 storefrontqat.monash.edu
 student-eassessment.monash.edu
 student-futures.monash.edu
+studenthub.online.monash.edu
 studentplacements-dev.monash.edu
 studentplacements-qat.monash.edu
 studentplacements.monash.edu
@@ -3750,10 +3754,12 @@ www.admin-sand.integration.monash.edu
 www.admin.integration.monash.edu
 www.admin.monash.edu
 www.adviser.adm.monash.edu
+www.agent-uat.apps.monash.edu
 www.alfresco.monash.edu
 www.allocate.its.monash.edu
 www.alumni.monash.edu
 www.amigo-qa.monash.edu
+www.amigo.apps.monash.edu
 www.amigo.monash.edu
 www.api-catalogue.monash.edu
 www.api-dev.monash.edu
@@ -3913,6 +3919,7 @@ www.jira-vre.its.monash.edu
 www.jmss-oliver.ad.monash.edu
 www.jobdesk.monash.edu
 www.journals.publishing.monash.edu
+www.juvo-qat.apps.monash.edu
 www.knowhow.lib.monash.edu
 www.lackmann-stores.med.monash.edu
 www.lens.monash.edu
@@ -3948,6 +3955,7 @@ www.merlin.its.monash.edu
 www.merlin.ocio.monash.edu
 www.mga.monash.edu
 www.miccnsurveykit.erc.monash.edu
+www.milestones-uat.apps.monash.edu
 www.milestones.apps.monash.edu
 www.mimr-calendar.med.monash.edu
 www.miti.monash.edu
@@ -4105,6 +4113,7 @@ www.sphpm-selfaudit.med.monash.edu
 www.statseeker-dr.its.monash.edu
 www.statseeker.its.monash.edu
 www.store.erc.monash.edu
+www.studenthub.online.monash.edu
 www.studentplacements.monash.edu
 www.study.monash.edu
 www.svn.ocio.monash.edu
