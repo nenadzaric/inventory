@@ -1,4 +1,9 @@
 admin.nordvpn.com
+api.nordvpn.com
+at134.nordvpn.com
+at135.nordvpn.com
+at137.nordvpn.com
+at138.nordvpn.com
 client-api.nordvpn.com
 content.nordvpn.com
 core.nordvpn.com
