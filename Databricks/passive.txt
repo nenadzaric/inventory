@@ -20,6 +20,7 @@ brand.databricks.com
 brickyard.databricks.com
 briefing.databricks.com
 chat.delta.io
+chatapi.databricks.com
 chatweb.databricks.com
 cicd-gov.dev-sec.databricks.com
 cloud.databricks.com
@@ -397,6 +398,7 @@ supporthub-azure-qa.databricks.com
 supporthub-azure.databricks.com
 supporthub-dev-admin.databricks.com
 supporthub-dev.databricks.com
+supporthub-qa.databricks.com
 supporthub-uat-admin.databricks.com
 supporthub-uat.databricks.com
 supporthub.databricks.com
