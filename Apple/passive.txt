@@ -1078,6 +1078,7 @@ artists-managment.apple.com
 artists-uat.apple.com
 artists.apple.com
 artists.itunes.apple.com
+as-assets.apple.com
 as-images-stage-ns.apple.com
 as-images-stage.apple.com
 as-images.apple.com
@@ -5215,8 +5216,10 @@ getsupport-pilot.apple.com
 getsupport-pilot1-aapse1.apple.com
 getsupport-pilot1-ause1.apple.com
 getsupport-pilot2-aapse1.apple.com
+getsupport-pilot2-aeuw1.apple.com
 getsupport-pilot2-ause1.apple.com
 getsupport-pilot2-ausw2.apple.com
+getsupport-pilot2.apple.com
 getsupport-pilot3-aapse1.apple.com
 getsupport-pilot3-aeuw1.apple.com
 getsupport-pilot3-ause1.apple.com
@@ -7557,6 +7560,7 @@ itunes-ssl.itunes.apple.com
 itunes-stls.itunes.apple.com
 itunes-store-url-bag.apple.com
 itunes.apple.com
+itunes.apple.com.lieferando.at
 itunes.dashboard.iso.apple.com
 itunes.isoproxy.apple.com
 itunes.itunes.apple.com
@@ -9861,6 +9865,7 @@ mr2corpclient-vpn2.apple.com
 mr2corpclient-vpn3.apple.com
 mr2corpclient-vpn4.apple.com
 mr3-sec-burp01.rno.apple.com
+mr30p68im-monitorm103.monitorm.icloud.com
 mr35q01if-configuration-backup.mr.if1.apple.com
 mr35q01if-configuration.mr.if1.apple.com
 mrapple-com1.apple.com
@@ -24832,6 +24837,7 @@ radar-m.apple.com
 radar-mdn.apple.com
 radar-portal-svc-ext-mdn.apple.com
 radar-portal-svc-ext-rno.apple.com
+radar-portal-svc-ext-use1.apple.com
 radar-rno.apple.com
 radar-webservices-alt-mdn.apple.com
 radar-webservices-alt-old.apple.com
@@ -30098,6 +30104,7 @@ venice.dashboard.iso.apple.com
 verdad.dashboard.iso.apple.com
 verify-all.apple.com
 verify-alt.apple.com
+verify-apple.icloud.com
 verify-nc.apple.com
 verifyall.apple.com
 verifybank.apistore.huaweicloud.com
@@ -30740,6 +30747,7 @@ www.store.apple.com
 www.support.apple.com
 www.swdist.apple.com
 www.uk.apple.com
+www.verify-apple.icloud.com
 www.wdb.apple.com
 www.wdirect.apple.com
 www.ws-reporting.apple.com
@@ -30821,6 +30829,8 @@ xlab-cal.bswe.apple.com
 xlab-uat.bswe.apple.com
 xlab.bswe.apple.com
 xlate.apple.com
+xml-origin.apple.com
+xml.apple.com
 xp-cdn.apple.com
 xp-daf.apple.com
 xp-dev.apple.com
@@ -35604,10 +35614,16 @@ zone.siri.apple.com
 37134e9548404487b6cf54929ff415c6.waf.huaweicloud.com
 61688e4e92ec4cc099983bae6a3ef5d1.waf.huaweicloud.com
 99119a135fdf441a832c31d92e152568.waf.huaweicloud.com
+271253.genapicloud.comeu0.sec-tunnel.com
+271266.genapicloud.comdefault0.sec-tunnel.com
+271283.genapicloud.comdefault4.sec-tunnel.com
+271583.genapicloud.comgraph.oculus.com
 271596.genapicloud.comcandle.etoro.com
 271630.genapicloud.comwww.cloudways.com
 271666.genapicloud.comcandle.etoro.com
 271727.genapicloud.comn229.network-auth.com
+271761.genapicloud.comext.todoist.com
+271843.genapicloud.comgraph.oculus.com
 271878.genapicloud.comcandle.etoro.com
 272319.genapicloud.comn193.network-auth.com
 896342d78b594fecb2990f3a8eab3b03.waf.huaweicloud.com

@@ -49,6 +49,7 @@ payment.huaweicloud.com
 plugins.apple.com
 public.huaweicloud.com
 qa.siri.apple.com
+search-prz.apple.com
 search.apple.com
 search.itunes.apple.com
 service.apple.com
