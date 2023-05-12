@@ -683,6 +683,7 @@ confluence.stg.sie.sony.com
 confluence.stg.snei.sony.com
 confluence.techsoft.eu.sony.com
 console-api.dl.sony.com
+console-dev.techhub.developer.sony.com
 content-qa.station.sony.com
 content-stage.station.sony.com
 content.ap.sony.com
