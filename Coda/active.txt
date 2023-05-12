@@ -6,12 +6,15 @@ admin.staging.coda.io
 airflow-head.data.coda.io
 airflow-prod.data.coda.io
 auth.coda.io
+auth.head.coda.io
 auth.staging.coda.io
 bazel-cache.dev-infra.coda.io
 blog.coda.io
+build.coda.io
 calc.coda.io
 calc.head.coda.io
 calc.staging.coda.io
+cdn.coda.io
 cert-service.head.coda.io
 cert-service.staging.coda.io
 coda.io
@@ -35,8 +38,10 @@ medialand.egress.coda.io
 medialand.infra.coda.io
 medialand.status.coda.io
 origin.coda.io
+origin.dev.coda.io
 origin.head.coda.io
 origin.staging.coda.io
+packs-auth.coda.io
 packs-auth.dev.coda.io
 packs-auth.head.coda.io
 packs-auth.staging.coda.io

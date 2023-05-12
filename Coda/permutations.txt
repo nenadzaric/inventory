@@ -2,6 +2,7 @@ admin.coda.io
 admin.dev.coda.io
 admin.head.coda.io
 admin.staging.coda.io
+airflow-prod.data.coda.io
 auth.staging.coda.io
 blog.coda.io
 build.coda.io
@@ -12,8 +13,10 @@ custom.staging.coda.io
 dev.coda.io
 docservice.staging.coda.io
 origin.coda.io
+origin.dev.coda.io
 origin.head.coda.io
 origin.staging.coda.io
 staging.coda.io
 www.coda.io
 www.head.coda.io
+www.staging.coda.io
