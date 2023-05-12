@@ -1,0 +1,11 @@
+auth.availcarsharing.com
+auth.dev.availcarsharing.com
+auth.preprod.availcarsharing.com
+availcarsharing.com
+dev.availcarsharing.com
+links.availcarsharing.com
+maintenance.availcarsharing.com
+preprod.availcarsharing.com
+www.availcarsharing.com
+www.dev.availcarsharing.com
+www.preprod.availcarsharing.com
