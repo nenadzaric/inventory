@@ -1,4 +1,5 @@
 admin.back.range.co
+admin.range.co
 api.range.co
 faq.range.co
 mta-sts.range.co
