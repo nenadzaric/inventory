@@ -1,0 +1,12 @@
+careers.humblebundle.com
+cdn.humblebundle.com
+developer.humblebundle.com
+docs.humblebundle.com
+eng.hq.humblebundle.com
+humblebundle.com
+jenkins2.humblebundle.com
+mail.humblebundle.com
+o1.sg-outbound.humblebundle.com
+www.humblebundle.com
+www.jobs.humblebundle.com
+www.try.humblebundle.com
