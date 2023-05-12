@@ -1377,6 +1377,14 @@
       "url": "https://hackerone.com/tiktok"
     },
     {
+      "name": "Shutterfly VDP",
+      "domains": [
+        "shutterfly.com"
+      ],
+      "wildcard_filters": [],
+      "url": "https://hackerone.com/shutterfly_vdp"
+    },
+    {
       "name": "PlayStation",
       "domains": [
         "api.playstation.com",
@@ -10648,6 +10656,16 @@
       ],
       "wildcard_filters": [],
       "url": "https://bugcrowd.com/fis"
+    },
+    {
+      "name": "ClubHouse",
+      "domains": [
+        "clubhouse.com",
+        "clubhouseapi.com",
+        "joinclubhouse.com"
+      ],
+      "wildcard_filters": [],
+      "url": "https://hackerone.com/clubhouse"
     }
   ]
 }
