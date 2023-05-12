@@ -2,11 +2,13 @@ access.mirrorit.westerndigital.com
 api-dev.westerndigital.com
 api-qa.westerndigital.com
 api.bugcrowd.com
+api.westerndigital.com
 beta.westerndigital.com
 blog.bugcrowd.com
 blog.westerndigital.com
 bugcrowd.com
 careers.westerndigital.com
+communitybeta.wd.com
 developer.westerndigital.com
 docs.bugcrowd.com
 email.forum.bugcrowd.com
@@ -21,6 +23,7 @@ service.wd.com
 shop-dev.westerndigital.com
 shop.wd.com
 shop.westerndigital.com
+supportbeta.wd.com
 wd.com
 westerndigital.com
 www-dev.westerndigital.com
@@ -28,5 +31,6 @@ www-stage.westerndigital.com
 www.bugcrowd.com
 www.mirrorit.westerndigital.com
 www.register.wd.com
+www.support.wd.com
 www.wd.com
 www.westerndigital.com

@@ -1,5 +1,6 @@
 access.mirrorit.westerndigital.com
 aem.westerndigital.com
+apac-hackathon.westerndigital.com
 api-dev.westerndigital.com
 api-qa.westerndigital.com
 api-uat.westerndigital.com
@@ -18,6 +19,7 @@ campaigns.wd.com
 careers.westerndigital.com
 cmat.dev.westerndigital.com
 cmat.stage.westerndigital.com
+cmat.webapi.westerndigital.com
 cmat.westerndigital.com
 collateral.bugcrowd.com
 commerce.westerndigital.com
@@ -61,6 +63,7 @@ jobs.westerndigital.com
 levelup.bugcrowd.com
 link.accounts.westerndigital.com
 link.westerndigital.com
+links.wd.com
 links.westerndigital.com
 lists.westerndigital.com
 m.wd.com
@@ -100,6 +103,7 @@ shop.westerndigital.com
 sl.westerndigital.com
 solr.westerndigital.com
 stamp.api.westerndigital.com
+stamp.webapi.westerndigital.com
 stargate.a.bugcrowd.com
 store.wd.com
 store.westerndigital.com
@@ -134,5 +138,6 @@ www-stage.westerndigital.com
 www.bugcrowd.com
 www.mirrorit.westerndigital.com
 www.register.wd.com
+www.support.wd.com
 www.wd.com
 www.westerndigital.com
