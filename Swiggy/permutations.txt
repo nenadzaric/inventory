@@ -1,0 +1,8 @@
+app-test.swiggy.com
+app.swiggy.com
+blog.swiggy.com
+careers.swiggy.com
+partner.swiggy.com
+staging.swiggy.com
+swiggy.com
+www.swiggy.com
