@@ -1,5 +1,6 @@
 api-sandbox.uphold.com
 api.uphold.com
+attachment.uphold.com
 blog.uphold.com
 cdn.uphold.com
 crl.uphold.com

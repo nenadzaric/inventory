@@ -4,6 +4,7 @@ api-openbanking-sandbox.uphold.com
 api-openbanking.uphold.com
 api-sandbox.uphold.com
 api.uphold.com
+ascent.uphold.com
 attachment.uphold.com
 autodiscover.uphold.com
 bank-gateway.webhooks.sandbox.uphold.com
