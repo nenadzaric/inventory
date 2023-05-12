@@ -58,6 +58,8 @@ compatibility.forescout.com
 confluence.fsd.forescout.com
 connect.forescout.com
 core.forescoutcloud.net
+csotool.acceptance.forescoutcloud.net
+csotool.development.forescoutcloud.net
 csotools.acceptance.forescoutcloud.net
 csotools.development.forescoutcloud.net
 csotools.testing.forescoutcloud.net
@@ -65,6 +67,7 @@ dal2-bbkt-stg.fsd.forescout.com
 dal2-bitbucket-mirror.fsd.forescout.com
 dal2-bitbucket.fsd.forescout.com
 dal2-c-artf-prd.fsd.forescout.com
+dal2-c-artf-stg.fsd.forescout.com
 dal2-c-fsct1.fsd.forescout.com
 dal2-e-bbkt1.fsd.forescout.com
 dapi-ingest-db06.forescoutcloud.net
@@ -93,6 +96,7 @@ datapod-2-druid-query.production.forescoutcloud.net
 datapod-2-druid-query.testing.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
+dc-0secure.forescout.com
 dc-submission.forescout.com
 dc0-internal.forescout.com
 dc0-secure.forescout.com
@@ -103,6 +107,7 @@ dev2.eng.forescoutcloud.net
 development.forescoutcloud.net
 devicecloud.acceptance.forescoutcloud.net
 devicecloud.development.forescoutcloud.net
+devicecloud.development.forescoutcloud.net.development.forescoutcloud.net
 devicecloud.production.forescoutcloud.net
 devicecloud.testing.forescoutcloud.net
 docs-be.forescout.com
@@ -115,12 +120,14 @@ ein1-c-fsct1.fsd.forescout.com
 eng.forescoutcloud.net
 eyeextend.acceptance.forescoutcloud.net
 eyeextend.development.forescoutcloud.net
+eyeextend.development.forescoutcloud.net.development.forescoutcloud.net
 eyeextend.production.forescoutcloud.net
 eyeextend.testing.forescoutcloud.net
 eyesegment-internal.acceptance.forescoutcloud.net
 eyesegment-internal.development.forescoutcloud.net
 eyesegment-internal.production.forescoutcloud.net
 eyesegment-internal.testing.forescoutcloud.net
+eyesightx.development.forescoutcloud.net
 eyesightx.testing.forescoutcloud.net
 fem-eng.forescout.com
 fem-stage-inc.forescout.com
@@ -129,6 +136,7 @@ fisheye.fsd.forescout.com
 forescout.com
 forescoutcloud.net
 fs-artifactory.fsd.forescout.com
+fs-artifactoryf.fsd.forescout.com
 fs-bitbucket-stg.fsd.forescout.com
 fs-bitbucket.fsd.forescout.com
 fs-caeng-sra.forescout.com
@@ -254,6 +262,7 @@ sra.emea1.forescout.com
 sra.forescout.com
 sra.na1.forescout.com
 sra2.forescout.com
+staging.core.forescoutcloud.net
 staging.forescoutcloud.net
 streaming-api.iris.acceptance.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
@@ -290,6 +299,7 @@ tlv-guest.forescout.com
 tlv1-bbkt-stg.fsd.forescout.com
 tlv1-bitbucket.fsd.forescout.com
 trainingsurvey.forescout.com
+tsimms.staging.forescoutcloud.net
 unified.dev2.eng.forescoutcloud.net
 unified.test.eng.forescoutcloud.net
 updates.forescout.com
@@ -323,6 +333,8 @@ www.compatibility.forescout.com
 www.connect.forescout.com
 www.dal2-bbkt-stg.fsd.forescout.com
 www.dal2-bitbucket-mirror.fsd.forescout.com
+www.dal2-c-artf-stg.fsd.forescout.com
+www.dal2-c-fsct1.fsd.forescout.com
 www.datapod-1-ingest.forescoutcloud.net
 www.datapod-1-query.forescoutcloud.net
 www.dc-submission.forescout.com
@@ -337,6 +349,7 @@ www.fscalab.forescout.com
 www.fstxlab.forescout.com
 www.gitlab-cloud.fsd.forescout.com
 www.hq-ap-master.fsd.forescout.com
+www.infosec-gitlab.fsd.forescout.com
 www.jira.fsd.forescout.com
 www.jsm-us-prd.forescout.com
 www.jsm-us.forescout.com
@@ -358,6 +371,7 @@ www.seg.forescout.com
 www.silentdefense-training.forescout.com
 www.sjc1-bldreposrv.fsd.forescout.com
 www.sjc1-pocbldrepo.fsd.forescout.com
+www.sjc2-c-fsem1.fsd.forescout.com
 www.snapshot.forescout.com
 www.sra.forescout.com
 www.support.forescout.com

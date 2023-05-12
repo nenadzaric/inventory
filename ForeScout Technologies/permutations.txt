@@ -5,5 +5,7 @@ api.forescout.com
 docs.forescout.com
 forescout.com
 forescoutcloud.net
+info.forescout.com
 mail.forescout.com
+sra2.forescout.com
 www.forescout.com
