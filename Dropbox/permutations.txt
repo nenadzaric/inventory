@@ -1,4 +1,5 @@
 admin.hellosign.com
+admin.helloworks.com
 api.hellofax.com
 api.hellosign.com
 app.hellofax.com
@@ -6,7 +7,9 @@ app.hellosign.com
 blog.hellofax.com
 blog.hellosign.com
 cdn.hellosign.com
+cdn.helloworks.com
 developers.hellosign.com
+docs.helloworks.com
 docsend.com
 dropboxforum.com
 faq.hellosign.com
@@ -18,5 +21,8 @@ info.hellosign.com
 info2.hellosign.com
 mysql.hellosign.com
 review.hellosign.com
+www.blog.hellosign.com
+www.docsend.com
 www.hellofax.com
 www.hellosign.com
+www.helloworks.com

@@ -47,6 +47,7 @@ anjuna.docsend.com
 anrkeyx.docsend.com
 antler.docsend.com
 anyperk.docsend.com
+apex.docsend.com
 api.hellofax.com
 api.hellosign.com
 api.helloworks.com
@@ -67,6 +68,7 @@ artemiscm.docsend.com
 artilinki.docsend.com
 aspireiq.docsend.com
 assemble.docsend.com
+assets.docsend.com
 assettv.docsend.com
 assettvus.docsend.com
 astronaut.docsend.com
@@ -885,6 +887,7 @@ suisseo.docsend.com
 sunshine.docsend.com
 superangel.docsend.com
 supportlogic.docsend.com
+sustainax.docsend.com
 suzy.docsend.com
 sv.hellosign.com
 sv.smartling-mar-stg.hellosign.com
@@ -992,6 +995,7 @@ voxburner.docsend.com
 voyager.docsend.com
 voziq.docsend.com
 vtex.docsend.com
+vw.docsend.com
 w.hellofax.com
 w.hellosign.com
 waldophotos.docsend.com
