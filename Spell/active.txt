@@ -1,2 +1,3 @@
+medialand.sales.spell.run
 spell.run
 videoclick.ci.spell.run
