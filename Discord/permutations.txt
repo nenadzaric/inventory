@@ -1,5 +1,0 @@
-app.discord.com
-blog.discord.com
-discord.com
-mail.discord.com
-www.discord.com

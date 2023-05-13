@@ -1,5 +1,0 @@
-blog.whitebit.com
-cdn.whitebit.com
-internal.whitebit.com
-payment.whitebit.com
-whitebit.com

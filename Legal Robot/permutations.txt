@@ -1,6 +1,0 @@
-fonts-dev.legalrobot.com
-fonts-test.legalrobot.com
-legalrobot-test.com
-legalrobot.com
-mail.legalrobot.com
-www.legalrobot.com

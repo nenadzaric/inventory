@@ -1,8 +1,0 @@
-mta-sts.sidn.nl
-sidn.nl
-staging.api.sidn.nl
-staging.events.sidn.nl
-staging.publications.sidn.nl
-synctest.sidn.nl
-www.events.sidn.nl
-www.sidn.nl

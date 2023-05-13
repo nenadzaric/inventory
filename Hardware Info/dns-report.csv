@@ -1,8 +1,0 @@
-new,host,a,cname,soa,status_code,mx,ns,txt,caa,cdn,cdn-name
-,aa.hwigroup.com,35.205.232.200,,"ns-1743.awsdns-25.co.uk, awsdns-hostmaster.amazon.com",NOERROR,,"ns-1743.awsdns-25.co.uk, ns-213.awsdns-26.com, ns-701.awsdns-23.net, ns-1384.awsdns-45.org",,,True,google
-,admin.hwigroup.com,87.233.92.27,nlwebserverssl.hwigroup.com,"ns-365.awsdns-45.com, awsdns-hostmaster.amazon.com",NOERROR,,,,,,
-,cygnus.hwigroup.com,87.233.92.3,,"ns-365.awsdns-45.com, awsdns-hostmaster.amazon.com",NOERROR,,,v=spf1 ip4:87.233.92.0/27 ip4:213.239.154.0/26 ip6:2001:9a8:0:e::/64 include:_spf.google.com include:aspmx.pardot.com -all,,,
-,hwigroup.com,87.233.92.28,,"ns-365.awsdns-45.com, awsdns-hostmaster.amazon.com",NOERROR,"primary.mail.pcextreme.nl, fallback.mail.pcextreme.nl","ns-1388.awsdns-45.org, ns-1848.awsdns-39.co.uk, ns-365.awsdns-45.com, ns-648.awsdns-17.net",v=spf1 ip4:87.233.92.0/27 ip4:213.239.154.0/26 ip6:2001:9a8:0:e::/64 include:_spf.google.com include:aspmx.pardot.com -all,"amazon.com, letsencrypt.org",,
-,mail.hwigroup.com,,,"ns-365.awsdns-45.com, awsdns-hostmaster.amazon.com",NOERROR,,,,,,
-,nlwebserverssl.hwigroup.com,87.233.92.27,,"ns-365.awsdns-45.com, awsdns-hostmaster.amazon.com",NOERROR,,,,,,
-,t.hwigroup.com,"54.78.247.68, 54.155.59.45, 52.213.168.85",hardware-sst.data.dpgmedia.cloud,"ns-157.awsdns-19.com, awsdns-hostmaster.amazon.com",NOERROR,,,,,,

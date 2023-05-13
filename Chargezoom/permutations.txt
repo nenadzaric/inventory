@@ -1,8 +1,0 @@
-api.payportal.net
-h-135-207-53-219drupal.payportal.net
-payportal.net
-qa-cpanel.payportal.net
-simply-potatoes-code.payportal.net
-simplycalenders.assets.payportal.net
-simplyclickedstats.payportal.net
-simplytapitblogs.payportal.net

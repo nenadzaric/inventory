@@ -1,8 +1,0 @@
-autoconfig.codeigniter.com
-autodiscover.codeigniter.com
-codeigniter.com
-forum.codeigniter.com
-mail.codeigniter.com
-wdc03-prd-pimqr-01.forum.codeigniter.com
-web-bucket-wwwexamplesbackup-meet-git.forum.codeigniter.com
-www.codeigniter.com

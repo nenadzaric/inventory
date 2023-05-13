@@ -1,7 +1,0 @@
-api.localizestaging.com
-app.localizestaging.com
-assets.localizestaging.com
-cdn.localizestaging.com
-localize.live
-localizestaging.com
-www.localizestaging.com

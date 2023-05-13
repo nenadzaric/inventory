@@ -1,9 +1,0 @@
-assets.gapinc.com
-cms.stitch.gapinc.com
-dev.media.gapinc.com
-gapinc.com
-live.gapinc.com
-media.gapinc.com
-stage.gapinc.com
-www.gapinc.com
-www2.gapinc.com

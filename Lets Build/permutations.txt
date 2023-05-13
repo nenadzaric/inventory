@@ -1,8 +1,0 @@
-admin.site-diary.letsbuild.com
-dev.site-diary.letsbuild.com
-developers.letsbuild.com
-info.letsbuild.com
-integrations-core.letsbuild.com
-integrations-dev.letsbuild.com
-letsbuild.com
-www.letsbuild.com

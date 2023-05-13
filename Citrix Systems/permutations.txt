@@ -1,9 +1,0 @@
-browser.cloud.com
-canaryservices-eu2024.citrixworkspacesapi.net
-cdn-eastus-release-amta-sts.citrixworkspacesapi.net
-citrixworkspacesapi.net
-cms-cws.citrixworkspacesapi.net
-core.citrixworkspacesapi.net
-dataprotectioninternal.citrixworkspacesapi.net
-logs-directory.citrixworkspacesapi.net
-partner.citrixworkspacesapi.net

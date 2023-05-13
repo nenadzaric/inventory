@@ -1,8 +1,0 @@
-asset.winni.in
-assets.winni.in
-blog.winni.in
-blogassets.winni.in
-mail.winni.in
-staging.winni.in
-winni.in
-www.winni.in

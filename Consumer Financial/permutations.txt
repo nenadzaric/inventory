@@ -1,3 +1,0 @@
-api.consumerfinance.gov
-consumerfinance.gov
-dev.exam.consumerfinance.gov

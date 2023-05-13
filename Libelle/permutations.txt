@@ -1,8 +1,0 @@
-beta.libelle.nl
-esales-test.libelle.nl
-img-acc.libelle.nl
-libelle.nl
-mobile.libelle.nl
-staging-voordeelpas.libelle.nl
-staging.forum.libelle.nl
-wp.libelle.nl

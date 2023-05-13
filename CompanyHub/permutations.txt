@@ -1,4 +1,0 @@
-api.companyhub.com
-app.companyhub.com
-companyhub.com
-www.companyhub.com

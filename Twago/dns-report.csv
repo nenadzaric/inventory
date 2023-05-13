@@ -1,3 +1,0 @@
-new,host,a,soa,txt,status_code,cname,mx
-[x],itprojects.talent-community.com,"52.214.213.171, 52.212.97.152","ns11.constellix.com, dns.constellix.com",v=spf1 ip4:149.72.54.14 include:sendgrid.net include:_spf.google.com include:service-now.com -all,NOERROR,,
-[x],smtp.itprojects.talent-community.com,,"aisha.ns.cloudflare.com, dns.cloudflare.com",v=spf1 ip4:149.72.54.14 -all,NOERROR,u24190309.wl060.sendgrid.net,mx.sendgrid.net

@@ -1,7 +1,0 @@
-docs.scholarfundwa.org
-portals-dev.scholarfund.io
-portals-prod.scholarfund.io
-scholarfund.io
-scholarfundwa.org
-www.scholarfund.io
-www.scholarfundwa.org

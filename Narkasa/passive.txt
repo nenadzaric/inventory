@@ -1,5 +1,0 @@
-api.narkasa.com
-apidocs.narkasa.com
-narkasa.com
-support.narkasa.com
-www.narkasa.com

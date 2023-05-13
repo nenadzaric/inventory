@@ -1,6 +1,0 @@
-app.gobugfree.com
-backend.gobugfree.com
-cms.gobugfree.com
-gobugfree.com
-media.gobugfree.com
-www.gobugfree.com

@@ -1,9 +1,0 @@
-api.exmo.com
-api.exmo.me
-exmo.com
-exmo.me
-info.exmo.com
-info.exmo.me
-mail.exmo.me
-www.exmo.com
-www.exmo.me

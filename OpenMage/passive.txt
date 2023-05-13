@@ -1,4 +1,0 @@
-demo.openmage.org
-migrate.openmage.org
-openmage.org
-www.openmage.org

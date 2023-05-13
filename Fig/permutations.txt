@@ -1,5 +1,0 @@
-blog.fig.co
-fig.co
-staging.fig.co
-walyntelmpp6.developers.fig.co
-www.fig.co

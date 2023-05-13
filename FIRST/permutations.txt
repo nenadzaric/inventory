@@ -1,8 +1,0 @@
-api.first.org
-cloud.first.org
-edx1.first.org
-first.org
-media.first.org
-proxy.first.org
-stage.first.org
-www.first.org

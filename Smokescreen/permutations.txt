@@ -1,5 +1,0 @@
-cloud.smokescreen.io
-ice2.smokescreen.io
-rs1.smokescreen.io
-smokescreen.io
-www.smokescreen.io

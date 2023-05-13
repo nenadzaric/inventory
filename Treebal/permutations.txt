@@ -1,8 +1,0 @@
-bamboo11.search.treebal.green
-dev.engineering.treebal.green
-element.log.treebal.green
-element.mssql.treebal.green
-image.api-apicmsdb1-origin.treebal.green
-treebal.green
-wp.pro.treebal.green
-www1-mgot7.treebal.green

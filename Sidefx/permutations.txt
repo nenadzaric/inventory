@@ -1,5 +1,0 @@
-docs.sidefx.com
-internal.sidefx.com
-media.sidefx.com
-service.sidefx.com
-sidefx.com

@@ -1,7 +1,0 @@
-account-api.protonvpn.com
-partners-test.protonvpn.com
-protonvpn.ch
-protonvpn.com
-www.partners.protonvpn.com
-www.protonvpn.ch
-www.protonvpn.com

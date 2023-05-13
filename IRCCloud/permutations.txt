@@ -1,7 +1,0 @@
-api.irccloud.com
-blog.irccloud.com
-irccloud-cdn.com
-irccloud.com
-vpn.ec2-us-west-1.irccloud.com
-vpn.ec2-us-west-2.irccloud.com
-www.irccloud.com

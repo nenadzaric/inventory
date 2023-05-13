@@ -1,5 +1,0 @@
-api.coinsbit.io
-backend.coinsbit.io
-coinsbit.io
-storeapi.coinsbit.io
-www.coinsbit.io

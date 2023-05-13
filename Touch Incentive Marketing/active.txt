@@ -1,5 +1,0 @@
-autodiscover.touchincentive.com
-dev.touchincentive.com
-staging.touchincentive.com
-touchincentive.com
-www.touchincentive.com

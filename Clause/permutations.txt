@@ -1,5 +1,0 @@
-api.clausestaging.com
-api.us-west-2.clausestaging.com
-blog.clausestaging.com
-clausestaging.com
-login.clausestaging.com

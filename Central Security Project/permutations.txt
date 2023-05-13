@@ -1,5 +1,0 @@
-central-s3.maven.org
-maven.org
-search.maven.org
-staging.repo1.maven.org
-www.maven.org

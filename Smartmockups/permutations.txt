@@ -1,5 +1,0 @@
-api.smartmockups.com
-beta.smartmockups.com
-blog.smartmockups.com
-smartmockups.com
-www.smartmockups.com

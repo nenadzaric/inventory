@@ -1,9 +1,0 @@
-api.bitget.com
-appapi.bitget.com
-bitget.com
-blog.bitget.com
-eureka1.bitget.com
-mta-sts.bitget.com
-partner.bitget.com
-proxy.bitget.com
-www.bitget.com

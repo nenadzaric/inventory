@@ -1,3 +1,0 @@
-docs.insolar.io
-insolar.io
-test.insolar.io

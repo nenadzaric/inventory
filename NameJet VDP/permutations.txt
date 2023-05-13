@@ -1,8 +1,0 @@
-api.namejet.com
-atlas.namejet.com
-customerservice-qa.namejet.com
-namejet.com
-qa-atlas.namejet.com
-stage.namejet.com
-test.namejet.com
-www.namejet.com

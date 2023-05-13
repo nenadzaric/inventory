@@ -1,4 +1,0 @@
-api.cfptime.org
-beta.cfptime.org
-cfptime.org
-www.cfptime.org

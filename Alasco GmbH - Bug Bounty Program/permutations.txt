@@ -1,8 +1,0 @@
-alasco.de
-alasco.rocks
-api-staging.alasco.rocks
-app-staging.alasco.rocks
-app.alasco.de
-developer.alasco.de
-login.alasco.de
-login.alasco.rocks

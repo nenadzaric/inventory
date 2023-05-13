@@ -1,6 +1,0 @@
-new,host,a,status_code,aaaa,soa,cdn,cdn-name,mx,ns,txt,cname
-[x],autodiscover.omgnepal.com,"40.99.204.152, 52.97.250.200, 40.101.12.56, 40.101.121.8, 40.101.121.40, 40.99.204.248, 52.98.231.248, 40.101.18.232",NOERROR,"2603:1026:c0d:c1f::8, 2603:1026:c0d:828::8, 2603:1026:c0d:81a::8, 2603:1026:c0d:c2d::8","ns1-34.azure-dns.com, azuredns-hostmaster.microsoft.com, ns1-ms-acdc.office.com, hostmaster.microsoft.com",,,,,,"autodiscover.outlook.com, atod-g2.tm-4.office.com, autod.ms-acdc-autod.office.com"
-[x],omgnepal.com,"188.114.96.0, 188.114.97.0",NOERROR,"2a06:98c1:3121::, 2a06:98c1:3120::","kay.ns.cloudflare.com, dns.cloudflare.com",True,cloudflare,"omgnepal-com.mail.protection.outlook.com, 192.254.233.116","kay.ns.cloudflare.com, rick.ns.cloudflare.com","google-site-verification=ebgTG_NYeuA8kIq7bbYm6KiaiOo84LwuzvdiBPEwioA, MS=ms93571300, v=spf1 include:spf.protection.outlook.com -all",
-[x],ubanmag.omgnepal.com,54.144.128.85,NOERROR,,,,,,,,
-[x],webdisk.omgnepal.com,54.144.128.85,NOERROR,,,,,,,,
-[x],www.omgnepal.com,"188.114.96.3, 188.114.97.3",NOERROR,"2a06:98c1:3120::3, 2a06:98c1:3121::3","kay.ns.cloudflare.com, dns.cloudflare.com",True,cloudflare,,,,

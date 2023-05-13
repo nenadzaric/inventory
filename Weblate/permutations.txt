@@ -1,3 +1,0 @@
-docs.weblate.org
-weblate.org
-www.weblate.org

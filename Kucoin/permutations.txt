@@ -1,8 +1,0 @@
-api-futures.kucoin.com
-api.kucoin.com
-assets-cdn.kucoin.com
-assets-v2.kucoin.com
-autodiscover.corp.kucoin.com
-autodiscover.partner.kucoin.com
-kucoin.com
-www.kucoin.com

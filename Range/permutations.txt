@@ -1,9 +1,0 @@
-admin.back.range.co
-admin.range.co
-api.range.co
-faq.range.co
-mta-sts.range.co
-o1.ptr5640.range.co
-range.co
-www-1-0office.range.co
-www.range.co

@@ -1,7 +1,0 @@
-assets-app-cdn.moneybird.com
-assets-rs-cdn.moneybird.com
-assets.moneybird.com
-developer.moneybird.com
-moneybird.com
-moneybirdstorage.com
-www.moneybird.com

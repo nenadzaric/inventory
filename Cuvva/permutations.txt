@@ -1,9 +1,0 @@
-admin.corp.cuvva.co
-api.prod.cuv-prod.app
-blog.cuvva.co
-content.cuvva.com
-cuv-prod.app
-cuvva.co
-cuvva.com
-www.cuvva.co
-www.cuvva.com
